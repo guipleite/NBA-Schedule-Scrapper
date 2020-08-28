@@ -2,6 +2,7 @@ import mechanicalsoup
 from requests_html import HTMLSession
 import dateutil.parser
 import datetime
+import sys
 
 def get_games(date):
     '''
@@ -46,8 +47,6 @@ def get_games(date):
 
         gameIndex+=1
 
-    print(games_dict)
-
     return games_dict
 
 def get_results(date):
@@ -91,8 +90,6 @@ def get_results(date):
 
         gameIndex+=1
 
-    print(games_dict)
-
     return games_dict
 
 def main(date):
@@ -109,20 +106,16 @@ def main(date):
 
     #Checking if the given date is in the past
     if now.year > int(date_split[2]) or now.month > int(date_split[1]) or now.day > int(date_split[0]):
-        get_results(date)    
+        return get_results(date)    
 
     else:
-        get_games(date)
+        return get_games(date)
 
 if __name__ == "__main__":
 
-    
     session = HTMLSession()
     browser = mechanicalsoup.StatefulBrowser()
     browser.addheaders = [('User-agent', 'Firefox')]
 
-
-    date = "25/08/2020"
-
-    main(date)
+    print(main(str(sys.argv[1])))
 
