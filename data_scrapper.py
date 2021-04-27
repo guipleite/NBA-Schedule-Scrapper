@@ -1,4 +1,5 @@
 import mechanicalsoup
+# from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 import dateutil.parser
 import datetime
@@ -21,31 +22,51 @@ def get_games(date):
     browser.follow_link(schedule_link)
 
     page = browser.get_current_page() # get the page source code
-
     games = page.find(class_="schedule has-team-logos align-left") # select only the tag that contains the games' info
-
     desc_all = games.find_all('small') # Game description
 
-    for game in games.find_all(class_="has-results"):
-        teams = []
-        teams_t = game.find_all('span')  # Locate the team names
+    # for game in games.find_all(class_="has-results"):
+    #     teams = []
+    #     teams_t = game.find_all('span')  # Locate the team names
 
-        # Cleanig up the  tags, etc...
-        for team in teams_t:
-            teams.append(str(team)[6:-7])
+    #     # Cleanig up the  tags, etc...
+    #     for team in teams_t:
+    #         teams.append(str(team)[6:-7])
 
-        teams.reverse() # Inverts the order to use the Home vs. Away format
+    #     teams.reverse() # Inverts the order to use the Home vs. Away format
        
-        time_and_id = str(game.find_all('td')[2]) # Locates a tag that contains both the game ID and time
+    #     time_and_id = str(game.find_all('td')[2]) # Locates a tag that contains both the game ID and time
     
-        time_ISO  = time_and_id[41:-107] # Isolates the time the game will happen
-        time = str(dateutil.parser.parse(time_ISO))[:-9] # Converts date time from ISO 8601:
+    #     time_ISO  = time_and_id[41:-107] # Isolates the time the game will happen
+    #     time = str(dateutil.parser.parse(time_ISO))[:-9] # Converts date time from ISO 8601:
 
-        gameId = str(time_and_id[110:-46]) # Isolates the game ID
+    #     gameId = str(time_and_id[110:-46]) # Isolates the game ID
 
-        games_dict[gameId] = teams , time , str(desc_all[gameIndex])[7:-8] # Adds the game to a dictionary using the ID as key
+    #     games_dict[gameId] = teams , time  # Adds the game to a dictionary using the ID as key
 
-        gameIndex+=1
+    #     gameIndex+=1
+
+    # return games_dict
+    for game in games.find_all('tr'):
+        teams = []
+
+        contents = game.find_all('td')
+        for content in contents:
+            for td in content.find_all('abbr'):
+                # print(td.get('title'))
+                teams.append(td.get('title'))
+            # print(content)
+
+        if contents:
+            element_list = str(contents[2]).split('>')
+            gameId = str(element_list[1][52:-36]) # Isolates the game ID
+            date = str(element_list[0][41:-1]) # Isolates the result
+            time = str(dateutil.parser.parse(date))[:-9] # Converts date time from ISO 8601:
+
+            teams.reverse() # Inverts the order to use the Home vs. Away format
+            games_dict[gameId] = teams , time # Adds the game to a dictionary using the ID as key
+
+            gameIndex+=1
 
     return games_dict
 
@@ -66,29 +87,27 @@ def get_results(date):
     browser.follow_link(schedule_link)
 
     page = browser.get_current_page() # get the page source code
-
     games = page.find(class_="schedule has-team-logos align-left") # select only the tag that contains the games' info
 
-    desc_all = games.find_all('small') # Game description
-
-    for game in games.find_all(class_="has-results"):
+    for game in games.find_all('tr'):
         teams = []
-        teams_t = game.find_all('span')  # Locate the team names
 
-        # Cleanig up the  tags, etc...
-        for team in teams_t:
-            teams.append(str(team)[6:-7])
+        contents = game.find_all('td')
+        for content in contents:
+            for td in content.find_all('abbr'):
+                # print(td.get('title'))
+                teams.append(td.get('title'))
+            # print(content)
 
-        teams.reverse() # Inverts the order to use the Home vs. Away format
-        
-        result_and_id = game.find_all('td') # Locates a tag that contains both the game ID and the result
-        element_list = str(result_and_id[2]).split('>')
-        gameId = str(element_list[1][26:-37]) # Isolates the game ID
-        result = str(element_list[2][:-3]) # Isolates the result
+        if contents:
+            element_list = str(contents[2]).split('>')
+            gameId = str(element_list[1][28:-37]) # Isolates the game ID
+            result = str(element_list[2][:-3]) # Isolates the result
 
-        games_dict[gameId] = teams , result , str(desc_all[gameIndex])[7:-8] # Adds the game to a dictionary using the ID as key
+            teams.reverse() # Inverts the order to use the Home vs. Away format
+            games_dict[gameId] = teams , result # Adds the game to a dictionary using the ID as key
 
-        gameIndex+=1
+            gameIndex+=1
 
     return games_dict
 
@@ -117,5 +136,7 @@ if __name__ == "__main__":
     browser = mechanicalsoup.StatefulBrowser()
     browser.addheaders = [('User-agent', 'Firefox')]
 
-    print(main(str(sys.argv[1])))
+    # print(main(str(sys.argv[1])))
+    print(main(str("28/04/2021")))
+
 
