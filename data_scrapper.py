@@ -4,6 +4,8 @@ from requests_html import HTMLSession
 import dateutil.parser
 import datetime
 import sys
+import json
+import pandas as pd
 
 def get_games(date):
     '''
@@ -111,7 +113,17 @@ if __name__ == "__main__":
     browser = mechanicalsoup.StatefulBrowser()
     browser.addheaders = [('User-agent', 'Firefox')]
 
-    # print(main(str(sys.argv[1])))
-    print(main(str("28/04/2021")))
+    try:
+        print(main(str(sys.argv[1])))
+    except:
+        x = main(str("28/04/2021"))
+        print(x)
 
 
+    
+
+
+        df = pd.DataFrame.from_dict(x,orient='index')
+        print(df)
+
+        df.to_csv('./games280421.csv')
