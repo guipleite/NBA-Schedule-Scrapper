@@ -1,0 +1,677 @@
+Game_ID,Result,Home,Away,Date,Won,Won_Points,Lost,Lost_Points,Home_Won
+401266805,"BKN 125, GS 99",Brooklyn Nets,Golden State Warriors,20201222,Brooklyn Nets,125,Golden State Warriors,99,Yes
+401266806,"LAC 116, LAL 109",Los Angeles Lakers,LA Clippers,20201222,LA Clippers,116,Los Angeles Lakers,109,No
+401266794,"MIA 111, NO 98",Miami Heat,New Orleans Pelicans,20201225,Miami Heat,111,New Orleans Pelicans,98,Yes
+401266797,"MIL 138, GS 99",Milwaukee Bucks,Golden State Warriors,20201225,Milwaukee Bucks,138,Golden State Warriors,99,Yes
+401266798,"BKN 123, BOS 95",Boston Celtics,Brooklyn Nets,20201225,Brooklyn Nets,123,Boston Celtics,95,No
+401266799,"LAL 138, DAL 115",Los Angeles Lakers,Dallas Mavericks,20201225,Los Angeles Lakers,138,Dallas Mavericks,115,Yes
+401266795,"LAC 121, DEN 108",Denver Nuggets,LA Clippers,20201225,LA Clippers,121,Denver Nuggets,108,No
+401267181,"ATL 122, MEM 112",Memphis Grizzlies,Atlanta Hawks,20201226,Atlanta Hawks,122,Memphis Grizzlies,112,No
+401267182,"OKC 109, CHA 107",Charlotte Hornets,Oklahoma City Thunder,20201226,Oklahoma City Thunder,109,Charlotte Hornets,107,No
+401267183,"CLE 128, DET 119 (2OT)",Detroit Pistons,Cleveland Cavaliers,20201226,Cleveland Cavaliers,128,Detroit Pistons,119,No
+401267184,"ORL 130, WSH 120",Washington Wizards,Orlando Magic,20201226,Orlando Magic,130,Washington Wizards,120,No
+401267185,"PHI 109, NY 89",New York Knicks,Philadelphia 76ers,20201226,Philadelphia 76ers,109,New York Knicks,89,No
+401267186,"IND 125, CHI 106",Chicago Bulls,Indiana Pacers,20201226,Indiana Pacers,125,Chicago Bulls,106,No
+401267187,"SA 119, TOR 114",San Antonio Spurs,Toronto Raptors,20201226,San Antonio Spurs,119,Toronto Raptors,114,Yes
+401267188,"MIN 116, UTAH 111",Utah Jazz,Minnesota Timberwolves,20201226,Minnesota Timberwolves,116,Utah Jazz,111,No
+401267189,"POR 128, HOU 126 (OT)",Portland Trail Blazers,Houston Rockets,20201226,Portland Trail Blazers,128,Houston Rockets,126,Yes
+401267190,"SAC 106, PHX 103",Sacramento Kings,Phoenix Suns,20201226,Sacramento Kings,106,Phoenix Suns,103,Yes
+401267191,"DAL 124, LAC 73",LA Clippers,Dallas Mavericks,20201227,Dallas Mavericks,124,LA Clippers,73,No
+401267192,"CHA 106, BKN 104",Charlotte Hornets,Brooklyn Nets,20201227,Charlotte Hornets,106,Brooklyn Nets,104,Yes
+401267193,"ORL 120, WSH 113",Washington Wizards,Orlando Magic,20201227,Orlando Magic,120,Washington Wizards,113,No
+401267194,"NO 98, SA 95",New Orleans Pelicans,San Antonio Spurs,20201227,New Orleans Pelicans,98,San Antonio Spurs,95,Yes
+401267195,"CLE 118, PHI 94",Cleveland Cavaliers,Philadelphia 76ers,20201227,Cleveland Cavaliers,118,Philadelphia 76ers,94,Yes
+401267196,"NY 130, MIL 110",New York Knicks,Milwaukee Bucks,20201227,New York Knicks,130,Milwaukee Bucks,110,Yes
+401267197,"IND 108, BOS 107",Indiana Pacers,Boston Celtics,20201227,Indiana Pacers,108,Boston Celtics,107,Yes
+401267198,"GS 129, CHI 128",Chicago Bulls,Golden State Warriors,20201227,Golden State Warriors,129,Chicago Bulls,128,No
+401267199,"PHX 116, SAC 100",Sacramento Kings,Phoenix Suns,20201227,Phoenix Suns,116,Sacramento Kings,100,No
+401267200,"LAL 127, MIN 91",Los Angeles Lakers,Minnesota Timberwolves,20201227,Los Angeles Lakers,127,Minnesota Timberwolves,91,Yes
+401267201,"ATL 128, DET 120",Atlanta Hawks,Detroit Pistons,20201228,Atlanta Hawks,128,Detroit Pistons,120,Yes
+401267202,"MEM 116, BKN 111 (OT)",Brooklyn Nets,Memphis Grizzlies,20201228,Memphis Grizzlies,116,Brooklyn Nets,111,No
+401267203,"UTAH 110, OKC 109",Oklahoma City Thunder,Utah Jazz,20201228,Utah Jazz,110,Oklahoma City Thunder,109,No
+401267204,"DEN 124, HOU 111",Denver Nuggets,Houston Rockets,20201228,Denver Nuggets,124,Houston Rockets,111,Yes
+401267205,"POR 115, LAL 107",Los Angeles Lakers,Portland Trail Blazers,20201228,Portland Trail Blazers,115,Los Angeles Lakers,107,No
+401267206,"NY 95, CLE 86",Cleveland Cavaliers,New York Knicks,20201229,New York Knicks,95,Cleveland Cavaliers,86,No
+401267207,"GS 116, DET 106",Detroit Pistons,Golden State Warriors,20201229,Golden State Warriors,116,Detroit Pistons,106,No
+401267208,"BOS 116, IND 111",Indiana Pacers,Boston Celtics,20201229,Boston Celtics,116,Indiana Pacers,111,No
+401267209,"PHI 100, TOR 93",Philadelphia 76ers,Toronto Raptors,20201229,Philadelphia 76ers,100,Toronto Raptors,93,Yes
+401267210,"CHI 115, WSH 107",Washington Wizards,Chicago Bulls,20201229,Chicago Bulls,115,Washington Wizards,107,No
+401267211,"MIL 144, MIA 97",Miami Heat,Milwaukee Bucks,20201229,Milwaukee Bucks,144,Miami Heat,97,No
+401267212,"ORL 118, OKC 107",Oklahoma City Thunder,Orlando Magic,20201229,Orlando Magic,118,Oklahoma City Thunder,107,No
+401267213,"PHX 111, NO 86",Phoenix Suns,New Orleans Pelicans,20201229,Phoenix Suns,111,New Orleans Pelicans,86,Yes
+401267214,"LAC 124, MIN 101",LA Clippers,Minnesota Timberwolves,20201229,LA Clippers,124,Minnesota Timberwolves,101,Yes
+401267215,"SAC 125, DEN 115",Sacramento Kings,Denver Nuggets,20201229,Sacramento Kings,125,Denver Nuggets,115,Yes
+401267216,"BOS 126, MEM 107",Boston Celtics,Memphis Grizzlies,20201230,Boston Celtics,126,Memphis Grizzlies,107,Yes
+401267217,"BKN 145, ATL 141",Brooklyn Nets,Atlanta Hawks,20201230,Brooklyn Nets,145,Atlanta Hawks,141,Yes
+401267218,"MIA 119, MIL 108",Miami Heat,Milwaukee Bucks,20201230,Miami Heat,119,Milwaukee Bucks,108,Yes
+401267219,"CHA 118, DAL 99",Dallas Mavericks,Charlotte Hornets,20201230,Charlotte Hornets,118,Dallas Mavericks,99,No
+401267220,"LAL 121, SA 107",San Antonio Spurs,Los Angeles Lakers,20201230,Los Angeles Lakers,121,San Antonio Spurs,107,No
+401267221,"LAC 128, POR 105",LA Clippers,Portland Trail Blazers,20201230,LA Clippers,128,Portland Trail Blazers,105,Yes
+401267222,"IND 119, CLE 99",Indiana Pacers,Cleveland Cavaliers,20201231,Indiana Pacers,119,Cleveland Cavaliers,99,Yes
+401267223,"CHI 133, WSH 130",Washington Wizards,Chicago Bulls,20201231,Chicago Bulls,133,Washington Wizards,130,No
+401267224,"PHI 116, ORL 92",Orlando Magic,Philadelphia 76ers,20201231,Philadelphia 76ers,116,Orlando Magic,92,No
+401267225,"HOU 122, SAC 119",Houston Rockets,Sacramento Kings,20201231,Houston Rockets,122,Sacramento Kings,119,Yes
+401267226,"TOR 100, NY 83",Toronto Raptors,New York Knicks,20201231,Toronto Raptors,100,New York Knicks,83,Yes
+401267227,"NO 113, OKC 80",Oklahoma City Thunder,New Orleans Pelicans,20201231,New Orleans Pelicans,113,Oklahoma City Thunder,80,No
+401267228,"PHX 106, UTAH 95",Utah Jazz,Phoenix Suns,20201231,Phoenix Suns,106,Utah Jazz,95,No
+401267229,"MEM 108, CHA 93",Charlotte Hornets,Memphis Grizzlies,20210101,Memphis Grizzlies,108,Charlotte Hornets,93,No
+401267230,"DET 96, BOS 93",Detroit Pistons,Boston Celtics,20210101,Detroit Pistons,96,Boston Celtics,93,Yes
+401267231,"DAL 93, MIA 83",Dallas Mavericks,Miami Heat,20210101,Dallas Mavericks,93,Miami Heat,83,Yes
+401267232,"ATL 114, BKN 96",Brooklyn Nets,Atlanta Hawks,20210101,Atlanta Hawks,114,Brooklyn Nets,96,No
+401267233,"MIL 126, CHI 96",Milwaukee Bucks,Chicago Bulls,20210101,Milwaukee Bucks,126,Chicago Bulls,96,Yes
+401267234,"WSH 130, MIN 109",Minnesota Timberwolves,Washington Wizards,20210101,Washington Wizards,130,Minnesota Timberwolves,109,No
+401267235,"LAL 109, SA 103",San Antonio Spurs,Los Angeles Lakers,20210101,Los Angeles Lakers,109,San Antonio Spurs,103,No
+401267236,"PHX 106, DEN 103",Denver Nuggets,Phoenix Suns,20210101,Phoenix Suns,106,Denver Nuggets,103,No
+401267237,"UTAH 106, LAC 100",Utah Jazz,LA Clippers,20210101,Utah Jazz,106,LA Clippers,100,Yes
+401267238,"POR 123, GS 98",Golden State Warriors,Portland Trail Blazers,20210101,Portland Trail Blazers,123,Golden State Warriors,98,No
+401267239,"HOU 102, SAC 94",Houston Rockets,Sacramento Kings,20210102,Houston Rockets,102,Sacramento Kings,94,Yes
+401267240,"NY 106, IND 102",Indiana Pacers,New York Knicks,20210102,New York Knicks,106,Indiana Pacers,102,No
+401267241,"OKC 108, ORL 99",Orlando Magic,Oklahoma City Thunder,20210102,Oklahoma City Thunder,108,Orlando Magic,99,No
+401267242,"PHI 127, CHA 112",Philadelphia 76ers,Charlotte Hornets,20210102,Philadelphia 76ers,127,Charlotte Hornets,112,Yes
+401267243,"CLE 96, ATL 91",Atlanta Hawks,Cleveland Cavaliers,20210102,Cleveland Cavaliers,96,Atlanta Hawks,91,No
+401267244,"NO 120, TOR 116",New Orleans Pelicans,Toronto Raptors,20210102,New Orleans Pelicans,120,Toronto Raptors,116,Yes
+401267245,"BOS 122, DET 120",Detroit Pistons,Boston Celtics,20210103,Boston Celtics,122,Detroit Pistons,120,No
+401267246,"WSH 123, BKN 122",Brooklyn Nets,Washington Wizards,20210103,Washington Wizards,123,Brooklyn Nets,122,No
+401267247,"LAL 108, MEM 94",Memphis Grizzlies,Los Angeles Lakers,20210103,Los Angeles Lakers,108,Memphis Grizzlies,94,No
+401267248,"DEN 124, MIN 109",Minnesota Timberwolves,Denver Nuggets,20210103,Denver Nuggets,124,Minnesota Timberwolves,109,No
+401267249,"UTAH 130, SA 109",San Antonio Spurs,Utah Jazz,20210103,Utah Jazz,130,San Antonio Spurs,109,No
+401267250,"CHI 118, DAL 108",Chicago Bulls,Dallas Mavericks,20210103,Chicago Bulls,118,Dallas Mavericks,108,Yes
+401267251,"LAC 112, PHX 107",Phoenix Suns,LA Clippers,20210103,LA Clippers,112,Phoenix Suns,107,No
+401267252,"GS 137, POR 122",Golden State Warriors,Portland Trail Blazers,20210103,Golden State Warriors,137,Portland Trail Blazers,122,Yes
+401267253,"ORL 103, CLE 83",Orlando Magic,Cleveland Cavaliers,20210104,Orlando Magic,103,Cleveland Cavaliers,83,Yes
+401267254,"PHI 118, CHA 101",Philadelphia 76ers,Charlotte Hornets,20210104,Philadelphia 76ers,118,Charlotte Hornets,101,Yes
+401267255,"NY 113, ATL 108",Atlanta Hawks,New York Knicks,20210104,New York Knicks,113,Atlanta Hawks,108,No
+401267256,"MIA 118, OKC 90",Miami Heat,Oklahoma City Thunder,20210104,Miami Heat,118,Oklahoma City Thunder,90,Yes
+401267257,"BOS 126, TOR 114",Toronto Raptors,Boston Celtics,20210104,Boston Celtics,126,Toronto Raptors,114,No
+401267258,"DAL 113, HOU 100",Houston Rockets,Dallas Mavericks,20210104,Dallas Mavericks,113,Houston Rockets,100,No
+401267259,"MIL 125, DET 115",Milwaukee Bucks,Detroit Pistons,20210104,Milwaukee Bucks,125,Detroit Pistons,115,Yes
+401267260,"IND 118, NO 116 (OT)",New Orleans Pelicans,Indiana Pacers,20210104,Indiana Pacers,118,New Orleans Pelicans,116,No
+401267261,"GS 137, SAC 106",Golden State Warriors,Sacramento Kings,20210104,Golden State Warriors,137,Sacramento Kings,106,Yes
+401267262,"BKN 130, UTAH 96",Brooklyn Nets,Utah Jazz,20210105,Brooklyn Nets,130,Utah Jazz,96,Yes
+401267263,"LAL 94, MEM 92",Memphis Grizzlies,Los Angeles Lakers,20210105,Los Angeles Lakers,94,Memphis Grizzlies,92,No
+401267264,"DEN 123, MIN 116",Denver Nuggets,Minnesota Timberwolves,20210105,Denver Nuggets,123,Minnesota Timberwolves,116,Yes
+401267265,"SA 116, LAC 113",LA Clippers,San Antonio Spurs,20210105,San Antonio Spurs,116,LA Clippers,113,No
+401267266,"CHI 111, POR 108",Portland Trail Blazers,Chicago Bulls,20210105,Chicago Bulls,111,Portland Trail Blazers,108,No
+401267267,"IND 114, HOU 107",Indiana Pacers,Houston Rockets,20210106,Indiana Pacers,114,Houston Rockets,107,Yes
+401267268,"ORL 105, CLE 94",Orlando Magic,Cleveland Cavaliers,20210106,Orlando Magic,105,Cleveland Cavaliers,94,Yes
+401267269,"PHI 141, WSH 136",Philadelphia 76ers,Washington Wizards,20210106,Philadelphia 76ers,141,Washington Wizards,136,Yes
+401267270,"CHA 102, ATL 94",Atlanta Hawks,Charlotte Hornets,20210106,Charlotte Hornets,102,Atlanta Hawks,94,No
+401267271,"BOS 107, MIA 105",Miami Heat,Boston Celtics,20210106,Boston Celtics,107,Miami Heat,105,No
+401267272,"NY 112, UTAH 100",New York Knicks,Utah Jazz,20210106,New York Knicks,112,Utah Jazz,100,Yes
+401267273,"MIL 130, DET 115",Milwaukee Bucks,Detroit Pistons,20210106,Milwaukee Bucks,130,Detroit Pistons,115,Yes
+401267274,"OKC 111, NO 110",New Orleans Pelicans,Oklahoma City Thunder,20210106,Oklahoma City Thunder,111,New Orleans Pelicans,110,No
+401267275,"PHX 123, TOR 115",Phoenix Suns,Toronto Raptors,20210106,Phoenix Suns,123,Toronto Raptors,115,Yes
+401267276,"LAC 108, GS 101",Golden State Warriors,LA Clippers,20210106,LA Clippers,108,Golden State Warriors,101,No
+401267277,"SAC 128, CHI 124",Sacramento Kings,Chicago Bulls,20210106,Sacramento Kings,128,Chicago Bulls,124,Yes
+401267278,"BKN 122, PHI 109",Brooklyn Nets,Philadelphia 76ers,20210107,Brooklyn Nets,122,Philadelphia 76ers,109,Yes
+401267279,"CLE 94, MEM 90",Memphis Grizzlies,Cleveland Cavaliers,20210107,Cleveland Cavaliers,94,Memphis Grizzlies,90,No
+401267280,"DAL 124, DEN 117 (OT)",Denver Nuggets,Dallas Mavericks,20210107,Dallas Mavericks,124,Denver Nuggets,117,No
+401267281,"SA 118, LAL 109",Los Angeles Lakers,San Antonio Spurs,20210107,San Antonio Spurs,118,Los Angeles Lakers,109,No
+401267282,"POR 135, MIN 117",Portland Trail Blazers,Minnesota Timberwolves,20210107,Portland Trail Blazers,135,Minnesota Timberwolves,117,Yes
+401267283,"DET 110, PHX 105 (OT)",Detroit Pistons,Phoenix Suns,20210108,Detroit Pistons,110,Phoenix Suns,105,Yes
+401267284,"BOS 116, WSH 107",Boston Celtics,Washington Wizards,20210108,Boston Celtics,116,Washington Wizards,107,Yes
+401267285,"OKC 101, NY 89",New York Knicks,Oklahoma City Thunder,20210108,Oklahoma City Thunder,101,New York Knicks,89,No
+401267286,"CHA 118, NO 110",New Orleans Pelicans,Charlotte Hornets,20210108,Charlotte Hornets,118,New Orleans Pelicans,110,No
+401267287,"HOU 132, ORL 90",Houston Rockets,Orlando Magic,20210108,Houston Rockets,132,Orlando Magic,90,Yes
+401267288,"MEM 115, BKN 110",Memphis Grizzlies,Brooklyn Nets,20210108,Memphis Grizzlies,115,Brooklyn Nets,110,Yes
+401267289,"UTAH 131, MIL 118",Milwaukee Bucks,Utah Jazz,20210108,Utah Jazz,131,Milwaukee Bucks,118,No
+401267290,"GS 115, LAC 105",Golden State Warriors,LA Clippers,20210108,Golden State Warriors,115,LA Clippers,105,Yes
+401267291,"LAL 117, CHI 115",Los Angeles Lakers,Chicago Bulls,20210108,Los Angeles Lakers,117,Chicago Bulls,115,Yes
+401267292,"TOR 144, SAC 123",Sacramento Kings,Toronto Raptors,20210108,Toronto Raptors,144,Sacramento Kings,123,No
+401267293,"DEN 115, PHI 103",Philadelphia 76ers,Denver Nuggets,20210109,Denver Nuggets,115,Philadelphia 76ers,103,No
+401267294,"CHA 113, ATL 105",Charlotte Hornets,Atlanta Hawks,20210109,Charlotte Hornets,113,Atlanta Hawks,105,Yes
+401267295,"PHX 125, IND 117",Indiana Pacers,Phoenix Suns,20210109,Phoenix Suns,125,Indiana Pacers,117,No
+401267296,"MIA 128, WSH 124",Washington Wizards,Miami Heat,20210109,Miami Heat,128,Washington Wizards,124,No
+401267297,"MIL 100, CLE 90",Milwaukee Bucks,Cleveland Cavaliers,20210109,Milwaukee Bucks,100,Cleveland Cavaliers,90,Yes
+401267298,"SA 125, MIN 122 (OT)",Minnesota Timberwolves,San Antonio Spurs,20210109,San Antonio Spurs,125,Minnesota Timberwolves,122,No
+401267299,"DAL 112, ORL 98",Dallas Mavericks,Orlando Magic,20210109,Dallas Mavericks,112,Orlando Magic,98,Yes
+401267300,"POR 125, SAC 99",Sacramento Kings,Portland Trail Blazers,20210109,Portland Trail Blazers,125,Sacramento Kings,99,No
+401267334,"PHI 125, MIA 108",Philadelphia 76ers,Miami Heat,20210114,Philadelphia 76ers,125,Miami Heat,108,Yes
+401267335,"TOR 111, CHA 108",Toronto Raptors,Charlotte Hornets,20210114,Toronto Raptors,111,Charlotte Hornets,108,Yes
+401267336,"HOU 109, SA 105",San Antonio Spurs,Houston Rockets,20210114,Houston Rockets,109,San Antonio Spurs,105,No
+401267337,"DEN 114, GS 104",Denver Nuggets,Golden State Warriors,20210114,Denver Nuggets,114,Golden State Warriors,104,Yes
+401267338,"IND 111, POR 87",Portland Trail Blazers,Indiana Pacers,20210114,Indiana Pacers,111,Portland Trail Blazers,87,No
+401267373,"DEN 119, OKC 101",Denver Nuggets,Oklahoma City Thunder,20210119,Denver Nuggets,119,Oklahoma City Thunder,101,Yes
+401267374,"UTAH 118, NO 102",Utah Jazz,New Orleans Pelicans,20210119,Utah Jazz,118,New Orleans Pelicans,102,Yes
+401267375,Postponed,Charlotte Hornets,Washington Wizards,20210120,,,,,
+401267376,"CLE 147, BKN 135 (2OT)",Cleveland Cavaliers,Brooklyn Nets,20210120,,,,,
+401267377,"DAL 124, IND 112",Indiana Pacers,Dallas Mavericks,20210120,,,,,
+401267378,"PHI 117, BOS 109",Philadelphia 76ers,Boston Celtics,20210120,,,,,
+401267379,"ATL 123, DET 115 (OT)",Atlanta Hawks,Detroit Pistons,20210120,,,,,
+401267380,"MIA 111, TOR 102",Toronto Raptors,Miami Heat,20210120,,,,,
+401267381,"ORL 97, MIN 96",Minnesota Timberwolves,Orlando Magic,20210120,,,,,
+401267382,"PHX 109, HOU 103",Houston Rockets,Phoenix Suns,20210120,,,,,
+401267383,"GS 121, SA 99",Golden State Warriors,San Antonio Spurs,20210120,,,,,
+401267384,"LAC 115, SAC 96",LA Clippers,Sacramento Kings,20210120,,,,,
+401267385,Postponed,Portland Trail Blazers,Memphis Grizzlies,20210120,,,,,
+401267386,"LAL 113, MIL 106",Milwaukee Bucks,Los Angeles Lakers,20210121,Los Angeles Lakers,113,Milwaukee Bucks,106,No
+401267387,"UTAH 129, NO 118",Utah Jazz,New Orleans Pelicans,20210121,Utah Jazz,129,New Orleans Pelicans,118,Yes
+401267388,"NY 119, GS 104",Golden State Warriors,New York Knicks,20210121,New York Knicks,119,Golden State Warriors,104,No
+401267403,"PHI 114, DET 110",Detroit Pistons,Philadelphia 76ers,20210123,Philadelphia 76ers,114,Detroit Pistons,110,No
+401267404,"BKN 128, MIA 124",Brooklyn Nets,Miami Heat,20210123,Brooklyn Nets,128,Miami Heat,124,Yes
+401267406,"MIN 120, NO 110",Minnesota Timberwolves,New Orleans Pelicans,20210123,Minnesota Timberwolves,120,New Orleans Pelicans,110,Yes
+401267402,"UTAH 127, GS 108",Utah Jazz,Golden State Warriors,20210123,Utah Jazz,127,Golden State Warriors,108,Yes
+401267405,"LAL 101, CHI 90",Chicago Bulls,Los Angeles Lakers,20210123,Los Angeles Lakers,101,Chicago Bulls,90,No
+401267407,"HOU 133, DAL 108",Dallas Mavericks,Houston Rockets,20210123,Houston Rockets,133,Dallas Mavericks,108,No
+401267408,"DEN 120, PHX 112 (2OT)",Phoenix Suns,Denver Nuggets,20210123,Denver Nuggets,120,Phoenix Suns,112,No
+401267428,"ATL 108, LAC 99",Atlanta Hawks,LA Clippers,20210126,Atlanta Hawks,108,LA Clippers,99,Yes
+401267429,"HOU 107, WSH 88",Houston Rockets,Washington Wizards,20210126,Houston Rockets,107,Washington Wizards,88,Yes
+401267430,"UTAH 108, NY 94",Utah Jazz,New York Knicks,20210126,Utah Jazz,108,New York Knicks,94,Yes
+401267447,"HOU 104, POR 101",Houston Rockets,Portland Trail Blazers,20210128,Houston Rockets,104,Portland Trail Blazers,101,Yes
+401267444,"DET 107, LAL 92",Detroit Pistons,Los Angeles Lakers,20210128,Detroit Pistons,107,Los Angeles Lakers,92,Yes
+401267445,"LAC 109, MIA 105",Miami Heat,LA Clippers,20210128,LA Clippers,109,Miami Heat,105,No
+401267446,"PHX 114, GS 93",Phoenix Suns,Golden State Warriors,20210128,Phoenix Suns,114,Golden State Warriors,93,Yes
+401267448,"CHA 108, IND 105",Charlotte Hornets,Indiana Pacers,20210129,Charlotte Hornets,108,Indiana Pacers,105,Yes
+401267450,"ATL 116, WSH 100",Washington Wizards,Atlanta Hawks,20210129,Atlanta Hawks,116,Washington Wizards,100,No
+401267451,"NY 102, CLE 81",New York Knicks,Cleveland Cavaliers,20210129,New York Knicks,102,Cleveland Cavaliers,81,Yes
+401267452,"SAC 126, TOR 124",Toronto Raptors,Sacramento Kings,20210129,Sacramento Kings,126,Toronto Raptors,124,No
+401267453,"NO 131, MIL 126",New Orleans Pelicans,Milwaukee Bucks,20210129,New Orleans Pelicans,131,Milwaukee Bucks,126,Yes
+401267449,"LAC 116, ORL 90",Orlando Magic,LA Clippers,20210129,LA Clippers,116,Orlando Magic,90,No
+401267454,"PHI 118, MIN 94",Minnesota Timberwolves,Philadelphia 76ers,20210129,Philadelphia 76ers,118,Minnesota Timberwolves,94,No
+401267455,"BKN 147, OKC 125",Oklahoma City Thunder,Brooklyn Nets,20210129,Brooklyn Nets,147,Oklahoma City Thunder,125,No
+401267456,"SA 119, DEN 109",San Antonio Spurs,Denver Nuggets,20210129,San Antonio Spurs,119,Denver Nuggets,109,Yes
+401267457,"UTAH 120, DAL 101",Utah Jazz,Dallas Mavericks,20210129,Utah Jazz,120,Dallas Mavericks,101,Yes
+401267458,"POR 123, CHI 122",Chicago Bulls,Portland Trail Blazers,20210130,Portland Trail Blazers,123,Chicago Bulls,122,No
+401267459,"CHA 126, MIL 114",Charlotte Hornets,Milwaukee Bucks,20210130,Charlotte Hornets,126,Milwaukee Bucks,114,Yes
+401267460,"HOU 126, NO 112",New Orleans Pelicans,Houston Rockets,20210130,Houston Rockets,126,New Orleans Pelicans,112,No
+401267461,"MIA 105, SAC 104",Miami Heat,Sacramento Kings,20210130,Miami Heat,105,Sacramento Kings,104,Yes
+401267462,"LAL 96, BOS 95",Boston Celtics,Los Angeles Lakers,20210130,Los Angeles Lakers,96,Boston Celtics,95,No
+401267464,"MEM 129, SA 112",San Antonio Spurs,Memphis Grizzlies,20210130,Memphis Grizzlies,129,San Antonio Spurs,112,No
+401267463,"PHX 111, DAL 105",Dallas Mavericks,Phoenix Suns,20210130,Phoenix Suns,111,Dallas Mavericks,105,No
+401267465,"GS 118, DET 91",Golden State Warriors,Detroit Pistons,20210130,Golden State Warriors,118,Detroit Pistons,91,Yes
+401267468,"LAC 129, NY 115",New York Knicks,LA Clippers,20210131,LA Clippers,129,New York Knicks,115,No
+401267466,"DEN 128, UTAH 117",Denver Nuggets,Utah Jazz,20210131,Denver Nuggets,128,Utah Jazz,117,Yes
+401267467,"PHI 119, IND 110",Indiana Pacers,Philadelphia 76ers,20210131,Philadelphia 76ers,119,Indiana Pacers,110,No
+401267469,"TOR 115, ORL 102",Toronto Raptors,Orlando Magic,20210131,Toronto Raptors,115,Orlando Magic,102,Yes
+401267470,"WSH 149, BKN 146",Washington Wizards,Brooklyn Nets,20210131,Washington Wizards,149,Brooklyn Nets,146,Yes
+401267471,"MIN 109, CLE 104",Minnesota Timberwolves,Cleveland Cavaliers,20210131,Minnesota Timberwolves,109,Cleveland Cavaliers,104,Yes
+401267473,"LAL 107, ATL 99",Atlanta Hawks,Los Angeles Lakers,20210201,,,,,
+401267474,"CHA 129, MIA 121 (OT)",Miami Heat,Charlotte Hornets,20210201,,,,,
+401267472,"CLE 100, MIN 98",Cleveland Cavaliers,Minnesota Timberwolves,20210201,,,,,
+401267475,"CHI 110, NY 102",Chicago Bulls,New York Knicks,20210201,,,,,
+401267476,"MIL 134, POR 106",Milwaukee Bucks,Portland Trail Blazers,20210201,,,,,
+401267477,"SAC 118, NO 109",New Orleans Pelicans,Sacramento Kings,20210201,,,,,
+401267478,"HOU 136, OKC 106",Oklahoma City Thunder,Houston Rockets,20210201,,,,,
+401267479,"PHX 109, DAL 108",Dallas Mavericks,Phoenix Suns,20210201,,,,,
+401267480,"MEM 133, SA 102",San Antonio Spurs,Memphis Grizzlies,20210201,,,,,
+401267481,Postponed,Denver Nuggets,Detroit Pistons,20210201,,,,,
+401267483,"TOR 123, ORL 108",Orlando Magic,Toronto Raptors,20210202,Toronto Raptors,123,Orlando Magic,108,No
+401267484,"BKN 124, LAC 120",Brooklyn Nets,LA Clippers,20210202,Brooklyn Nets,124,LA Clippers,120,Yes
+401267482,"IND 134, MEM 116",Indiana Pacers,Memphis Grizzlies,20210202,Indiana Pacers,134,Memphis Grizzlies,116,Yes
+401282283,"POR 132, WSH 121",Washington Wizards,Portland Trail Blazers,20210202,Portland Trail Blazers,132,Washington Wizards,121,No
+401267485,"UTAH 117, DET 105",Utah Jazz,Detroit Pistons,20210202,Utah Jazz,117,Detroit Pistons,105,Yes
+401267486,"BOS 111, GS 107",Golden State Warriors,Boston Celtics,20210202,Boston Celtics,111,Golden State Warriors,107,No
+401267487,"PHI 118, CHA 111",Charlotte Hornets,Philadelphia 76ers,20210203,Philadelphia 76ers,118,Charlotte Hornets,111,No
+401267489,"MIL 130, IND 110",Milwaukee Bucks,Indiana Pacers,20210203,Milwaukee Bucks,130,Indiana Pacers,110,Yes
+401267490,"DAL 122, ATL 116",Atlanta Hawks,Dallas Mavericks,20210203,Dallas Mavericks,122,Atlanta Hawks,116,No
+401267488,"LAC 121, CLE 99",Cleveland Cavaliers,LA Clippers,20210203,LA Clippers,121,Cleveland Cavaliers,99,No
+401267491,"WSH 103, MIA 100",Miami Heat,Washington Wizards,20210203,Washington Wizards,103,Miami Heat,100,No
+401267492,"NY 107, CHI 103",Chicago Bulls,New York Knicks,20210203,New York Knicks,107,Chicago Bulls,103,No
+401267493,"OKC 104, HOU 87",Oklahoma City Thunder,Houston Rockets,20210203,Oklahoma City Thunder,104,Houston Rockets,87,Yes
+401267494,"SA 111, MIN 108",San Antonio Spurs,Minnesota Timberwolves,20210203,San Antonio Spurs,111,Minnesota Timberwolves,108,Yes
+401267495,"NO 123, PHX 101",New Orleans Pelicans,Phoenix Suns,20210203,New Orleans Pelicans,123,Phoenix Suns,101,Yes
+401267496,"SAC 116, BOS 111",Sacramento Kings,Boston Celtics,20210203,Sacramento Kings,116,Boston Celtics,111,Yes
+401267498,"UTAH 112, ATL 91",Atlanta Hawks,Utah Jazz,20210204,Utah Jazz,112,Atlanta Hawks,91,No
+401267499,"GS 147, DAL 116",Dallas Mavericks,Golden State Warriors,20210204,Golden State Warriors,147,Dallas Mavericks,116,No
+401267497,"POR 121, PHI 105",Philadelphia 76ers,Portland Trail Blazers,20210204,Portland Trail Blazers,121,Philadelphia 76ers,105,No
+401267500,"HOU 115, MEM 103",Memphis Grizzlies,Houston Rockets,20210204,Houston Rockets,115,Memphis Grizzlies,103,No
+401267501,"LAL 114, DEN 93",Los Angeles Lakers,Denver Nuggets,20210204,Los Angeles Lakers,114,Denver Nuggets,93,Yes
+401267503,"NO 114, IND 113",Indiana Pacers,New Orleans Pelicans,20210205,New Orleans Pelicans,114,Indiana Pacers,113,No
+401267504,"ORL 123, CHI 119",Orlando Magic,Chicago Bulls,20210205,Orlando Magic,123,Chicago Bulls,119,Yes
+401267505,"TOR 123, BKN 117",Brooklyn Nets,Toronto Raptors,20210205,Toronto Raptors,123,Brooklyn Nets,117,No
+401267506,"MIL 123, CLE 105",Cleveland Cavaliers,Milwaukee Bucks,20210205,Milwaukee Bucks,123,Cleveland Cavaliers,105,No
+401267502,"UTAH 138, CHA 121",Charlotte Hornets,Utah Jazz,20210205,Utah Jazz,138,Charlotte Hornets,121,No
+401267507,"MIA 122, WSH 95",Miami Heat,Washington Wizards,20210205,Miami Heat,122,Washington Wizards,95,Yes
+401267508,"MIN 106, OKC 103",Oklahoma City Thunder,Minnesota Timberwolves,20210205,Minnesota Timberwolves,106,Oklahoma City Thunder,103,No
+401267509,"PHX 109, DET 92",Phoenix Suns,Detroit Pistons,20210205,Phoenix Suns,109,Detroit Pistons,92,Yes
+401267510,"BOS 119, LAC 115",LA Clippers,Boston Celtics,20210205,Boston Celtics,119,LA Clippers,115,No
+401267511,"NY 110, POR 99",New York Knicks,Portland Trail Blazers,20210206,New York Knicks,110,Portland Trail Blazers,99,Yes
+401267512,"SAC 119, DEN 114",Sacramento Kings,Denver Nuggets,20210206,Sacramento Kings,119,Denver Nuggets,114,Yes
+401267513,"CHI 118, ORL 92",Orlando Magic,Chicago Bulls,20210206,Chicago Bulls,118,Orlando Magic,92,No
+401267514,"PHI 124, BKN 108",Philadelphia 76ers,Brooklyn Nets,20210206,Philadelphia 76ers,124,Brooklyn Nets,108,Yes
+401267516,"ATL 132, TOR 121",Atlanta Hawks,Toronto Raptors,20210206,Atlanta Hawks,132,Toronto Raptors,121,Yes
+401267517,"MIL 124, CLE 99",Cleveland Cavaliers,Milwaukee Bucks,20210206,Milwaukee Bucks,124,Cleveland Cavaliers,99,No
+401267518,"SA 111, HOU 106",Houston Rockets,San Antonio Spurs,20210206,San Antonio Spurs,111,Houston Rockets,106,No
+401267519,"OKC 120, MIN 118",Oklahoma City Thunder,Minnesota Timberwolves,20210206,Oklahoma City Thunder,120,Minnesota Timberwolves,118,Yes
+401267520,"DAL 134, GS 132",Dallas Mavericks,Golden State Warriors,20210206,Dallas Mavericks,134,Golden State Warriors,132,Yes
+401267515,"NO 118, MEM 109",New Orleans Pelicans,Memphis Grizzlies,20210206,New Orleans Pelicans,118,Memphis Grizzlies,109,Yes
+401267521,"LAL 135, DET 129 (2OT)",Los Angeles Lakers,Detroit Pistons,20210206,Los Angeles Lakers,135,Detroit Pistons,129,Yes
+401267523,"UTAH 103, IND 95",Indiana Pacers,Utah Jazz,20210207,Utah Jazz,103,Indiana Pacers,95,No
+401267524,"MIA 109, NY 103",New York Knicks,Miami Heat,20210207,Miami Heat,109,New York Knicks,103,No
+401282286,"CHA 119, WSH 97",Charlotte Hornets,Washington Wizards,20210207,Charlotte Hornets,119,Washington Wizards,97,Yes
+401267525,"PHX 100, BOS 91",Phoenix Suns,Boston Celtics,20210207,Phoenix Suns,100,Boston Celtics,91,Yes
+401267526,"SAC 113, LAC 110",LA Clippers,Sacramento Kings,20210207,Sacramento Kings,113,LA Clippers,110,No
+401267527,"CHA 119, HOU 94",Charlotte Hornets,Houston Rockets,20210208,Charlotte Hornets,119,Houston Rockets,94,Yes
+401267528,"WSH 105, CHI 101",Chicago Bulls,Washington Wizards,20210208,Washington Wizards,105,Chicago Bulls,101,No
+401267529,"TOR 128, MEM 113",Memphis Grizzlies,Toronto Raptors,20210208,Toronto Raptors,128,Memphis Grizzlies,113,No
+401267530,"DAL 127, MIN 122",Dallas Mavericks,Minnesota Timberwolves,20210208,Dallas Mavericks,127,Minnesota Timberwolves,122,Yes
+401267531,"SA 105, GS 100",San Antonio Spurs,Golden State Warriors,20210208,San Antonio Spurs,105,Golden State Warriors,100,Yes
+401267532,"PHX 119, CLE 113",Phoenix Suns,Cleveland Cavaliers,20210208,Phoenix Suns,119,Cleveland Cavaliers,113,Yes
+401267533,"MIL 125, DEN 112",Denver Nuggets,Milwaukee Bucks,20210208,Milwaukee Bucks,125,Denver Nuggets,112,No
+401267534,"LAL 119, OKC 112 (OT)",Los Angeles Lakers,Oklahoma City Thunder,20210208,Los Angeles Lakers,119,Oklahoma City Thunder,112,Yes
+401267535,"DET 122, BKN 111",Detroit Pistons,Brooklyn Nets,20210209,Detroit Pistons,122,Brooklyn Nets,111,Yes
+401267536,"MIA 98, NY 96",Miami Heat,New York Knicks,20210209,Miami Heat,98,New York Knicks,96,Yes
+401267537,"NO 130, HOU 101",New Orleans Pelicans,Houston Rockets,20210209,New Orleans Pelicans,130,Houston Rockets,101,Yes
+401267538,"GS 114, SA 91",San Antonio Spurs,Golden State Warriors,20210209,Golden State Warriors,114,San Antonio Spurs,91,No
+401267539,"UTAH 122, BOS 108",Utah Jazz,Boston Celtics,20210209,Utah Jazz,122,Boston Celtics,108,Yes
+401267540,"POR 106, ORL 97",Portland Trail Blazers,Orlando Magic,20210209,Portland Trail Blazers,106,Orlando Magic,97,Yes
+401267541,"PHI 119, SAC 111",Sacramento Kings,Philadelphia 76ers,20210209,Philadelphia 76ers,119,Sacramento Kings,111,No
+401267542,"TOR 137, WSH 115",Washington Wizards,Toronto Raptors,20210210,Toronto Raptors,137,Washington Wizards,115,No
+401267544,"DAL 118, ATL 117",Dallas Mavericks,Atlanta Hawks,20210210,Dallas Mavericks,118,Atlanta Hawks,117,Yes
+401267543,"BKN 104, IND 94",Brooklyn Nets,Indiana Pacers,20210210,Brooklyn Nets,104,Indiana Pacers,94,Yes
+401267546,"MEM 130, CHA 114",Memphis Grizzlies,Charlotte Hornets,20210210,Memphis Grizzlies,130,Charlotte Hornets,114,Yes
+401267547,"LAC 119, MIN 112",Minnesota Timberwolves,LA Clippers,20210210,LA Clippers,119,Minnesota Timberwolves,112,No
+401267545,"CHI 129, NO 116",Chicago Bulls,New Orleans Pelicans,20210210,Chicago Bulls,129,New Orleans Pelicans,116,Yes
+401267548,"DEN 133, CLE 95",Denver Nuggets,Cleveland Cavaliers,20210210,Denver Nuggets,133,Cleveland Cavaliers,95,Yes
+401267549,"PHX 125, MIL 124",Phoenix Suns,Milwaukee Bucks,20210210,Phoenix Suns,125,Milwaukee Bucks,124,Yes
+401267550,"LAL 114, OKC 113 (OT)",Los Angeles Lakers,Oklahoma City Thunder,20210210,Los Angeles Lakers,114,Oklahoma City Thunder,113,Yes
+401267552,"MIA 101, HOU 94",Houston Rockets,Miami Heat,20210211,Miami Heat,101,Houston Rockets,94,No
+401267558,"BOS 120, TOR 106",Boston Celtics,Toronto Raptors,20210211,Boston Celtics,120,Toronto Raptors,106,Yes
+401267551,"IND 111, DET 95",Detroit Pistons,Indiana Pacers,20210211,Indiana Pacers,111,Detroit Pistons,95,No
+401267553,"GS 111, ORL 105",Golden State Warriors,Orlando Magic,20210211,Golden State Warriors,111,Orlando Magic,105,Yes
+401267554,"POR 118, PHI 114",Portland Trail Blazers,Philadelphia 76ers,20210211,Portland Trail Blazers,118,Philadelphia 76ers,114,Yes
+401267555,"CHA 120, MIN 114",Charlotte Hornets,Minnesota Timberwolves,20210212,Charlotte Hornets,120,Minnesota Timberwolves,114,Yes
+401267556,"NY 109, WSH 91",Washington Wizards,New York Knicks,20210212,New York Knicks,109,Washington Wizards,91,No
+401267557,"SA 125, ATL 114",Atlanta Hawks,San Antonio Spurs,20210212,San Antonio Spurs,125,Atlanta Hawks,114,No
+401267559,"DAL 143, NO 130",Dallas Mavericks,New Orleans Pelicans,20210212,Dallas Mavericks,143,New Orleans Pelicans,130,Yes
+401267560,"LAC 125, CHI 106",Chicago Bulls,LA Clippers,20210212,LA Clippers,125,Chicago Bulls,106,No
+401267572,"DET 108, BOS 102",Boston Celtics,Detroit Pistons,20210212,Detroit Pistons,108,Boston Celtics,102,No
+401267561,"DEN 97, OKC 95",Denver Nuggets,Oklahoma City Thunder,20210212,Denver Nuggets,97,Oklahoma City Thunder,95,Yes
+401267562,"UTAH 129, MIL 115",Utah Jazz,Milwaukee Bucks,20210212,Utah Jazz,129,Milwaukee Bucks,115,Yes
+401267563,"LAL 115, MEM 105",Los Angeles Lakers,Memphis Grizzlies,20210212,Los Angeles Lakers,115,Memphis Grizzlies,105,Yes
+401267564,"POR 129, CLE 110",Portland Trail Blazers,Cleveland Cavaliers,20210212,Portland Trail Blazers,129,Cleveland Cavaliers,110,Yes
+401267565,"ORL 123, SAC 112",Sacramento Kings,Orlando Magic,20210212,Orlando Magic,123,Sacramento Kings,112,No
+401267566,"PHX 120, PHI 111",Phoenix Suns,Philadelphia 76ers,20210213,Phoenix Suns,120,Philadelphia 76ers,111,Yes
+401267567,"IND 125, ATL 113",Atlanta Hawks,Indiana Pacers,20210213,Indiana Pacers,125,Atlanta Hawks,113,No
+401267568,"NY 121, HOU 99",New York Knicks,Houston Rockets,20210213,New York Knicks,121,Houston Rockets,99,Yes
+401267569,"BKN 134, GS 117",Golden State Warriors,Brooklyn Nets,20210213,Brooklyn Nets,134,Golden State Warriors,117,No
+401267570,"UTAH 112, MIA 94",Utah Jazz,Miami Heat,20210213,Utah Jazz,112,Miami Heat,94,Yes
+401282752,"WSH 104, BOS 91",Washington Wizards,Boston Celtics,20210214,Washington Wizards,104,Boston Celtics,91,Yes
+401267573,"MIN 116, TOR 112",Toronto Raptors,Minnesota Timberwolves,20210214,Minnesota Timberwolves,116,Toronto Raptors,112,No
+401267574,"SA 122, CHA 110",Charlotte Hornets,San Antonio Spurs,20210214,San Antonio Spurs,122,Charlotte Hornets,110,No
+401282833,"DET 123, NO 112",Detroit Pistons,New Orleans Pelicans,20210214,Detroit Pistons,123,New Orleans Pelicans,112,Yes
+401267571,"POR 121, DAL 118",Dallas Mavericks,Portland Trail Blazers,20210214,Portland Trail Blazers,121,Dallas Mavericks,118,No
+401267575,"OKC 114, MIL 109",Oklahoma City Thunder,Milwaukee Bucks,20210214,Oklahoma City Thunder,114,Milwaukee Bucks,109,Yes
+401267577,"PHX 109, ORL 90",Phoenix Suns,Orlando Magic,20210214,Phoenix Suns,109,Orlando Magic,90,Yes
+401267576,"DEN 122, LAL 105",Denver Nuggets,Los Angeles Lakers,20210214,Denver Nuggets,122,Los Angeles Lakers,105,Yes
+401267578,"MEM 124, SAC 110",Sacramento Kings,Memphis Grizzlies,20210214,Memphis Grizzlies,124,Sacramento Kings,110,No
+401267579,"LAC 128, CLE 111",LA Clippers,Cleveland Cavaliers,20210214,LA Clippers,128,Cleveland Cavaliers,111,Yes
+401267580,"CHI 120, IND 112 (OT)",Indiana Pacers,Chicago Bulls,20210215,Chicago Bulls,120,Indiana Pacers,112,No
+401267581,"WSH 131, HOU 119",Washington Wizards,Houston Rockets,20210215,Washington Wizards,131,Houston Rockets,119,Yes
+401267582,"NY 123, ATL 112",New York Knicks,Atlanta Hawks,20210215,New York Knicks,123,Atlanta Hawks,112,Yes
+401267583,"UTAH 134, PHI 123",Utah Jazz,Philadelphia 76ers,20210215,Utah Jazz,134,Philadelphia 76ers,123,Yes
+401267584,"GS 129, CLE 98",Golden State Warriors,Cleveland Cavaliers,20210215,Golden State Warriors,129,Cleveland Cavaliers,98,Yes
+401267585,"LAC 125, MIA 118",LA Clippers,Miami Heat,20210215,LA Clippers,125,Miami Heat,118,Yes
+401267586,"BKN 136, SAC 125",Sacramento Kings,Brooklyn Nets,20210215,Brooklyn Nets,136,Sacramento Kings,125,No
+401267605,"TOR 110, MIL 96",Milwaukee Bucks,Toronto Raptors,20210218,Toronto Raptors,110,Milwaukee Bucks,96,No
+401267606,"BKN 109, LAL 98",Los Angeles Lakers,Brooklyn Nets,20210218,Brooklyn Nets,109,Los Angeles Lakers,98,No
+401267607,"MIA 118, SAC 110",Sacramento Kings,Miami Heat,20210218,Miami Heat,118,Sacramento Kings,110,No
+401267625,"NO 120, BOS 115 (OT)",New Orleans Pelicans,Boston Celtics,20210221,New Orleans Pelicans,120,Boston Celtics,115,Yes
+401267626,"OKC 117, CLE 101",Cleveland Cavaliers,Oklahoma City Thunder,20210221,Oklahoma City Thunder,117,Cleveland Cavaliers,101,No
+401267627,"ORL 105, DET 96",Orlando Magic,Detroit Pistons,20210221,Orlando Magic,105,Detroit Pistons,96,Yes
+401267628,"TOR 110, PHI 103",Toronto Raptors,Philadelphia 76ers,20210221,Toronto Raptors,110,Philadelphia 76ers,103,Yes
+401267629,"NY 103, MIN 99",New York Knicks,Minnesota Timberwolves,20210221,New York Knicks,103,Minnesota Timberwolves,99,Yes
+401267630,"ATL 123, DEN 115",Atlanta Hawks,Denver Nuggets,20210221,Atlanta Hawks,123,Denver Nuggets,115,Yes
+401267632,"BKN 112, LAC 108",LA Clippers,Brooklyn Nets,20210221,Brooklyn Nets,112,LA Clippers,108,No
+401267631,"MIL 128, SAC 115",Milwaukee Bucks,Sacramento Kings,20210221,Milwaukee Bucks,128,Sacramento Kings,115,Yes
+401267640,"CLE 112, ATL 111",Cleveland Cavaliers,Atlanta Hawks,20210223,Cleveland Cavaliers,112,Atlanta Hawks,111,Yes
+401267641,"DET 105, ORL 93",Orlando Magic,Detroit Pistons,20210223,Detroit Pistons,105,Orlando Magic,93,No
+401267642,"BKN 127, SAC 118",Brooklyn Nets,Sacramento Kings,20210223,Brooklyn Nets,127,Sacramento Kings,118,Yes
+401267643,"GS 114, NY 106",New York Knicks,Golden State Warriors,20210223,Golden State Warriors,114,New York Knicks,106,No
+401267644,"PHI 109, TOR 102",Toronto Raptors,Philadelphia 76ers,20210223,Philadelphia 76ers,109,Toronto Raptors,102,No
+401267645,"DAL 110, BOS 107",Dallas Mavericks,Boston Celtics,20210223,Dallas Mavericks,110,Boston Celtics,107,Yes
+401267646,"MIL 139, MIN 112",Milwaukee Bucks,Minnesota Timberwolves,20210223,Milwaukee Bucks,139,Minnesota Timberwolves,112,Yes
+401267647,"DEN 111, POR 106",Denver Nuggets,Portland Trail Blazers,20210223,Denver Nuggets,111,Portland Trail Blazers,106,Yes
+401267648,"LAC 135, WSH 116",LA Clippers,Washington Wizards,20210223,LA Clippers,135,Washington Wizards,116,Yes
+401267649,"GS 111, IND 107",Indiana Pacers,Golden State Warriors,20210224,Golden State Warriors,111,Indiana Pacers,107,No
+401267650,"ATL 127, BOS 112",Atlanta Hawks,Boston Celtics,20210224,Atlanta Hawks,127,Boston Celtics,112,Yes
+401267651,"CLE 112, HOU 96",Cleveland Cavaliers,Houston Rockets,20210224,Cleveland Cavaliers,112,Houston Rockets,96,Yes
+401267652,"MIA 116, TOR 108",Miami Heat,Toronto Raptors,20210224,Miami Heat,116,Toronto Raptors,108,Yes
+401267653,"CHI 133, MIN 126 (OT)",Chicago Bulls,Minnesota Timberwolves,20210224,Chicago Bulls,133,Minnesota Timberwolves,126,Yes
+401267654,"NO 128, DET 118",New Orleans Pelicans,Detroit Pistons,20210224,New Orleans Pelicans,128,Detroit Pistons,118,Yes
+401267655,"OKC 102, SA 99",Oklahoma City Thunder,San Antonio Spurs,20210224,Oklahoma City Thunder,102,San Antonio Spurs,99,Yes
+401267656,"CHA 124, PHX 121",Phoenix Suns,Charlotte Hornets,20210224,Charlotte Hornets,124,Phoenix Suns,121,No
+401267657,"UTAH 114, LAL 89",Utah Jazz,Los Angeles Lakers,20210224,Utah Jazz,114,Los Angeles Lakers,89,Yes
+401267658,"PHI 111, DAL 97",Philadelphia 76ers,Dallas Mavericks,20210225,Philadelphia 76ers,111,Dallas Mavericks,97,Yes
+401267659,"BKN 129, ORL 92",Brooklyn Nets,Orlando Magic,20210225,Brooklyn Nets,129,Orlando Magic,92,Yes
+401267660,"NY 140, SAC 121",New York Knicks,Sacramento Kings,20210225,New York Knicks,140,Sacramento Kings,121,Yes
+401267661,"MEM 122, LAC 94",Memphis Grizzlies,LA Clippers,20210225,Memphis Grizzlies,122,LA Clippers,94,Yes
+401267662,"WSH 112, DEN 110",Denver Nuggets,Washington Wizards,20210225,Washington Wizards,112,Denver Nuggets,110,No
+401267663,"MIL 129, NO 125",Milwaukee Bucks,New Orleans Pelicans,20210225,Milwaukee Bucks,129,New Orleans Pelicans,125,Yes
+401267665,"BOS 118, IND 112",Boston Celtics,Indiana Pacers,20210226,Boston Celtics,118,Indiana Pacers,112,Yes
+401267666,"TOR 122, HOU 111",Toronto Raptors,Houston Rockets,20210226,Toronto Raptors,122,Houston Rockets,111,Yes
+401267664,"SAC 110, DET 107",Detroit Pistons,Sacramento Kings,20210226,Sacramento Kings,110,Detroit Pistons,107,No
+401267667,"MIA 124, UTAH 116",Miami Heat,Utah Jazz,20210226,Miami Heat,124,Utah Jazz,116,Yes
+401267668,"PHX 106, CHI 97",Chicago Bulls,Phoenix Suns,20210226,Phoenix Suns,106,Chicago Bulls,97,No
+401267669,"LAC 119, MEM 99",Memphis Grizzlies,LA Clippers,20210226,LA Clippers,119,Memphis Grizzlies,99,No
+401267670,"OKC 118, ATL 109",Oklahoma City Thunder,Atlanta Hawks,20210226,Oklahoma City Thunder,118,Atlanta Hawks,109,Yes
+401267671,"GS 130, CHA 121",Golden State Warriors,Charlotte Hornets,20210226,Golden State Warriors,130,Charlotte Hornets,121,Yes
+401267672,"LAL 102, POR 93",Los Angeles Lakers,Portland Trail Blazers,20210226,Los Angeles Lakers,102,Portland Trail Blazers,93,Yes
+401267673,"CLE 112, PHI 109 (OT)",Philadelphia 76ers,Cleveland Cavaliers,20210227,Cleveland Cavaliers,112,Philadelphia 76ers,109,No
+401267677,"WSH 128, MIN 112",Washington Wizards,Minnesota Timberwolves,20210227,Washington Wizards,128,Minnesota Timberwolves,112,Yes
+401267674,"SA 117, NO 114",San Antonio Spurs,New Orleans Pelicans,20210227,San Antonio Spurs,117,New Orleans Pelicans,114,Yes
+401267675,"NY 110, IND 107",New York Knicks,Indiana Pacers,20210227,New York Knicks,110,Indiana Pacers,107,Yes
+401267676,"UTAH 124, ORL 109",Orlando Magic,Utah Jazz,20210227,Utah Jazz,124,Orlando Magic,109,No
+401267678,"DEN 126, OKC 96",Oklahoma City Thunder,Denver Nuggets,20210227,Denver Nuggets,126,Oklahoma City Thunder,96,No
+401267679,"DAL 115, BKN 98",Brooklyn Nets,Dallas Mavericks,20210227,Dallas Mavericks,115,Brooklyn Nets,98,No
+401267689,"DAL 130, ORL 124",Orlando Magic,Dallas Mavericks,20210301,Dallas Mavericks,130,Orlando Magic,124,No
+401267690,"PHI 130, IND 114",Philadelphia 76ers,Indiana Pacers,20210301,Philadelphia 76ers,130,Indiana Pacers,114,Yes
+401267691,"DEN 118, CHI 112",Chicago Bulls,Denver Nuggets,20210301,Denver Nuggets,118,Chicago Bulls,112,No
+401267693,"NO 129, UTAH 124",New Orleans Pelicans,Utah Jazz,20210301,New Orleans Pelicans,129,Utah Jazz,124,Yes
+401267694,"BKN 124, SA 113 (OT)",San Antonio Spurs,Brooklyn Nets,20210301,Brooklyn Nets,124,San Antonio Spurs,113,No
+401267692,"CLE 101, HOU 90",Houston Rockets,Cleveland Cavaliers,20210301,Cleveland Cavaliers,101,Houston Rockets,90,No
+401267695,"POR 123, CHA 111",Portland Trail Blazers,Charlotte Hornets,20210301,Portland Trail Blazers,123,Charlotte Hornets,111,Yes
+401267703,"IND 114, CLE 111",Cleveland Cavaliers,Indiana Pacers,20210303,Indiana Pacers,114,Cleveland Cavaliers,111,No
+401267705,"PHI 131, UTAH 123 (OT)",Philadelphia 76ers,Utah Jazz,20210303,Philadelphia 76ers,131,Utah Jazz,123,Yes
+401309754,"DET 129, TOR 105",Toronto Raptors,Detroit Pistons,20210303,Detroit Pistons,129,Toronto Raptors,105,No
+401267706,"BKN 132, HOU 114",Houston Rockets,Brooklyn Nets,20210303,Brooklyn Nets,132,Houston Rockets,114,No
+401267704,"ATL 115, ORL 112",Orlando Magic,Atlanta Hawks,20210303,Atlanta Hawks,115,Orlando Magic,112,No
+401267707,"CHA 135, MIN 102",Minnesota Timberwolves,Charlotte Hornets,20210303,Charlotte Hornets,135,Minnesota Timberwolves,102,No
+401267708,"CHI 128, NO 124",New Orleans Pelicans,Chicago Bulls,20210303,Chicago Bulls,128,New Orleans Pelicans,124,No
+401267709,"DAL 87, OKC 78",Dallas Mavericks,Oklahoma City Thunder,20210303,Dallas Mavericks,87,Oklahoma City Thunder,78,Yes
+401267710,"POR 108, GS 106",Portland Trail Blazers,Golden State Warriors,20210303,Portland Trail Blazers,108,Golden State Warriors,106,Yes
+401267711,"SAC 123, LAL 120",Sacramento Kings,Los Angeles Lakers,20210303,Sacramento Kings,123,Los Angeles Lakers,120,Yes
+401267712,"BOS 132, TOR 125",Boston Celtics,Toronto Raptors,20210304,Boston Celtics,132,Toronto Raptors,125,Yes
+401267714,"WSH 119, LAC 117",Washington Wizards,LA Clippers,20210304,Washington Wizards,119,LA Clippers,117,Yes
+401302775,"NY 114, DET 104",New York Knicks,Detroit Pistons,20210304,New York Knicks,114,Detroit Pistons,104,Yes
+401267713,"DEN 113, IND 103",Indiana Pacers,Denver Nuggets,20210304,Denver Nuggets,113,Indiana Pacers,103,No
+401267715,"MIL 112, MEM 111",Memphis Grizzlies,Milwaukee Bucks,20210304,Milwaukee Bucks,112,Memphis Grizzlies,111,No
+401267717,"MIA 103, NO 93",New Orleans Pelicans,Miami Heat,20210304,Miami Heat,103,New Orleans Pelicans,93,No
+401267716,"OKC 107, SA 102",San Antonio Spurs,Oklahoma City Thunder,20210304,Oklahoma City Thunder,107,San Antonio Spurs,102,No
+401267718,"POR 123, SAC 119",Portland Trail Blazers,Sacramento Kings,20210304,Portland Trail Blazers,123,Sacramento Kings,119,Yes
+401283400,"PHX 120, GS 98",Phoenix Suns,Golden State Warriors,20210304,Phoenix Suns,120,Golden State Warriors,98,Yes
+401307309,"MEM 127, WSH 112",Memphis Grizzlies,Washington Wizards,20210310,Memphis Grizzlies,127,Washington Wizards,112,Yes
+401307310,"DAL 115, SA 104",Dallas Mavericks,San Antonio Spurs,20210310,Dallas Mavericks,115,San Antonio Spurs,104,Yes
+401307311,"CHA 105, DET 102",Charlotte Hornets,Detroit Pistons,20210311,Charlotte Hornets,105,Detroit Pistons,102,Yes
+401307312,"BKN 121, BOS 109",Brooklyn Nets,Boston Celtics,20210311,Brooklyn Nets,121,Boston Celtics,109,Yes
+401307353,"ATL 121, TOR 120",Toronto Raptors,Atlanta Hawks,20210311,Atlanta Hawks,121,Toronto Raptors,120,No
+401307354,"MIA 111, ORL 103",Miami Heat,Orlando Magic,20210311,Miami Heat,111,Orlando Magic,103,Yes
+401307355,"PHI 127, CHI 105",Chicago Bulls,Philadelphia 76ers,20210311,Philadelphia 76ers,127,Chicago Bulls,105,No
+401307356,"MIL 134, NY 101",Milwaukee Bucks,New York Knicks,20210311,Milwaukee Bucks,134,New York Knicks,101,Yes
+401307357,"MIN 135, NO 105",New Orleans Pelicans,Minnesota Timberwolves,20210311,Minnesota Timberwolves,135,New Orleans Pelicans,105,No
+401307358,"OKC 116, DAL 108",Oklahoma City Thunder,Dallas Mavericks,20210311,Oklahoma City Thunder,116,Dallas Mavericks,108,Yes
+401307359,"LAC 130, GS 104",LA Clippers,Golden State Warriors,20210311,LA Clippers,130,Golden State Warriors,104,Yes
+401307360,"PHX 127, POR 121",Portland Trail Blazers,Phoenix Suns,20210311,Phoenix Suns,127,Portland Trail Blazers,121,No
+401307361,"SAC 125, HOU 105",Sacramento Kings,Houston Rockets,20210311,Sacramento Kings,125,Houston Rockets,105,Yes
+401307362,"PHI 127, WSH 101",Washington Wizards,Philadelphia 76ers,20210312,Philadelphia 76ers,127,Washington Wizards,101,No
+401307363,"DEN 103, MEM 102",Memphis Grizzlies,Denver Nuggets,20210312,Denver Nuggets,103,Memphis Grizzlies,102,No
+401307364,"NO 116, CLE 82",New Orleans Pelicans,Cleveland Cavaliers,20210312,New Orleans Pelicans,116,Cleveland Cavaliers,82,Yes
+401307365,"MIA 101, CHI 90",Chicago Bulls,Miami Heat,20210312,Miami Heat,101,Chicago Bulls,90,No
+401307366,"SA 104, ORL 77",San Antonio Spurs,Orlando Magic,20210312,San Antonio Spurs,104,Orlando Magic,77,Yes
+401307367,"UTAH 114, HOU 99",Utah Jazz,Houston Rockets,20210312,Utah Jazz,114,Houston Rockets,99,Yes
+401307368,"LAL 105, IND 100",Los Angeles Lakers,Indiana Pacers,20210312,Los Angeles Lakers,105,Indiana Pacers,100,Yes
+401307369,"NY 119, OKC 97",Oklahoma City Thunder,New York Knicks,20210313,New York Knicks,119,Oklahoma City Thunder,97,No
+401307370,"BKN 100, DET 95",Brooklyn Nets,Detroit Pistons,20210313,Brooklyn Nets,100,Detroit Pistons,95,Yes
+401307371,"CHA 114, TOR 104",Charlotte Hornets,Toronto Raptors,20210313,Charlotte Hornets,114,Toronto Raptors,104,Yes
+401307372,"MIL 125, WSH 119",Washington Wizards,Milwaukee Bucks,20210313,Milwaukee Bucks,125,Washington Wizards,119,No
+401307373,"ATL 121, SAC 106",Atlanta Hawks,Sacramento Kings,20210313,Atlanta Hawks,121,Sacramento Kings,106,Yes
+401307374,"POR 125, MIN 121",Minnesota Timberwolves,Portland Trail Blazers,20210313,Portland Trail Blazers,125,Minnesota Timberwolves,121,No
+401307375,"DAL 116, DEN 103",Denver Nuggets,Dallas Mavericks,20210313,Dallas Mavericks,116,Denver Nuggets,103,No
+401307376,"IND 122, PHX 111",Phoenix Suns,Indiana Pacers,20210313,Indiana Pacers,122,Phoenix Suns,111,No
+401307377,"OKC 128, MEM 122",Oklahoma City Thunder,Memphis Grizzlies,20210314,Oklahoma City Thunder,128,Memphis Grizzlies,122,Yes
+401307378,"GS 131, UTAH 119",Golden State Warriors,Utah Jazz,20210314,Golden State Warriors,131,Utah Jazz,119,Yes
+401307379,"PHI 134, SA 99",Philadelphia 76ers,San Antonio Spurs,20210314,Philadelphia 76ers,134,San Antonio Spurs,99,Yes
+401307380,"MIA 102, ORL 97",Orlando Magic,Miami Heat,20210314,Miami Heat,102,Orlando Magic,97,No
+401307381,"ATL 100, CLE 82",Atlanta Hawks,Cleveland Cavaliers,20210314,Atlanta Hawks,100,Cleveland Cavaliers,82,Yes
+401307382,"BOS 134, HOU 107",Houston Rockets,Boston Celtics,20210314,Boston Celtics,134,Houston Rockets,107,No
+401307383,"MIN 114, POR 112",Minnesota Timberwolves,Portland Trail Blazers,20210314,Minnesota Timberwolves,114,Portland Trail Blazers,112,Yes
+401307384,"CHI 118, TOR 95",Chicago Bulls,Toronto Raptors,20210314,Chicago Bulls,118,Toronto Raptors,95,Yes
+401307385,"NO 135, LAC 115",New Orleans Pelicans,LA Clippers,20210314,New Orleans Pelicans,135,LA Clippers,115,Yes
+401307386,"CHA 122, SAC 116",Charlotte Hornets,Sacramento Kings,20210315,Charlotte Hornets,122,Sacramento Kings,116,Yes
+401307387,"MIL 133, WSH 122",Washington Wizards,Milwaukee Bucks,20210315,Milwaukee Bucks,133,Washington Wizards,122,No
+401307388,"BKN 117, NY 112",Brooklyn Nets,New York Knicks,20210315,Brooklyn Nets,117,New York Knicks,112,Yes
+401307389,"SA 109, DET 99",Detroit Pistons,San Antonio Spurs,20210315,San Antonio Spurs,109,Detroit Pistons,99,No
+401307390,"LAC 109, DAL 99",Dallas Mavericks,LA Clippers,20210315,LA Clippers,109,Dallas Mavericks,99,No
+401307391,"DEN 121, IND 106",Denver Nuggets,Indiana Pacers,20210315,Denver Nuggets,121,Indiana Pacers,106,Yes
+401307392,"PHX 122, MEM 99",Phoenix Suns,Memphis Grizzlies,20210315,Phoenix Suns,122,Memphis Grizzlies,99,Yes
+401307393,"LAL 128, GS 97",Golden State Warriors,Los Angeles Lakers,20210315,Los Angeles Lakers,128,Golden State Warriors,97,No
+401307394,"UTAH 117, BOS 109",Boston Celtics,Utah Jazz,20210316,Utah Jazz,117,Boston Celtics,109,No
+401307395,"MIA 113, CLE 98",Miami Heat,Cleveland Cavaliers,20210316,Miami Heat,113,Cleveland Cavaliers,98,Yes
+401307396,"PHI 99, NY 96",Philadelphia 76ers,New York Knicks,20210316,Philadelphia 76ers,99,New York Knicks,96,Yes
+401307397,"CHI 123, OKC 102",Chicago Bulls,Oklahoma City Thunder,20210316,Chicago Bulls,123,Oklahoma City Thunder,102,Yes
+401307398,"ATL 119, HOU 107",Houston Rockets,Atlanta Hawks,20210316,Atlanta Hawks,119,Houston Rockets,107,No
+401307399,"POR 125, NO 124",Portland Trail Blazers,New Orleans Pelicans,20210316,Portland Trail Blazers,125,New Orleans Pelicans,124,Yes
+401307400,"LAL 137, MIN 121",Los Angeles Lakers,Minnesota Timberwolves,20210316,Los Angeles Lakers,137,Minnesota Timberwolves,121,Yes
+401307401,"DET 116, TOR 112",Detroit Pistons,Toronto Raptors,20210317,Detroit Pistons,116,Toronto Raptors,112,Yes
+401307402,"BKN 124, IND 115",Indiana Pacers,Brooklyn Nets,20210317,Brooklyn Nets,124,Indiana Pacers,115,No
+401307403,"MIL 109, PHI 105 (OT)",Philadelphia 76ers,Milwaukee Bucks,20210317,Milwaukee Bucks,109,Philadelphia 76ers,105,No
+401307404,"SAC 121, WSH 119",Washington Wizards,Sacramento Kings,20210317,Sacramento Kings,121,Washington Wizards,119,No
+401307405,"CLE 117, BOS 110",Cleveland Cavaliers,Boston Celtics,20210317,Cleveland Cavaliers,117,Boston Celtics,110,Yes
+401307406,"SA 106, CHI 99",Chicago Bulls,San Antonio Spurs,20210317,San Antonio Spurs,106,Chicago Bulls,99,No
+401307407,"GS 108, HOU 94",Houston Rockets,Golden State Warriors,20210317,Golden State Warriors,108,Houston Rockets,94,No
+401307408,"MEM 89, MIA 85",Memphis Grizzlies,Miami Heat,20210317,Memphis Grizzlies,89,Miami Heat,85,Yes
+401307409,"DEN 129, CHA 104",Denver Nuggets,Charlotte Hornets,20210317,Denver Nuggets,129,Charlotte Hornets,104,Yes
+401307410,"DAL 105, LAC 89",Dallas Mavericks,LA Clippers,20210317,Dallas Mavericks,105,LA Clippers,89,Yes
+401307411,"WSH 131, UTAH 122",Washington Wizards,Utah Jazz,20210318,Washington Wizards,131,Utah Jazz,122,Yes
+401307412,"ATL 116, OKC 93",Atlanta Hawks,Oklahoma City Thunder,20210318,Atlanta Hawks,116,Oklahoma City Thunder,93,Yes
+401307413,"NY 94, ORL 93",New York Knicks,Orlando Magic,20210318,New York Knicks,94,Orlando Magic,93,Yes
+401307414,"MIN 123, PHX 119",Phoenix Suns,Minnesota Timberwolves,20210318,Minnesota Timberwolves,123,Phoenix Suns,119,No
+401307415,"POR 101, NO 93",Portland Trail Blazers,New Orleans Pelicans,20210318,Portland Trail Blazers,101,New Orleans Pelicans,93,Yes
+401307416,"LAL 116, CHA 105",Los Angeles Lakers,Charlotte Hornets,20210318,Los Angeles Lakers,116,Charlotte Hornets,105,Yes
+401307417,"SAC 107, BOS 96",Boston Celtics,Sacramento Kings,20210319,Sacramento Kings,107,Boston Celtics,96,No
+401307418,"SA 116, CLE 110",Cleveland Cavaliers,San Antonio Spurs,20210319,San Antonio Spurs,116,Cleveland Cavaliers,110,No
+401307419,"IND 137, MIA 110",Miami Heat,Indiana Pacers,20210319,Indiana Pacers,137,Miami Heat,110,No
+401307420,"ORL 121, BKN 113",Orlando Magic,Brooklyn Nets,20210319,Orlando Magic,121,Brooklyn Nets,113,Yes
+401307421,"UTAH 115, TOR 112",Toronto Raptors,Utah Jazz,20210319,Utah Jazz,115,Toronto Raptors,112,No
+401307422,"DET 113, HOU 100",Houston Rockets,Detroit Pistons,20210319,Detroit Pistons,113,Houston Rockets,100,No
+401307423,"GS 116, MEM 103",Memphis Grizzlies,Golden State Warriors,20210319,Golden State Warriors,116,Memphis Grizzlies,103,No
+401307424,"DEN 131, CHI 127 (OT)",Denver Nuggets,Chicago Bulls,20210319,Denver Nuggets,131,Chicago Bulls,127,Yes
+401307425,"PHX 113, MIN 101",Phoenix Suns,Minnesota Timberwolves,20210319,Phoenix Suns,113,Minnesota Timberwolves,101,Yes
+401307426,"POR 125, DAL 119",Portland Trail Blazers,Dallas Mavericks,20210319,Portland Trail Blazers,125,Dallas Mavericks,119,Yes
+401307427,"ATL 99, LAL 94",Los Angeles Lakers,Atlanta Hawks,20210320,Atlanta Hawks,99,Los Angeles Lakers,94,No
+401307428,"PHI 129, SAC 105",Philadelphia 76ers,Sacramento Kings,20210320,Philadelphia 76ers,129,Sacramento Kings,105,Yes
+401307429,"MEM 111, GS 103",Memphis Grizzlies,Golden State Warriors,20210320,Memphis Grizzlies,111,Golden State Warriors,103,Yes
+401307430,"MIL 120, SA 113",Milwaukee Bucks,San Antonio Spurs,20210320,Milwaukee Bucks,120,San Antonio Spurs,113,Yes
+401307431,"LAC 125, CHA 98",LA Clippers,Charlotte Hornets,20210320,LA Clippers,125,Charlotte Hornets,98,Yes
+401307432,"IND 109, MIA 106 (OT)",Miami Heat,Indiana Pacers,20210321,Indiana Pacers,109,Miami Heat,106,No
+401307433,"OKC 114, HOU 112",Houston Rockets,Oklahoma City Thunder,20210321,Oklahoma City Thunder,114,Houston Rockets,112,No
+401307434,"NO 113, DEN 108",Denver Nuggets,New Orleans Pelicans,20210321,New Orleans Pelicans,113,Denver Nuggets,108,No
+401307435,"BOS 112, ORL 96",Boston Celtics,Orlando Magic,20210321,Boston Celtics,112,Orlando Magic,96,Yes
+401307436,"BKN 113, WSH 106",Brooklyn Nets,Washington Wizards,20210321,Brooklyn Nets,113,Washington Wizards,106,Yes
+401307437,"CLE 116, TOR 105",Cleveland Cavaliers,Toronto Raptors,20210321,Cleveland Cavaliers,116,Toronto Raptors,105,Yes
+401307438,"CHI 100, DET 86",Detroit Pistons,Chicago Bulls,20210321,Chicago Bulls,100,Detroit Pistons,86,No
+401307439,"PHI 101, NY 100 (OT)",New York Knicks,Philadelphia 76ers,20210321,Philadelphia 76ers,101,New York Knicks,100,No
+401307440,"PHX 111, LAL 94",Phoenix Suns,Los Angeles Lakers,20210321,Phoenix Suns,111,Los Angeles Lakers,94,Yes
+401307441,"DAL 132, POR 92",Portland Trail Blazers,Dallas Mavericks,20210321,Dallas Mavericks,132,Portland Trail Blazers,92,No
+401307442,"SAC 119, CLE 105",Cleveland Cavaliers,Sacramento Kings,20210322,Sacramento Kings,119,Cleveland Cavaliers,105,No
+401307443,"OKC 112, MIN 103",Minnesota Timberwolves,Oklahoma City Thunder,20210322,Oklahoma City Thunder,112,Minnesota Timberwolves,103,No
+401307444,"CHA 100, SA 97",San Antonio Spurs,Charlotte Hornets,20210322,Charlotte Hornets,100,San Antonio Spurs,97,No
+401307445,"UTAH 120, CHI 95",Chicago Bulls,Utah Jazz,20210322,Utah Jazz,120,Chicago Bulls,95,No
+401307446,"HOU 117, TOR 99",Houston Rockets,Toronto Raptors,20210322,Houston Rockets,117,Toronto Raptors,99,Yes
+401307447,"MEM 132, BOS 126 (OT)",Memphis Grizzlies,Boston Celtics,20210322,Memphis Grizzlies,132,Boston Celtics,126,Yes
+401307448,"MIL 140, IND 113",Milwaukee Bucks,Indiana Pacers,20210322,Milwaukee Bucks,140,Indiana Pacers,113,Yes
+401307449,"LAC 119, ATL 110",LA Clippers,Atlanta Hawks,20210322,LA Clippers,119,Atlanta Hawks,110,Yes
+401307450,"DEN 110, ORL 99",Orlando Magic,Denver Nuggets,20210323,Denver Nuggets,110,Orlando Magic,99,No
+401307451,"NY 131, WSH 113",New York Knicks,Washington Wizards,20210323,New York Knicks,131,Washington Wizards,113,Yes
+401307452,"NO 128, LAL 111",New Orleans Pelicans,Los Angeles Lakers,20210323,New Orleans Pelicans,128,Los Angeles Lakers,111,Yes
+401307453,"PHX 110, MIA 100",Miami Heat,Phoenix Suns,20210323,Phoenix Suns,110,Miami Heat,100,No
+401307454,"PHI 108, GS 98",Golden State Warriors,Philadelphia 76ers,20210323,Philadelphia 76ers,108,Golden State Warriors,98,No
+401307455,"BKN 116, POR 112",Portland Trail Blazers,Brooklyn Nets,20210323,Brooklyn Nets,116,Portland Trail Blazers,112,No
+401307456,"IND 116, DET 111",Indiana Pacers,Detroit Pistons,20210324,Indiana Pacers,116,Detroit Pistons,111,Yes
+401307457,"MIL 121, BOS 119",Milwaukee Bucks,Boston Celtics,20210324,Milwaukee Bucks,121,Boston Celtics,119,Yes
+401307459,"TOR 135, DEN 111",Toronto Raptors,Denver Nuggets,20210324,Toronto Raptors,135,Denver Nuggets,111,Yes
+401307458,"ORL 112, PHX 111",Orlando Magic,Phoenix Suns,20210324,Orlando Magic,112,Phoenix Suns,111,Yes
+401307460,"CLE 103, CHI 94",Chicago Bulls,Cleveland Cavaliers,20210324,Cleveland Cavaliers,103,Chicago Bulls,94,No
+401307461,"CHA 122, HOU 97",Houston Rockets,Charlotte Hornets,20210324,Charlotte Hornets,122,Houston Rockets,97,No
+401307462,"DAL 128, MIN 108",Minnesota Timberwolves,Dallas Mavericks,20210324,Dallas Mavericks,128,Minnesota Timberwolves,108,No
+401307463,"MEM 116, OKC 107",Oklahoma City Thunder,Memphis Grizzlies,20210324,Memphis Grizzlies,116,Oklahoma City Thunder,107,No
+401307464,"LAC 134, SA 101",San Antonio Spurs,LA Clippers,20210324,LA Clippers,134,San Antonio Spurs,101,No
+401307465,"UTAH 118, BKN 88",Utah Jazz,Brooklyn Nets,20210324,Utah Jazz,118,Brooklyn Nets,88,Yes
+401307466,"SAC 110, ATL 108",Sacramento Kings,Atlanta Hawks,20210324,Sacramento Kings,110,Atlanta Hawks,108,Yes
+401307467,"POR 125, MIA 122",Miami Heat,Portland Trail Blazers,20210325,Portland Trail Blazers,125,Miami Heat,122,No
+401307468,"NY 106, WSH 102",New York Knicks,Washington Wizards,20210325,New York Knicks,106,Washington Wizards,102,Yes
+401307469,"LAC 98, SA 85",San Antonio Spurs,LA Clippers,20210325,LA Clippers,98,San Antonio Spurs,85,No
+401307470,"PHI 109, LAL 101",Los Angeles Lakers,Philadelphia 76ers,20210325,Philadelphia 76ers,109,Los Angeles Lakers,101,No
+401307471,"SAC 141, GS 119",Sacramento Kings,Golden State Warriors,20210325,Sacramento Kings,141,Golden State Warriors,119,Yes
+401307472,"BKN 113, DET 111",Detroit Pistons,Brooklyn Nets,20210326,Brooklyn Nets,113,Detroit Pistons,111,No
+401307473,"PHX 104, TOR 100",Toronto Raptors,Phoenix Suns,20210326,Phoenix Suns,104,Toronto Raptors,100,No
+401307474,"BOS 122, MIL 114",Milwaukee Bucks,Boston Celtics,20210326,Boston Celtics,122,Milwaukee Bucks,114,No
+401307475,"CHA 110, MIA 105",Charlotte Hornets,Miami Heat,20210326,Charlotte Hornets,110,Miami Heat,105,Yes
+401307476,"POR 112, ORL 105",Orlando Magic,Portland Trail Blazers,20210326,Portland Trail Blazers,112,Orlando Magic,105,No
+401307477,"MIN 107, HOU 101",Minnesota Timberwolves,Houston Rockets,20210326,Minnesota Timberwolves,107,Houston Rockets,101,Yes
+401307478,"DEN 113, NO 108",New Orleans Pelicans,Denver Nuggets,20210326,Denver Nuggets,113,New Orleans Pelicans,108,No
+401307479,"IND 109, DAL 94",Dallas Mavericks,Indiana Pacers,20210326,Indiana Pacers,109,Dallas Mavericks,94,No
+401307480,"UTAH 117, MEM 114",Utah Jazz,Memphis Grizzlies,20210326,Utah Jazz,117,Memphis Grizzlies,114,Yes
+401307481,"ATL 124, GS 108",Golden State Warriors,Atlanta Hawks,20210326,Atlanta Hawks,124,Golden State Warriors,108,No
+401307482,"LAL 100, CLE 86",Los Angeles Lakers,Cleveland Cavaliers,20210326,Los Angeles Lakers,100,Cleveland Cavaliers,86,Yes
+401307483,"WSH 106, DET 92",Washington Wizards,Detroit Pistons,20210327,Washington Wizards,106,Detroit Pistons,92,Yes
+401307484,"NY 102, MIL 96",Milwaukee Bucks,New York Knicks,20210327,New York Knicks,102,Milwaukee Bucks,96,No
+401307485,"HOU 129, MIN 107",Minnesota Timberwolves,Houston Rockets,20210327,Houston Rockets,129,Minnesota Timberwolves,107,No
+401307486,"SA 120, CHI 104",San Antonio Spurs,Chicago Bulls,20210327,San Antonio Spurs,120,Chicago Bulls,104,Yes
+401307487,"NO 112, DAL 103",New Orleans Pelicans,Dallas Mavericks,20210327,New Orleans Pelicans,112,Dallas Mavericks,103,Yes
+401307488,"BOS 111, OKC 94",Oklahoma City Thunder,Boston Celtics,20210327,Boston Celtics,111,Oklahoma City Thunder,94,No
+401307489,"UTAH 126, MEM 110",Utah Jazz,Memphis Grizzlies,20210327,Utah Jazz,126,Memphis Grizzlies,110,Yes
+401307490,"LAC 122, PHI 112",LA Clippers,Philadelphia 76ers,20210327,LA Clippers,122,Philadelphia 76ers,112,Yes
+401307491,"SAC 100, CLE 98",Sacramento Kings,Cleveland Cavaliers,20210327,Sacramento Kings,100,Cleveland Cavaliers,98,Yes
+401307492,"PHX 101, CHA 97 (OT)",Charlotte Hornets,Phoenix Suns,20210328,Phoenix Suns,101,Charlotte Hornets,97,No
+401307493,"POR 122, TOR 117",Toronto Raptors,Portland Trail Blazers,20210328,Portland Trail Blazers,122,Toronto Raptors,117,No
+401307494,"DEN 126, ATL 102",Denver Nuggets,Atlanta Hawks,20210328,Denver Nuggets,126,Atlanta Hawks,102,Yes
+401307495,"LAL 96, ORL 93",Los Angeles Lakers,Orlando Magic,20210328,Los Angeles Lakers,96,Orlando Magic,93,Yes
+401307496,"WSH 132, IND 124",Washington Wizards,Indiana Pacers,20210329,Washington Wizards,132,Indiana Pacers,124,Yes
+401307497,"NO 115, BOS 109",Boston Celtics,New Orleans Pelicans,20210329,New Orleans Pelicans,115,Boston Celtics,109,No
+401307498,"BKN 112, MIN 107",Brooklyn Nets,Minnesota Timberwolves,20210329,Brooklyn Nets,112,Minnesota Timberwolves,107,Yes
+401307499,"MIA 98, NY 88",New York Knicks,Miami Heat,20210329,Miami Heat,98,New York Knicks,88,No
+401307500,"DET 118, TOR 104",Detroit Pistons,Toronto Raptors,20210329,Detroit Pistons,118,Toronto Raptors,104,Yes
+401307501,"MEM 120, HOU 110",Houston Rockets,Memphis Grizzlies,20210329,Memphis Grizzlies,120,Houston Rockets,110,No
+401307502,"DAL 127, OKC 106",Oklahoma City Thunder,Dallas Mavericks,20210329,Dallas Mavericks,127,Oklahoma City Thunder,106,No
+401307503,"SAC 132, SA 115",San Antonio Spurs,Sacramento Kings,20210329,Sacramento Kings,132,San Antonio Spurs,115,No
+401307504,"UTAH 114, CLE 75",Utah Jazz,Cleveland Cavaliers,20210329,Utah Jazz,114,Cleveland Cavaliers,75,Yes
+401307505,"GS 116, CHI 102",Golden State Warriors,Chicago Bulls,20210329,Golden State Warriors,116,Chicago Bulls,102,Yes
+401307506,"LAC 129, MIL 105",LA Clippers,Milwaukee Bucks,20210329,LA Clippers,129,Milwaukee Bucks,105,Yes
+401307507,"CHA 114, WSH 104",Washington Wizards,Charlotte Hornets,20210330,Charlotte Hornets,114,Washington Wizards,104,No
+401307508,"DEN 104, PHI 95",Denver Nuggets,Philadelphia 76ers,20210330,Denver Nuggets,104,Philadelphia 76ers,95,Yes
+401307509,"ORL 103, LAC 96",LA Clippers,Orlando Magic,20210330,Orlando Magic,103,LA Clippers,96,No
+401307510,"PHX 117, ATL 110",Phoenix Suns,Atlanta Hawks,20210330,Phoenix Suns,117,Atlanta Hawks,110,Yes
+401307511,"POR 124, DET 101",Detroit Pistons,Portland Trail Blazers,20210331,Portland Trail Blazers,124,Detroit Pistons,101,No
+401307512,"MIA 92, IND 87",Indiana Pacers,Miami Heat,20210331,Miami Heat,92,Indiana Pacers,87,No
+401307513,"DAL 113, BOS 108",Boston Celtics,Dallas Mavericks,20210331,Dallas Mavericks,113,Boston Celtics,108,No
+401307514,"BKN 120, HOU 108",Brooklyn Nets,Houston Rockets,20210331,Brooklyn Nets,120,Houston Rockets,108,Yes
+401307515,"UTAH 111, MEM 107",Memphis Grizzlies,Utah Jazz,20210331,Utah Jazz,111,Memphis Grizzlies,107,No
+401307516,"MIN 102, NY 101",Minnesota Timberwolves,New York Knicks,20210331,Minnesota Timberwolves,102,New York Knicks,101,Yes
+401307517,"OKC 113, TOR 103",Oklahoma City Thunder,Toronto Raptors,20210331,Oklahoma City Thunder,113,Toronto Raptors,103,Yes
+401307518,"SA 120, SAC 106",San Antonio Spurs,Sacramento Kings,20210331,San Antonio Spurs,120,Sacramento Kings,106,Yes
+401307519,"MIL 112, LAL 97",Los Angeles Lakers,Milwaukee Bucks,20210331,Milwaukee Bucks,112,Los Angeles Lakers,97,No
+401307520,"PHX 121, CHI 116",Phoenix Suns,Chicago Bulls,20210331,Phoenix Suns,121,Chicago Bulls,116,Yes
+401307521,"PHI 114, CLE 94",Cleveland Cavaliers,Philadelphia 76ers,20210401,Philadelphia 76ers,114,Cleveland Cavaliers,94,No
+401307522,"DET 120, WSH 91",Detroit Pistons,Washington Wizards,20210401,Detroit Pistons,120,Washington Wizards,91,Yes
+401307523,"BKN 111, CHA 89",Brooklyn Nets,Charlotte Hornets,20210401,Brooklyn Nets,111,Charlotte Hornets,89,Yes
+401307524,"MIA 116, GS 109",Miami Heat,Golden State Warriors,20210401,Miami Heat,116,Golden State Warriors,109,Yes
+401307525,"ORL 115, NO 110 (OT)",New Orleans Pelicans,Orlando Magic,20210401,Orlando Magic,115,New Orleans Pelicans,110,No
+401307526,"ATL 134, SA 129 (2OT)",San Antonio Spurs,Atlanta Hawks,20210401,Atlanta Hawks,134,San Antonio Spurs,129,No
+401307527,"DEN 101, LAC 94",LA Clippers,Denver Nuggets,20210401,Denver Nuggets,101,LA Clippers,94,No
+401307531,"TOR 130, GS 77",Toronto Raptors,Golden State Warriors,20210402,Toronto Raptors,130,Golden State Warriors,77,Yes
+401307528,"BOS 118, HOU 102",Boston Celtics,Houston Rockets,20210402,Boston Celtics,118,Houston Rockets,102,Yes
+401307529,"DAL 99, NY 86",New York Knicks,Dallas Mavericks,20210402,Dallas Mavericks,99,New York Knicks,86,No
+401307530,"CHA 114, IND 97",Indiana Pacers,Charlotte Hornets,20210402,Charlotte Hornets,114,Indiana Pacers,97,No
+401307532,"MEM 120, MIN 108",Memphis Grizzlies,Minnesota Timberwolves,20210402,Memphis Grizzlies,120,Minnesota Timberwolves,108,Yes
+401307533,"ATL 126, NO 103",New Orleans Pelicans,Atlanta Hawks,20210402,Atlanta Hawks,126,New Orleans Pelicans,103,No
+401307534,"UTAH 113, CHI 106",Utah Jazz,Chicago Bulls,20210402,Utah Jazz,113,Chicago Bulls,106,Yes
+401307535,"PHX 140, OKC 103",Phoenix Suns,Oklahoma City Thunder,20210402,Phoenix Suns,140,Oklahoma City Thunder,103,Yes
+401307536,"MIL 127, POR 109",Portland Trail Blazers,Milwaukee Bucks,20210402,Milwaukee Bucks,127,Portland Trail Blazers,109,No
+401307537,"LAL 115, SAC 94",Sacramento Kings,Los Angeles Lakers,20210402,Los Angeles Lakers,115,Sacramento Kings,94,No
+401307538,"DAL 109, WSH 87",Washington Wizards,Dallas Mavericks,20210403,Dallas Mavericks,109,Washington Wizards,87,No
+401307539,"NY 125, DET 81",Detroit Pistons,New York Knicks,20210403,New York Knicks,125,Detroit Pistons,81,No
+401307540,"MIA 115, CLE 101",Miami Heat,Cleveland Cavaliers,20210403,Miami Heat,115,Cleveland Cavaliers,101,Yes
+401307541,"PHI 122, MIN 113",Philadelphia 76ers,Minnesota Timberwolves,20210403,Philadelphia 76ers,122,Minnesota Timberwolves,113,Yes
+401307542,"IND 139, SA 133 (OT)",San Antonio Spurs,Indiana Pacers,20210403,Indiana Pacers,139,San Antonio Spurs,133,No
+401307543,"UTAH 137, ORL 91",Utah Jazz,Orlando Magic,20210403,Utah Jazz,137,Orlando Magic,91,Yes
+401307544,"POR 133, OKC 85",Portland Trail Blazers,Oklahoma City Thunder,20210403,Portland Trail Blazers,133,Oklahoma City Thunder,85,Yes
+401307545,"MIL 129, SAC 128",Sacramento Kings,Milwaukee Bucks,20210403,Milwaukee Bucks,129,Sacramento Kings,128,No
+401307546,"CHI 115, BKN 107",Chicago Bulls,Brooklyn Nets,20210404,Chicago Bulls,115,Brooklyn Nets,107,Yes
+401307548,"LAC 104, LAL 86",LA Clippers,Los Angeles Lakers,20210404,LA Clippers,104,Los Angeles Lakers,86,Yes
+401307547,"BOS 116, CHA 86",Boston Celtics,Charlotte Hornets,20210404,Boston Celtics,116,Charlotte Hornets,86,Yes
+401307549,"MEM 116, PHI 100",Philadelphia 76ers,Memphis Grizzlies,20210404,Memphis Grizzlies,116,Philadelphia 76ers,100,No
+401307550,"ATL 117, GS 111",Atlanta Hawks,Golden State Warriors,20210404,Atlanta Hawks,117,Golden State Warriors,111,Yes
+401307551,"NO 122, HOU 115",Houston Rockets,New Orleans Pelicans,20210404,New Orleans Pelicans,122,Houston Rockets,115,No
+401307552,"DEN 119, ORL 109",Denver Nuggets,Orlando Magic,20210404,Denver Nuggets,119,Orlando Magic,109,Yes
+401307553,"TOR 103, WSH 101",Toronto Raptors,Washington Wizards,20210405,Toronto Raptors,103,Washington Wizards,101,Yes
+401307554,"BKN 114, NY 112",Brooklyn Nets,New York Knicks,20210405,Brooklyn Nets,114,New York Knicks,112,Yes
+401307555,"DAL 111, UTAH 103",Dallas Mavericks,Utah Jazz,20210405,Dallas Mavericks,111,Utah Jazz,103,Yes
+401307557,"MIN 116, SAC 106",Minnesota Timberwolves,Sacramento Kings,20210405,Minnesota Timberwolves,116,Sacramento Kings,106,Yes
+401307558,"DET 132, OKC 108",Oklahoma City Thunder,Detroit Pistons,20210405,Detroit Pistons,132,Oklahoma City Thunder,108,No
+401307559,"CLE 125, SA 101",San Antonio Spurs,Cleveland Cavaliers,20210405,Cleveland Cavaliers,125,San Antonio Spurs,101,No
+401307556,"PHX 133, HOU 130",Houston Rockets,Phoenix Suns,20210405,Phoenix Suns,133,Houston Rockets,130,No
+401307560,"CHI 113, IND 97",Indiana Pacers,Chicago Bulls,20210406,Chicago Bulls,113,Indiana Pacers,97,No
+401307561,"ATL 123, NO 107",Atlanta Hawks,New Orleans Pelicans,20210406,Atlanta Hawks,123,New Orleans Pelicans,107,Yes
+401307562,"PHI 106, BOS 96",Boston Celtics,Philadelphia 76ers,20210406,Philadelphia 76ers,106,Boston Celtics,96,No
+401307563,"LAL 110, TOR 101",Toronto Raptors,Los Angeles Lakers,20210406,Los Angeles Lakers,110,Toronto Raptors,101,No
+401307564,"MEM 124, MIA 112",Miami Heat,Memphis Grizzlies,20210406,Memphis Grizzlies,124,Miami Heat,112,No
+401307565,"DEN 134, DET 119",Denver Nuggets,Detroit Pistons,20210406,Denver Nuggets,134,Detroit Pistons,119,Yes
+401307566,"GS 122, MIL 121",Golden State Warriors,Milwaukee Bucks,20210406,Golden State Warriors,122,Milwaukee Bucks,121,Yes
+401307567,"LAC 133, POR 116",LA Clippers,Portland Trail Blazers,20210406,LA Clippers,133,Portland Trail Blazers,116,Yes
+401307568,"IND 141, MIN 137",Indiana Pacers,Minnesota Timberwolves,20210407,Indiana Pacers,141,Minnesota Timberwolves,137,Yes
+401307569,"WSH 131, ORL 116",Orlando Magic,Washington Wizards,20210407,Washington Wizards,131,Orlando Magic,116,No
+401307570,"BOS 101, NY 99",Boston Celtics,New York Knicks,20210407,Boston Celtics,101,New York Knicks,99,Yes
+401307571,"BKN 139, NO 111",Brooklyn Nets,New Orleans Pelicans,20210407,Brooklyn Nets,139,New Orleans Pelicans,111,Yes
+401307572,"MEM 131, ATL 113",Atlanta Hawks,Memphis Grizzlies,20210407,Memphis Grizzlies,131,Atlanta Hawks,113,No
+401307573,"HOU 102, DAL 93",Houston Rockets,Dallas Mavericks,20210407,Houston Rockets,102,Dallas Mavericks,93,Yes
+401307574,"CHA 113, OKC 102",Oklahoma City Thunder,Charlotte Hornets,20210407,Charlotte Hornets,113,Oklahoma City Thunder,102,No
+401307575,"DEN 106, SA 96",Denver Nuggets,San Antonio Spurs,20210407,Denver Nuggets,106,San Antonio Spurs,96,Yes
+401307576,"PHX 117, UTAH 113 (OT)",Phoenix Suns,Utah Jazz,20210407,Phoenix Suns,117,Utah Jazz,113,Yes
+401307577,"MIA 110, LAL 104",Miami Heat,Los Angeles Lakers,20210408,Miami Heat,110,Los Angeles Lakers,104,Yes
+401313155,"CHI 122, TOR 113",Toronto Raptors,Chicago Bulls,20210408,Chicago Bulls,122,Toronto Raptors,113,No
+401307578,"CLE 129, OKC 102",Oklahoma City Thunder,Cleveland Cavaliers,20210408,Cleveland Cavaliers,129,Oklahoma City Thunder,102,No
+401307579,"DAL 116, MIL 101",Dallas Mavericks,Milwaukee Bucks,20210408,Dallas Mavericks,116,Milwaukee Bucks,101,Yes
+401307580,"UTAH 122, POR 103",Utah Jazz,Portland Trail Blazers,20210408,Utah Jazz,122,Portland Trail Blazers,103,Yes
+401307581,"LAC 113, PHX 103",LA Clippers,Phoenix Suns,20210408,LA Clippers,113,Phoenix Suns,103,Yes
+401307582,"DET 113, SAC 101",Sacramento Kings,Detroit Pistons,20210408,Detroit Pistons,113,Sacramento Kings,101,No
+401307583,"IND 111, ORL 106",Orlando Magic,Indiana Pacers,20210409,Indiana Pacers,111,Orlando Magic,106,No
+401307585,"BOS 145, MIN 136 (OT)",Boston Celtics,Minnesota Timberwolves,20210409,Boston Celtics,145,Minnesota Timberwolves,136,Yes
+401307586,"NY 133, MEM 129 (OT)",New York Knicks,Memphis Grizzlies,20210409,New York Knicks,133,Memphis Grizzlies,129,Yes
+401307584,"ATL 120, CHI 108",Atlanta Hawks,Chicago Bulls,20210409,Atlanta Hawks,120,Chicago Bulls,108,Yes
+401307588,"NO 101, PHI 94",New Orleans Pelicans,Philadelphia 76ers,20210409,New Orleans Pelicans,101,Philadelphia 76ers,94,Yes
+401307589,"CHA 127, MIL 119",Milwaukee Bucks,Charlotte Hornets,20210409,Charlotte Hornets,127,Milwaukee Bucks,119,No
+401307590,"DEN 121, SA 119",Denver Nuggets,San Antonio Spurs,20210409,Denver Nuggets,121,San Antonio Spurs,119,Yes
+401307591,"WSH 110, GS 107",Golden State Warriors,Washington Wizards,20210409,Washington Wizards,110,Golden State Warriors,107,No
+401307592,"LAC 126, HOU 109",LA Clippers,Houston Rockets,20210409,LA Clippers,126,Houston Rockets,109,Yes
+401307587,"TOR 135, CLE 115",Cleveland Cavaliers,Toronto Raptors,20210410,Toronto Raptors,135,Cleveland Cavaliers,115,No
+401307593,"LAL 126, BKN 101",Brooklyn Nets,Los Angeles Lakers,20210410,Los Angeles Lakers,126,Brooklyn Nets,101,No
+401307594,"PHI 117, OKC 93",Oklahoma City Thunder,Philadelphia 76ers,20210410,Philadelphia 76ers,117,Oklahoma City Thunder,93,No
+401307595,"UTAH 128, SAC 112",Utah Jazz,Sacramento Kings,20210410,Utah Jazz,128,Sacramento Kings,112,Yes
+401307596,"GS 125, HOU 109",Golden State Warriors,Houston Rockets,20210410,Golden State Warriors,125,Houston Rockets,109,Yes
+401307597,"PHX 134, WSH 106",Phoenix Suns,Washington Wizards,20210410,Phoenix Suns,134,Washington Wizards,106,Yes
+401307598,"POR 118, DET 103",Portland Trail Blazers,Detroit Pistons,20210410,Portland Trail Blazers,118,Detroit Pistons,103,Yes
+401307599,"ATL 105, CHA 101",Charlotte Hornets,Atlanta Hawks,20210411,Atlanta Hawks,105,Charlotte Hornets,101,No
+401307600,"BOS 105, DEN 87",Denver Nuggets,Boston Celtics,20210411,Boston Celtics,105,Denver Nuggets,87,No
+401307601,"NO 116, CLE 109",Cleveland Cavaliers,New Orleans Pelicans,20210411,New Orleans Pelicans,116,Cleveland Cavaliers,109,No
+401307602,"MIL 124, ORL 87",Orlando Magic,Milwaukee Bucks,20210411,Milwaukee Bucks,124,Orlando Magic,87,No
+401307603,"NY 102, TOR 96",New York Knicks,Toronto Raptors,20210411,New York Knicks,102,Toronto Raptors,96,Yes
+401307604,"SA 119, DAL 117",Dallas Mavericks,San Antonio Spurs,20210411,San Antonio Spurs,119,Dallas Mavericks,117,No
+401307605,"IND 132, MEM 125",Memphis Grizzlies,Indiana Pacers,20210411,Indiana Pacers,132,Memphis Grizzlies,125,No
+401307606,"MIN 121, CHI 117",Minnesota Timberwolves,Chicago Bulls,20210411,Minnesota Timberwolves,121,Chicago Bulls,117,Yes
+401307607,"LAC 131, DET 124",LA Clippers,Detroit Pistons,20210411,LA Clippers,131,Detroit Pistons,124,Yes
+401307608,"MIA 107, POR 98",Portland Trail Blazers,Miami Heat,20210411,Miami Heat,107,Portland Trail Blazers,98,No
+401320524,"BKN 127, MIN 97",Minnesota Timberwolves,Brooklyn Nets,20210413,Brooklyn Nets,127,Minnesota Timberwolves,97,No
+401307618,"LAC 126, IND 115",Indiana Pacers,LA Clippers,20210413,LA Clippers,126,Indiana Pacers,115,No
+401307619,"ATL 108, TOR 103",Toronto Raptors,Atlanta Hawks,20210413,Atlanta Hawks,108,Toronto Raptors,103,No
+401307620,"LAL 101, CHA 93",Charlotte Hornets,Los Angeles Lakers,20210413,Los Angeles Lakers,101,Charlotte Hornets,93,No
+401307621,"UTAH 106, OKC 96",Utah Jazz,Oklahoma City Thunder,20210413,Utah Jazz,106,Oklahoma City Thunder,96,Yes
+401307622,"PHX 106, MIA 86",Phoenix Suns,Miami Heat,20210413,Phoenix Suns,106,Miami Heat,86,Yes
+401307623,"BOS 116, POR 115",Portland Trail Blazers,Boston Celtics,20210413,Boston Celtics,116,Portland Trail Blazers,115,No
+401307629,"MIL 130, MIN 105",Minnesota Timberwolves,Milwaukee Bucks,20210414,Milwaukee Bucks,130,Minnesota Timberwolves,105,No
+401307624,"CLE 103, CHA 90",Charlotte Hornets,Cleveland Cavaliers,20210414,Cleveland Cavaliers,103,Charlotte Hornets,90,No
+401307625,"PHI 123, BKN 117",Philadelphia 76ers,Brooklyn Nets,20210414,Philadelphia 76ers,123,Brooklyn Nets,117,Yes
+401307626,"TOR 117, SA 112",Toronto Raptors,San Antonio Spurs,20210414,Toronto Raptors,117,San Antonio Spurs,112,Yes
+401307627,"LAC 100, DET 98",Detroit Pistons,LA Clippers,20210414,LA Clippers,100,Detroit Pistons,98,No
+401307628,"ORL 115, CHI 106",Chicago Bulls,Orlando Magic,20210414,Orlando Magic,115,Chicago Bulls,106,No
+401307630,"NY 116, NO 106",New Orleans Pelicans,New York Knicks,20210414,New York Knicks,116,New Orleans Pelicans,106,No
+401307631,"IND 132, HOU 124",Houston Rockets,Indiana Pacers,20210414,Indiana Pacers,132,Houston Rockets,124,No
+401307632,"GS 147, OKC 109",Oklahoma City Thunder,Golden State Warriors,20210414,Golden State Warriors,147,Oklahoma City Thunder,109,No
+401307633,"DAL 114, MEM 113",Memphis Grizzlies,Dallas Mavericks,20210414,Dallas Mavericks,114,Memphis Grizzlies,113,No
+401307634,"DEN 123, MIA 106",Denver Nuggets,Miami Heat,20210414,Denver Nuggets,123,Miami Heat,106,Yes
+401307635,"WSH 123, SAC 111",Sacramento Kings,Washington Wizards,20210414,Washington Wizards,123,Sacramento Kings,111,No
+401307636,"MIL 120, ATL 109",Atlanta Hawks,Milwaukee Bucks,20210415,Milwaukee Bucks,120,Atlanta Hawks,109,No
+401307637,"GS 119, CLE 101",Cleveland Cavaliers,Golden State Warriors,20210415,Golden State Warriors,119,Cleveland Cavaliers,101,No
+401307638,"BOS 121, LAL 113",Los Angeles Lakers,Boston Celtics,20210415,Boston Celtics,121,Los Angeles Lakers,113,No
+401307639,"PHX 122, SAC 114",Phoenix Suns,Sacramento Kings,20210415,Phoenix Suns,122,Sacramento Kings,114,Yes
+401307640,"UTAH 119, IND 111",Utah Jazz,Indiana Pacers,20210416,Utah Jazz,119,Indiana Pacers,111,Yes
+401307641,"DET 110, OKC 104",Detroit Pistons,Oklahoma City Thunder,20210416,Detroit Pistons,110,Oklahoma City Thunder,104,Yes
+401307642,"PHI 106, LAC 103",Philadelphia 76ers,LA Clippers,20210416,Philadelphia 76ers,106,LA Clippers,103,Yes
+401307643,"WSH 117, NO 115 (OT)",Washington Wizards,New Orleans Pelicans,20210416,Washington Wizards,117,New Orleans Pelicans,115,Yes
+401307644,"BKN 130, CHA 115",Brooklyn Nets,Charlotte Hornets,20210416,Brooklyn Nets,130,Charlotte Hornets,115,Yes
+401307645,"TOR 113, ORL 102",Toronto Raptors,Orlando Magic,20210416,Toronto Raptors,113,Orlando Magic,102,Yes
+401307646,"MEM 126, CHI 115",Chicago Bulls,Memphis Grizzlies,20210416,Memphis Grizzlies,126,Chicago Bulls,115,No
+401307647,"DEN 128, HOU 99",Houston Rockets,Denver Nuggets,20210416,Denver Nuggets,128,Houston Rockets,99,No
+401307648,"MIN 119, MIA 111",Minnesota Timberwolves,Miami Heat,20210416,Minnesota Timberwolves,119,Miami Heat,111,Yes
+401307649,"POR 107, SA 106",San Antonio Spurs,Portland Trail Blazers,20210416,Portland Trail Blazers,107,San Antonio Spurs,106,No
+401307650,"NY 117, DAL 109",Dallas Mavericks,New York Knicks,20210416,New York Knicks,117,Dallas Mavericks,109,No

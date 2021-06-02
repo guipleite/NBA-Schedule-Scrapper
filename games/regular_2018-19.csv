@@ -1,0 +1,1010 @@
+Game_ID,Result,Home,Away,Date,Won,Won_Points,Lost,Lost_Points,Home_Won
+401070213,"BOS 105, PHI 87",Boston Celtics,Philadelphia 76ers,20181016,Boston Celtics,105,Philadelphia 76ers,87,Yes
+401070214,"GS 108, OKC 100",Golden State Warriors,Oklahoma City Thunder,20181016,Golden State Warriors,108,Oklahoma City Thunder,100,Yes
+401070693,"MIL 113, CHA 112",Charlotte Hornets,Milwaukee Bucks,20181017,Milwaukee Bucks,113,Charlotte Hornets,112,No
+401070694,"DET 103, BKN 100",Detroit Pistons,Brooklyn Nets,20181017,Detroit Pistons,103,Brooklyn Nets,100,Yes
+401070695,"IND 111, MEM 83",Indiana Pacers,Memphis Grizzlies,20181017,Indiana Pacers,111,Memphis Grizzlies,83,Yes
+401070696,"ORL 104, MIA 101",Orlando Magic,Miami Heat,20181017,Orlando Magic,104,Miami Heat,101,Yes
+401070697,"NY 126, ATL 107",New York Knicks,Atlanta Hawks,20181017,New York Knicks,126,Atlanta Hawks,107,Yes
+401070698,"TOR 116, CLE 104",Toronto Raptors,Cleveland Cavaliers,20181017,Toronto Raptors,116,Cleveland Cavaliers,104,Yes
+401070215,"NO 131, HOU 112",Houston Rockets,New Orleans Pelicans,20181017,New Orleans Pelicans,131,Houston Rockets,112,No
+401070699,"SA 112, MIN 108",San Antonio Spurs,Minnesota Timberwolves,20181017,San Antonio Spurs,112,Minnesota Timberwolves,108,Yes
+401070700,"UTAH 123, SAC 117",Sacramento Kings,Utah Jazz,20181017,Utah Jazz,123,Sacramento Kings,117,No
+401070216,"PHX 121, DAL 100",Phoenix Suns,Dallas Mavericks,20181017,Phoenix Suns,121,Dallas Mavericks,100,Yes
+401070701,"DEN 107, LAC 98",LA Clippers,Denver Nuggets,20181017,Denver Nuggets,107,LA Clippers,98,No
+401070217,"PHI 127, CHI 108",Philadelphia 76ers,Chicago Bulls,20181018,Philadelphia 76ers,127,Chicago Bulls,108,Yes
+401070702,"MIA 113, WSH 112",Washington Wizards,Miami Heat,20181018,Miami Heat,113,Washington Wizards,112,No
+401070218,"POR 128, LAL 119",Portland Trail Blazers,Los Angeles Lakers,20181018,Portland Trail Blazers,128,Los Angeles Lakers,119,Yes
+401070703,"CHA 120, ORL 88",Orlando Magic,Charlotte Hornets,20181019,Charlotte Hornets,120,Orlando Magic,88,No
+401070704,"BKN 107, NY 105",Brooklyn Nets,New York Knicks,20181019,Brooklyn Nets,107,New York Knicks,105,Yes
+401070219,"TOR 113, BOS 101",Toronto Raptors,Boston Celtics,20181019,Toronto Raptors,113,Boston Celtics,101,Yes
+401070705,"MEM 131, ATL 117",Memphis Grizzlies,Atlanta Hawks,20181019,Memphis Grizzlies,131,Atlanta Hawks,117,Yes
+401070706,"MIN 131, CLE 123",Minnesota Timberwolves,Cleveland Cavaliers,20181019,Minnesota Timberwolves,131,Cleveland Cavaliers,123,Yes
+401070707,"NO 149, SAC 129",New Orleans Pelicans,Sacramento Kings,20181019,New Orleans Pelicans,149,Sacramento Kings,129,Yes
+401070708,"MIL 118, IND 101",Milwaukee Bucks,Indiana Pacers,20181019,Milwaukee Bucks,118,Indiana Pacers,101,Yes
+401070220,"GS 124, UTAH 123",Utah Jazz,Golden State Warriors,20181019,Golden State Warriors,124,Utah Jazz,123,No
+401070709,"LAC 108, OKC 92",LA Clippers,Oklahoma City Thunder,20181019,LA Clippers,108,Oklahoma City Thunder,92,Yes
+401070221,"TOR 117, WSH 113",Washington Wizards,Toronto Raptors,20181020,Toronto Raptors,117,Washington Wizards,113,No
+401070710,"IND 132, BKN 112",Indiana Pacers,Brooklyn Nets,20181020,Indiana Pacers,132,Brooklyn Nets,112,Yes
+401070711,"BOS 103, NY 101",New York Knicks,Boston Celtics,20181020,Boston Celtics,103,New York Knicks,101,No
+401070712,"PHI 116, ORL 115",Philadelphia 76ers,Orlando Magic,20181020,Philadelphia 76ers,116,Orlando Magic,115,Yes
+401070713,"CHA 113, MIA 112",Miami Heat,Charlotte Hornets,20181020,Charlotte Hornets,113,Miami Heat,112,No
+401070714,"DET 118, CHI 116",Chicago Bulls,Detroit Pistons,20181020,Detroit Pistons,118,Chicago Bulls,116,No
+401070715,"DAL 140, MIN 136",Dallas Mavericks,Minnesota Timberwolves,20181020,Dallas Mavericks,140,Minnesota Timberwolves,136,Yes
+401070716,"DEN 119, PHX 91",Denver Nuggets,Phoenix Suns,20181020,Denver Nuggets,119,Phoenix Suns,91,Yes
+401070717,"POR 121, SA 108",Portland Trail Blazers,San Antonio Spurs,20181020,Portland Trail Blazers,121,San Antonio Spurs,108,Yes
+401070222,"HOU 124, LAL 115",Los Angeles Lakers,Houston Rockets,20181020,Houston Rockets,124,Los Angeles Lakers,115,No
+401070718,"ATL 133, CLE 111",Cleveland Cavaliers,Atlanta Hawks,20181021,Atlanta Hawks,133,Cleveland Cavaliers,111,No
+401070719,"SAC 131, OKC 120",Oklahoma City Thunder,Sacramento Kings,20181021,Sacramento Kings,131,Oklahoma City Thunder,120,No
+401070720,"DEN 100, GS 98",Denver Nuggets,Golden State Warriors,20181021,Denver Nuggets,100,Golden State Warriors,98,Yes
+401070223,"LAC 115, HOU 112",LA Clippers,Houston Rockets,20181021,LA Clippers,115,Houston Rockets,112,Yes
+401070721,"ORL 93, BOS 90",Boston Celtics,Orlando Magic,20181022,Orlando Magic,93,Boston Celtics,90,No
+401070722,"TOR 127, CHA 106",Toronto Raptors,Charlotte Hornets,20181022,Toronto Raptors,127,Charlotte Hornets,106,Yes
+401070723,"MIL 124, NY 113",Milwaukee Bucks,New York Knicks,20181022,Milwaukee Bucks,124,New York Knicks,113,Yes
+401070724,"MIN 101, IND 91",Minnesota Timberwolves,Indiana Pacers,20181022,Minnesota Timberwolves,101,Indiana Pacers,91,Yes
+401070725,"DAL 115, CHI 109",Dallas Mavericks,Chicago Bulls,20181022,Dallas Mavericks,115,Chicago Bulls,109,Yes
+401070726,"MEM 92, UTAH 84",Utah Jazz,Memphis Grizzlies,20181022,Memphis Grizzlies,92,Utah Jazz,84,No
+401070727,"WSH 125, POR 124 (OT)",Portland Trail Blazers,Washington Wizards,20181022,Washington Wizards,125,Portland Trail Blazers,124,No
+401070728,"GS 123, PHX 103",Golden State Warriors,Phoenix Suns,20181022,Golden State Warriors,123,Phoenix Suns,103,Yes
+401070729,"SA 143, LAL 142 (OT)",Los Angeles Lakers,San Antonio Spurs,20181022,San Antonio Spurs,143,Los Angeles Lakers,142,No
+401070730,"DET 133, PHI 132 (OT)",Detroit Pistons,Philadelphia 76ers,20181023,Detroit Pistons,133,Philadelphia 76ers,132,Yes
+401070731,"NO 116, LAC 109",New Orleans Pelicans,LA Clippers,20181023,New Orleans Pelicans,116,LA Clippers,109,Yes
+401070732,"DEN 126, SAC 112",Denver Nuggets,Sacramento Kings,20181023,Denver Nuggets,126,Sacramento Kings,112,Yes
+401070733,"ATL 111, DAL 104",Atlanta Hawks,Dallas Mavericks,20181024,Atlanta Hawks,111,Dallas Mavericks,104,Yes
+401070734,"BKN 102, CLE 86",Cleveland Cavaliers,Brooklyn Nets,20181024,Brooklyn Nets,102,Cleveland Cavaliers,86,No
+401070735,"MIA 110, NY 87",Miami Heat,New York Knicks,20181024,Miami Heat,110,New York Knicks,87,Yes
+401070736,"TOR 112, MIN 105",Toronto Raptors,Minnesota Timberwolves,20181024,Toronto Raptors,112,Minnesota Timberwolves,105,Yes
+401070737,"CHI 112, CHA 110",Chicago Bulls,Charlotte Hornets,20181024,Chicago Bulls,112,Charlotte Hornets,110,Yes
+401070738,"UTAH 100, HOU 89",Houston Rockets,Utah Jazz,20181024,Utah Jazz,100,Houston Rockets,89,No
+401070739,"IND 116, SA 96",San Antonio Spurs,Indiana Pacers,20181024,Indiana Pacers,116,San Antonio Spurs,96,No
+401070740,"MIL 123, PHI 108",Milwaukee Bucks,Philadelphia 76ers,20181024,Milwaukee Bucks,123,Philadelphia 76ers,108,Yes
+401070741,"LAL 131, PHX 113",Phoenix Suns,Los Angeles Lakers,20181024,Los Angeles Lakers,131,Phoenix Suns,113,No
+401070742,"SAC 97, MEM 92",Sacramento Kings,Memphis Grizzlies,20181024,Sacramento Kings,97,Memphis Grizzlies,92,Yes
+401070743,"GS 144, WSH 122",Golden State Warriors,Washington Wizards,20181024,Golden State Warriors,144,Washington Wizards,122,Yes
+401070744,"DET 110, CLE 103",Detroit Pistons,Cleveland Cavaliers,20181025,Detroit Pistons,110,Cleveland Cavaliers,103,Yes
+401070745,"POR 128, ORL 114",Orlando Magic,Portland Trail Blazers,20181025,Portland Trail Blazers,128,Orlando Magic,114,No
+401070746,"BOS 101, OKC 95",Oklahoma City Thunder,Boston Celtics,20181025,Boston Celtics,101,Oklahoma City Thunder,95,No
+401070747,"LAL 121, DEN 114",Los Angeles Lakers,Denver Nuggets,20181025,Los Angeles Lakers,121,Denver Nuggets,114,Yes
+401070748,"CHA 135, CHI 106",Charlotte Hornets,Chicago Bulls,20181026,Charlotte Hornets,135,Chicago Bulls,106,Yes
+401070749,"GS 128, NY 100",New York Knicks,Golden State Warriors,20181026,Golden State Warriors,128,New York Knicks,100,No
+401070750,"TOR 116, DAL 107",Toronto Raptors,Dallas Mavericks,20181026,Toronto Raptors,116,Dallas Mavericks,107,Yes
+401070751,"LAC 133, HOU 113",Houston Rockets,LA Clippers,20181026,LA Clippers,133,Houston Rockets,113,No
+401070752,"MIL 125, MIN 95",Minnesota Timberwolves,Milwaukee Bucks,20181026,Milwaukee Bucks,125,Minnesota Timberwolves,95,No
+401070753,"NO 117, BKN 115",New Orleans Pelicans,Brooklyn Nets,20181026,New Orleans Pelicans,117,Brooklyn Nets,115,Yes
+401070754,"SAC 116, WSH 112",Sacramento Kings,Washington Wizards,20181026,Sacramento Kings,116,Washington Wizards,112,Yes
+401070755,"BOS 109, DET 89",Detroit Pistons,Boston Celtics,20181027,Boston Celtics,109,Detroit Pistons,89,No
+401070756,"UTAH 132, NO 111",New Orleans Pelicans,Utah Jazz,20181027,Utah Jazz,132,New Orleans Pelicans,111,No
+401070757,"CHI 97, ATL 85",Atlanta Hawks,Chicago Bulls,20181027,Chicago Bulls,97,Atlanta Hawks,85,No
+401070758,"IND 119, CLE 107",Cleveland Cavaliers,Indiana Pacers,20181027,Indiana Pacers,119,Cleveland Cavaliers,107,No
+401070759,"PHI 105, CHA 103",Philadelphia 76ers,Charlotte Hornets,20181027,Philadelphia 76ers,105,Charlotte Hornets,103,Yes
+401070760,"MIA 120, POR 111",Miami Heat,Portland Trail Blazers,20181027,Miami Heat,120,Portland Trail Blazers,111,Yes
+401070761,"MEM 117, PHX 96",Memphis Grizzlies,Phoenix Suns,20181027,Memphis Grizzlies,117,Phoenix Suns,96,Yes
+401070762,"MIL 113, ORL 91",Milwaukee Bucks,Orlando Magic,20181027,Milwaukee Bucks,113,Orlando Magic,91,Yes
+401070763,"SA 110, LAL 106",San Antonio Spurs,Los Angeles Lakers,20181027,San Antonio Spurs,110,Los Angeles Lakers,106,Yes
+401070764,"GS 120, BKN 114",Brooklyn Nets,Golden State Warriors,20181028,Golden State Warriors,120,Brooklyn Nets,114,No
+401070765,"UTAH 113, DAL 104",Dallas Mavericks,Utah Jazz,20181028,Utah Jazz,113,Dallas Mavericks,104,No
+401070766,"OKC 117, PHX 110",Oklahoma City Thunder,Phoenix Suns,20181028,Oklahoma City Thunder,117,Phoenix Suns,110,Yes
+401070767,"LAC 136, WSH 104",LA Clippers,Washington Wizards,20181028,LA Clippers,136,Washington Wizards,104,Yes
+401070792,"OKC 111, CHA 107",Charlotte Hornets,Oklahoma City Thunder,20181101,Oklahoma City Thunder,111,Charlotte Hornets,107,No
+401070793,"DEN 110, CLE 91",Cleveland Cavaliers,Denver Nuggets,20181101,Denver Nuggets,110,Cleveland Cavaliers,91,No
+401070794,"PHI 122, LAC 113",Philadelphia 76ers,LA Clippers,20181101,Philadelphia 76ers,122,LA Clippers,113,Yes
+401070795,"SAC 146, ATL 115",Atlanta Hawks,Sacramento Kings,20181101,Sacramento Kings,146,Atlanta Hawks,115,No
+401070796,"BOS 117, MIL 113",Boston Celtics,Milwaukee Bucks,20181101,Boston Celtics,117,Milwaukee Bucks,113,Yes
+401070797,"POR 132, NO 119",Portland Trail Blazers,New Orleans Pelicans,20181101,Portland Trail Blazers,132,New Orleans Pelicans,119,Yes
+401070798,"LAC 120, ORL 95",Orlando Magic,LA Clippers,20181102,LA Clippers,120,Orlando Magic,95,No
+401070799,"HOU 119, BKN 111",Brooklyn Nets,Houston Rockets,20181102,Houston Rockets,119,Brooklyn Nets,111,No
+401070800,"OKC 134, WSH 111",Washington Wizards,Oklahoma City Thunder,20181102,Oklahoma City Thunder,134,Washington Wizards,111,No
+401070801,"IND 107, CHI 105",Chicago Bulls,Indiana Pacers,20181102,Indiana Pacers,107,Chicago Bulls,105,No
+401070802,"NY 118, DAL 106",Dallas Mavericks,New York Knicks,20181102,New York Knicks,118,Dallas Mavericks,106,No
+401070803,"MEM 110, UTAH 100",Utah Jazz,Memphis Grizzlies,20181102,Memphis Grizzlies,110,Utah Jazz,100,No
+401070804,"TOR 107, PHX 98",Phoenix Suns,Toronto Raptors,20181102,Toronto Raptors,107,Phoenix Suns,98,No
+401070805,"GS 116, MIN 99",Golden State Warriors,Minnesota Timberwolves,20181102,Golden State Warriors,116,Minnesota Timberwolves,99,Yes
+401070806,"PHI 109, DET 99",Philadelphia 76ers,Detroit Pistons,20181103,Philadelphia 76ers,109,Detroit Pistons,99,Yes
+401070807,"CHA 126, CLE 94",Charlotte Hornets,Cleveland Cavaliers,20181103,Charlotte Hornets,126,Cleveland Cavaliers,94,Yes
+401070808,"IND 102, BOS 101",Indiana Pacers,Boston Celtics,20181103,Indiana Pacers,102,Boston Celtics,101,Yes
+401070809,"ATL 123, MIA 118",Atlanta Hawks,Miami Heat,20181103,Atlanta Hawks,123,Miami Heat,118,Yes
+401070810,"HOU 96, CHI 88",Chicago Bulls,Houston Rockets,20181103,Houston Rockets,96,Chicago Bulls,88,No
+401070811,"SA 109, NO 95",San Antonio Spurs,New Orleans Pelicans,20181103,San Antonio Spurs,109,New Orleans Pelicans,95,Yes
+401070812,"DEN 103, UTAH 88",Denver Nuggets,Utah Jazz,20181103,Denver Nuggets,103,Utah Jazz,88,Yes
+401070813,"LAL 114, POR 110",Portland Trail Blazers,Los Angeles Lakers,20181103,Los Angeles Lakers,114,Portland Trail Blazers,110,No
+401070814,"MIL 144, SAC 109",Milwaukee Bucks,Sacramento Kings,20181104,Milwaukee Bucks,144,Sacramento Kings,109,Yes
+401070815,"BKN 122, PHI 97",Brooklyn Nets,Philadelphia 76ers,20181104,Brooklyn Nets,122,Philadelphia 76ers,97,Yes
+401070816,"WSH 108, NY 95",Washington Wizards,New York Knicks,20181104,Washington Wizards,108,New York Knicks,95,Yes
+401070817,"ORL 117, SA 110",San Antonio Spurs,Orlando Magic,20181104,Orlando Magic,117,San Antonio Spurs,110,No
+401070818,"PHX 102, MEM 100",Phoenix Suns,Memphis Grizzlies,20181104,Phoenix Suns,102,Memphis Grizzlies,100,Yes
+401070819,"POR 111, MIN 81",Portland Trail Blazers,Minnesota Timberwolves,20181104,Portland Trail Blazers,111,Minnesota Timberwolves,81,Yes
+401070820,"TOR 121, LAL 107",Los Angeles Lakers,Toronto Raptors,20181104,Toronto Raptors,121,Los Angeles Lakers,107,No
+401070821,"MIA 120, DET 115 (OT)",Detroit Pistons,Miami Heat,20181105,Miami Heat,120,Detroit Pistons,115,No
+401070822,"HOU 98, IND 94",Indiana Pacers,Houston Rockets,20181105,Houston Rockets,98,Indiana Pacers,94,No
+401070823,"ORL 102, CLE 100",Orlando Magic,Cleveland Cavaliers,20181105,Orlando Magic,102,Cleveland Cavaliers,100,Yes
+401070824,"CHI 116, NY 115 (2OT)",New York Knicks,Chicago Bulls,20181105,Chicago Bulls,116,New York Knicks,115,No
+401070825,"OKC 122, NO 116",Oklahoma City Thunder,New Orleans Pelicans,20181105,Oklahoma City Thunder,122,New Orleans Pelicans,116,Yes
+401070826,"DEN 115, BOS 107",Denver Nuggets,Boston Celtics,20181105,Denver Nuggets,115,Boston Celtics,107,Yes
+401070827,"TOR 124, UTAH 111",Utah Jazz,Toronto Raptors,20181105,Toronto Raptors,124,Utah Jazz,111,No
+401070828,"GS 117, MEM 101",Golden State Warriors,Memphis Grizzlies,20181105,Golden State Warriors,117,Memphis Grizzlies,101,Yes
+401070829,"LAC 120, MIN 109",LA Clippers,Minnesota Timberwolves,20181105,LA Clippers,120,Minnesota Timberwolves,109,Yes
+401070830,"CHA 113, ATL 102",Charlotte Hornets,Atlanta Hawks,20181106,Charlotte Hornets,113,Atlanta Hawks,102,Yes
+401070831,"DAL 119, WSH 100",Dallas Mavericks,Washington Wizards,20181106,Dallas Mavericks,119,Washington Wizards,100,Yes
+401070832,"BKN 104, PHX 82",Phoenix Suns,Brooklyn Nets,20181106,Brooklyn Nets,104,Phoenix Suns,82,No
+401070833,"POR 118, MIL 103",Portland Trail Blazers,Milwaukee Bucks,20181106,Portland Trail Blazers,118,Milwaukee Bucks,103,Yes
+401070834,"OKC 95, CLE 86",Cleveland Cavaliers,Oklahoma City Thunder,20181107,Oklahoma City Thunder,95,Cleveland Cavaliers,86,No
+401070835,"DET 103, ORL 96",Orlando Magic,Detroit Pistons,20181107,Detroit Pistons,103,Orlando Magic,96,No
+401070836,"NY 112, ATL 107",Atlanta Hawks,New York Knicks,20181107,New York Knicks,112,Atlanta Hawks,107,No
+401070837,"MIA 95, SA 88",Miami Heat,San Antonio Spurs,20181107,Miami Heat,95,San Antonio Spurs,88,Yes
+401070838,"PHI 100, IND 94",Indiana Pacers,Philadelphia 76ers,20181107,Philadelphia 76ers,100,Indiana Pacers,94,No
+401070839,"MEM 89, DEN 87",Memphis Grizzlies,Denver Nuggets,20181107,Memphis Grizzlies,89,Denver Nuggets,87,Yes
+401070840,"NO 107, CHI 98",New Orleans Pelicans,Chicago Bulls,20181107,New Orleans Pelicans,107,Chicago Bulls,98,Yes
+401070841,"UTAH 117, DAL 102",Utah Jazz,Dallas Mavericks,20181107,Utah Jazz,117,Dallas Mavericks,102,Yes
+401070842,"TOR 114, SAC 105",Sacramento Kings,Toronto Raptors,20181107,Toronto Raptors,114,Sacramento Kings,105,No
+401070843,"LAL 114, MIN 110",Los Angeles Lakers,Minnesota Timberwolves,20181107,Los Angeles Lakers,114,Minnesota Timberwolves,110,Yes
+401070844,"OKC 98, HOU 80",Oklahoma City Thunder,Houston Rockets,20181108,Oklahoma City Thunder,98,Houston Rockets,80,Yes
+401070845,"BOS 116, PHX 109 (OT)",Phoenix Suns,Boston Celtics,20181108,Boston Celtics,116,Phoenix Suns,109,No
+401070846,"POR 116, LAC 105",Portland Trail Blazers,LA Clippers,20181108,Portland Trail Blazers,116,LA Clippers,105,Yes
+401070847,"MIL 134, GS 111",Golden State Warriors,Milwaukee Bucks,20181108,Milwaukee Bucks,134,Golden State Warriors,111,No
+401070848,"ORL 117, WSH 108",Orlando Magic,Washington Wizards,20181109,Orlando Magic,117,Washington Wizards,108,Yes
+401070849,"PHI 133, CHA 132 (OT)",Philadelphia 76ers,Charlotte Hornets,20181109,Philadelphia 76ers,133,Charlotte Hornets,132,Yes
+401070850,"DET 124, ATL 109",Atlanta Hawks,Detroit Pistons,20181109,Detroit Pistons,124,Atlanta Hawks,109,No
+401070851,"IND 110, MIA 102",Miami Heat,Indiana Pacers,20181109,Indiana Pacers,110,Miami Heat,102,No
+401070852,"BKN 112, DEN 110",Denver Nuggets,Brooklyn Nets,20181109,Brooklyn Nets,112,Denver Nuggets,110,No
+401070853,"UTAH 123, BOS 115",Utah Jazz,Boston Celtics,20181109,Utah Jazz,123,Boston Celtics,115,Yes
+401070854,"SAC 121, MIN 110",Sacramento Kings,Minnesota Timberwolves,20181109,Sacramento Kings,121,Minnesota Timberwolves,110,Yes
+401070855,"TOR 128, NY 112",Toronto Raptors,New York Knicks,20181110,Toronto Raptors,128,New York Knicks,112,Yes
+401070856,"LAC 128, MIL 126 (OT)",LA Clippers,Milwaukee Bucks,20181110,LA Clippers,128,Milwaukee Bucks,126,Yes
+401070857,"NO 119, PHX 99",New Orleans Pelicans,Phoenix Suns,20181110,New Orleans Pelicans,119,Phoenix Suns,99,Yes
+401070858,"WSH 116, MIA 110",Miami Heat,Washington Wizards,20181110,Washington Wizards,116,Miami Heat,110,No
+401070859,"CHI 99, CLE 98",Chicago Bulls,Cleveland Cavaliers,20181110,Chicago Bulls,99,Cleveland Cavaliers,98,Yes
+401070860,"MEM 112, PHI 106 (OT)",Memphis Grizzlies,Philadelphia 76ers,20181110,Memphis Grizzlies,112,Philadelphia 76ers,106,Yes
+401070861,"SA 96, HOU 89",San Antonio Spurs,Houston Rockets,20181110,San Antonio Spurs,96,Houston Rockets,89,Yes
+401070862,"GS 116, BKN 100",Golden State Warriors,Brooklyn Nets,20181110,Golden State Warriors,116,Brooklyn Nets,100,Yes
+401070863,"DAL 111, OKC 96",Dallas Mavericks,Oklahoma City Thunder,20181110,Dallas Mavericks,111,Oklahoma City Thunder,96,Yes
+401070864,"LAL 101, SAC 86",Sacramento Kings,Los Angeles Lakers,20181110,Los Angeles Lakers,101,Sacramento Kings,86,No
+401070865,"CHA 113, DET 103",Detroit Pistons,Charlotte Hornets,20181111,Charlotte Hornets,113,Detroit Pistons,103,No
+401070866,"HOU 115, IND 103",Houston Rockets,Indiana Pacers,20181111,Houston Rockets,115,Indiana Pacers,103,Yes
+401070867,"ORL 115, NY 89",New York Knicks,Orlando Magic,20181111,Orlando Magic,115,New York Knicks,89,No
+401070868,"MIL 121, DEN 114",Denver Nuggets,Milwaukee Bucks,20181111,Milwaukee Bucks,121,Denver Nuggets,114,No
+401070869,"POR 100, BOS 94",Portland Trail Blazers,Boston Celtics,20181111,Portland Trail Blazers,100,Boston Celtics,94,Yes
+401070870,"LAL 107, ATL 106",Los Angeles Lakers,Atlanta Hawks,20181111,Los Angeles Lakers,107,Atlanta Hawks,106,Yes
+401070880,"CLE 113, CHA 89",Cleveland Cavaliers,Charlotte Hornets,20181113,Cleveland Cavaliers,113,Charlotte Hornets,89,Yes
+401070881,"HOU 109, DEN 99",Denver Nuggets,Houston Rockets,20181113,Houston Rockets,109,Denver Nuggets,99,No
+401070882,"GS 110, ATL 103",Golden State Warriors,Atlanta Hawks,20181113,Golden State Warriors,110,Atlanta Hawks,103,Yes
+401070883,"ORL 111, PHI 106",Orlando Magic,Philadelphia 76ers,20181114,Orlando Magic,111,Philadelphia 76ers,106,Yes
+401070884,"WSH 119, CLE 95",Washington Wizards,Cleveland Cavaliers,20181114,Washington Wizards,119,Cleveland Cavaliers,95,Yes
+401070885,"BOS 111, CHI 82",Boston Celtics,Chicago Bulls,20181114,Boston Celtics,111,Chicago Bulls,82,Yes
+401070886,"MIA 120, BKN 107",Brooklyn Nets,Miami Heat,20181114,Miami Heat,120,Brooklyn Nets,107,No
+401070887,"DET 106, TOR 104",Toronto Raptors,Detroit Pistons,20181114,Detroit Pistons,106,Toronto Raptors,104,No
+401070888,"MEM 116, MIL 113",Milwaukee Bucks,Memphis Grizzlies,20181114,Memphis Grizzlies,116,Milwaukee Bucks,113,No
+401070889,"MIN 107, NO 100",Minnesota Timberwolves,New Orleans Pelicans,20181114,Minnesota Timberwolves,107,New Orleans Pelicans,100,Yes
+401070890,"OKC 128, NY 103",Oklahoma City Thunder,New York Knicks,20181114,Oklahoma City Thunder,128,New York Knicks,103,Yes
+401070891,"DAL 118, UTAH 68",Dallas Mavericks,Utah Jazz,20181114,Dallas Mavericks,118,Utah Jazz,68,Yes
+401070892,"PHX 116, SA 96",Phoenix Suns,San Antonio Spurs,20181114,Phoenix Suns,116,San Antonio Spurs,96,Yes
+401070893,"LAL 126, POR 117",Los Angeles Lakers,Portland Trail Blazers,20181114,Los Angeles Lakers,126,Portland Trail Blazers,117,Yes
+401070894,"HOU 107, GS 86",Houston Rockets,Golden State Warriors,20181115,Houston Rockets,107,Golden State Warriors,86,Yes
+401070895,"DEN 138, ATL 93",Denver Nuggets,Atlanta Hawks,20181115,Denver Nuggets,138,Atlanta Hawks,93,Yes
+401070896,"LAC 116, SA 111",LA Clippers,San Antonio Spurs,20181115,LA Clippers,116,San Antonio Spurs,111,Yes
+401070897,"BOS 123, TOR 116 (OT)",Boston Celtics,Toronto Raptors,20181116,Boston Celtics,123,Toronto Raptors,116,Yes
+401070898,"IND 99, MIA 91",Indiana Pacers,Miami Heat,20181116,Indiana Pacers,99,Miami Heat,91,Yes
+401070899,"PHI 113, UTAH 107",Philadelphia 76ers,Utah Jazz,20181116,Philadelphia 76ers,113,Utah Jazz,107,Yes
+401070900,"BKN 115, WSH 104",Washington Wizards,Brooklyn Nets,20181116,Brooklyn Nets,115,Washington Wizards,104,No
+401070901,"MEM 112, SAC 104",Memphis Grizzlies,Sacramento Kings,20181116,Memphis Grizzlies,112,Sacramento Kings,104,Yes
+401070902,"MIN 112, POR 96",Minnesota Timberwolves,Portland Trail Blazers,20181116,Minnesota Timberwolves,112,Portland Trail Blazers,96,Yes
+401070903,"NO 129, NY 124",New Orleans Pelicans,New York Knicks,20181116,New Orleans Pelicans,129,New York Knicks,124,Yes
+401070904,"MIL 123, CHI 104",Milwaukee Bucks,Chicago Bulls,20181116,Milwaukee Bucks,123,Chicago Bulls,104,Yes
+401070905,"LAC 127, BKN 119",Brooklyn Nets,LA Clippers,20181117,LA Clippers,127,Brooklyn Nets,119,No
+401070906,"PHI 122, CHA 119 (OT)",Charlotte Hornets,Philadelphia 76ers,20181117,Philadelphia 76ers,122,Charlotte Hornets,119,No
+401070907,"IND 97, ATL 89",Indiana Pacers,Atlanta Hawks,20181117,Indiana Pacers,97,Atlanta Hawks,89,Yes
+401070908,"ORL 130, LAL 117",Orlando Magic,Los Angeles Lakers,20181117,Orlando Magic,130,Los Angeles Lakers,117,Yes
+401070909,"NO 125, DEN 115",New Orleans Pelicans,Denver Nuggets,20181117,New Orleans Pelicans,125,Denver Nuggets,115,Yes
+401070910,"UTAH 98, BOS 86",Boston Celtics,Utah Jazz,20181117,Utah Jazz,98,Boston Celtics,86,No
+401070911,"TOR 122, CHI 83",Chicago Bulls,Toronto Raptors,20181117,Toronto Raptors,122,Chicago Bulls,83,No
+401070912,"HOU 132, SAC 112",Houston Rockets,Sacramento Kings,20181117,Houston Rockets,132,Sacramento Kings,112,Yes
+401070913,"DAL 112, GS 109",Dallas Mavericks,Golden State Warriors,20181117,Dallas Mavericks,112,Golden State Warriors,109,Yes
+401070914,"OKC 110, PHX 100",Phoenix Suns,Oklahoma City Thunder,20181117,Oklahoma City Thunder,110,Phoenix Suns,100,No
+401070915,"MEM 100, MIN 87",Minnesota Timberwolves,Memphis Grizzlies,20181118,Memphis Grizzlies,100,Minnesota Timberwolves,87,No
+401070916,"LAL 113, MIA 97",Miami Heat,Los Angeles Lakers,20181118,Los Angeles Lakers,113,Miami Heat,97,No
+401070917,"ORL 131, NY 117",Orlando Magic,New York Knicks,20181118,Orlando Magic,131,New York Knicks,117,Yes
+401070918,"POR 119, WSH 109",Washington Wizards,Portland Trail Blazers,20181118,Portland Trail Blazers,119,Washington Wizards,109,No
+401070919,"SA 104, GS 92",San Antonio Spurs,Golden State Warriors,20181118,San Antonio Spurs,104,Golden State Warriors,92,Yes
+401070920,"CHA 117, BOS 112",Charlotte Hornets,Boston Celtics,20181119,Charlotte Hornets,117,Boston Celtics,112,Yes
+401070921,"DET 113, CLE 102",Detroit Pistons,Cleveland Cavaliers,20181119,Detroit Pistons,113,Cleveland Cavaliers,102,Yes
+401070922,"IND 121, UTAH 94",Indiana Pacers,Utah Jazz,20181119,Indiana Pacers,121,Utah Jazz,94,Yes
+401070923,"PHI 119, PHX 114",Philadelphia 76ers,Phoenix Suns,20181119,Philadelphia 76ers,119,Phoenix Suns,114,Yes
+401070924,"LAC 127, ATL 119",Atlanta Hawks,LA Clippers,20181119,LA Clippers,127,Atlanta Hawks,119,No
+401070925,"MEM 98, DAL 88",Memphis Grizzlies,Dallas Mavericks,20181119,Memphis Grizzlies,98,Dallas Mavericks,88,Yes
+401070926,"MIL 104, DEN 98",Milwaukee Bucks,Denver Nuggets,20181119,Milwaukee Bucks,104,Denver Nuggets,98,Yes
+401070927,"NO 140, SA 126",New Orleans Pelicans,San Antonio Spurs,20181119,New Orleans Pelicans,140,San Antonio Spurs,126,Yes
+401070928,"SAC 117, OKC 113",Sacramento Kings,Oklahoma City Thunder,20181119,Sacramento Kings,117,Oklahoma City Thunder,113,Yes
+401070929,"TOR 93, ORL 91",Orlando Magic,Toronto Raptors,20181120,Toronto Raptors,93,Orlando Magic,91,No
+401070930,"WSH 125, LAC 118",Washington Wizards,LA Clippers,20181120,Washington Wizards,125,LA Clippers,118,Yes
+401070931,"BKN 104, MIA 92",Miami Heat,Brooklyn Nets,20181120,Brooklyn Nets,104,Miami Heat,92,No
+401070932,"POR 118, NY 114",New York Knicks,Portland Trail Blazers,20181120,Portland Trail Blazers,118,New York Knicks,114,No
+401070946,"MIN 112, BKN 102",Brooklyn Nets,Minnesota Timberwolves,20181123,Minnesota Timberwolves,112,Brooklyn Nets,102,No
+401070947,"LAC 112, MEM 107 (OT)",LA Clippers,Memphis Grizzlies,20181123,LA Clippers,112,Memphis Grizzlies,107,Yes
+401070948,"DET 116, HOU 111 (OT)",Detroit Pistons,Houston Rockets,20181123,Detroit Pistons,116,Houston Rockets,111,Yes
+401070949,"BOS 114, ATL 96",Atlanta Hawks,Boston Celtics,20181123,Boston Celtics,114,Atlanta Hawks,96,No
+401070950,"NY 114, NO 109",New York Knicks,New Orleans Pelicans,20181123,New York Knicks,114,New Orleans Pelicans,109,Yes
+401070951,"CLE 121, PHI 112",Philadelphia 76ers,Cleveland Cavaliers,20181123,Cleveland Cavaliers,121,Philadelphia 76ers,112,No
+401070952,"TOR 125, WSH 107",Toronto Raptors,Washington Wizards,20181123,Toronto Raptors,125,Washington Wizards,107,Yes
+401070953,"SA 111, IND 100",Indiana Pacers,San Antonio Spurs,20181123,San Antonio Spurs,111,Indiana Pacers,100,No
+401070954,"MIA 103, CHI 96",Chicago Bulls,Miami Heat,20181123,Miami Heat,103,Chicago Bulls,96,No
+401070955,"OKC 109, CHA 104",Oklahoma City Thunder,Charlotte Hornets,20181123,Oklahoma City Thunder,109,Charlotte Hornets,104,Yes
+401070956,"PHX 116, MIL 114",Milwaukee Bucks,Phoenix Suns,20181123,Phoenix Suns,116,Milwaukee Bucks,114,No
+401070957,"DEN 112, ORL 87",Denver Nuggets,Orlando Magic,20181123,Denver Nuggets,112,Orlando Magic,87,Yes
+401070958,"GS 125, POR 97",Golden State Warriors,Portland Trail Blazers,20181123,Golden State Warriors,125,Portland Trail Blazers,97,Yes
+401070959,"LAL 90, UTAH 83",Los Angeles Lakers,Utah Jazz,20181123,Los Angeles Lakers,90,Utah Jazz,83,Yes
+401070960,"CLE 117, HOU 108",Cleveland Cavaliers,Houston Rockets,20181124,Cleveland Cavaliers,117,Houston Rockets,108,Yes
+401070961,"WSH 124, NO 114",Washington Wizards,New Orleans Pelicans,20181124,Washington Wizards,124,New Orleans Pelicans,114,Yes
+401070962,"MIN 111, CHI 96",Minnesota Timberwolves,Chicago Bulls,20181124,Minnesota Timberwolves,111,Chicago Bulls,96,Yes
+401070963,"DEN 105, OKC 98",Oklahoma City Thunder,Denver Nuggets,20181124,Denver Nuggets,105,Oklahoma City Thunder,98,No
+401070964,"DAL 113, BOS 104",Dallas Mavericks,Boston Celtics,20181124,Dallas Mavericks,113,Boston Celtics,104,Yes
+401070965,"MIL 135, SA 129",Milwaukee Bucks,San Antonio Spurs,20181124,Milwaukee Bucks,135,San Antonio Spurs,129,Yes
+401070966,"GS 117, SAC 116",Golden State Warriors,Sacramento Kings,20181124,Golden State Warriors,117,Sacramento Kings,116,Yes
+401070975,"CHA 110, MIL 107",Charlotte Hornets,Milwaukee Bucks,20181126,Charlotte Hornets,110,Milwaukee Bucks,107,Yes
+401070976,"MIN 102, CLE 95",Cleveland Cavaliers,Minnesota Timberwolves,20181126,Minnesota Timberwolves,102,Cleveland Cavaliers,95,No
+401070977,"WSH 135, HOU 131 (OT)",Washington Wizards,Houston Rockets,20181126,Washington Wizards,135,Houston Rockets,131,Yes
+401070978,"SA 108, CHI 107",Chicago Bulls,San Antonio Spurs,20181126,San Antonio Spurs,108,Chicago Bulls,107,No
+401070979,"BOS 124, NO 107",New Orleans Pelicans,Boston Celtics,20181126,Boston Celtics,124,New Orleans Pelicans,107,No
+401070980,"IND 121, UTAH 88",Utah Jazz,Indiana Pacers,20181126,Indiana Pacers,121,Utah Jazz,88,No
+401070981,"GS 116, ORL 110",Golden State Warriors,Orlando Magic,20181126,Golden State Warriors,116,Orlando Magic,110,Yes
+401070982,"DET 115, NY 108",Detroit Pistons,New York Knicks,20181127,Detroit Pistons,115,New York Knicks,108,Yes
+401070983,"ATL 115, MIA 113",Miami Heat,Atlanta Hawks,20181127,Atlanta Hawks,115,Miami Heat,113,No
+401070984,"TOR 122, MEM 114",Memphis Grizzlies,Toronto Raptors,20181127,Toronto Raptors,122,Memphis Grizzlies,114,No
+401070985,"DEN 117, LAL 85",Denver Nuggets,Los Angeles Lakers,20181127,Denver Nuggets,117,Los Angeles Lakers,85,Yes
+401070986,"IND 109, PHX 104",Phoenix Suns,Indiana Pacers,20181127,Indiana Pacers,109,Phoenix Suns,104,No
+401070987,"CHA 108, ATL 94",Charlotte Hornets,Atlanta Hawks,20181128,Charlotte Hornets,108,Atlanta Hawks,94,Yes
+401070988,"PHI 117, NY 91",Philadelphia 76ers,New York Knicks,20181128,Philadelphia 76ers,117,New York Knicks,91,Yes
+401070989,"UTAH 101, BKN 91",Brooklyn Nets,Utah Jazz,20181128,Utah Jazz,101,Brooklyn Nets,91,No
+401070990,"DAL 128, HOU 108",Houston Rockets,Dallas Mavericks,20181128,Dallas Mavericks,128,Houston Rockets,108,No
+401070991,"MIL 116, CHI 113",Milwaukee Bucks,Chicago Bulls,20181128,Milwaukee Bucks,116,Chicago Bulls,113,Yes
+401070992,"MIN 128, SA 89",Minnesota Timberwolves,San Antonio Spurs,20181128,Minnesota Timberwolves,128,San Antonio Spurs,89,Yes
+401070993,"NO 125, WSH 104",New Orleans Pelicans,Washington Wizards,20181128,New Orleans Pelicans,125,Washington Wizards,104,Yes
+401070994,"OKC 100, CLE 83",Oklahoma City Thunder,Cleveland Cavaliers,20181128,Oklahoma City Thunder,100,Cleveland Cavaliers,83,Yes
+401070995,"POR 115, ORL 112",Portland Trail Blazers,Orlando Magic,20181128,Portland Trail Blazers,115,Orlando Magic,112,Yes
+401070996,"LAC 115, PHX 99",LA Clippers,Phoenix Suns,20181128,LA Clippers,115,Phoenix Suns,99,Yes
+401071000,"BOS 128, CLE 95",Boston Celtics,Cleveland Cavaliers,20181130,Boston Celtics,128,Cleveland Cavaliers,95,Yes
+401071001,"UTAH 119, CHA 111",Charlotte Hornets,Utah Jazz,20181130,Utah Jazz,119,Charlotte Hornets,111,No
+401071002,"DET 107, CHI 88",Detroit Pistons,Chicago Bulls,20181130,Detroit Pistons,107,Chicago Bulls,88,Yes
+401071003,"PHI 123, WSH 98",Philadelphia 76ers,Washington Wizards,20181130,Philadelphia 76ers,123,Washington Wizards,98,Yes
+401071004,"MEM 131, BKN 125 (2OT)",Brooklyn Nets,Memphis Grizzlies,20181130,Memphis Grizzlies,131,Brooklyn Nets,125,No
+401071005,"MIA 106, NO 101",Miami Heat,New Orleans Pelicans,20181130,Miami Heat,106,New Orleans Pelicans,101,Yes
+401071006,"OKC 124, ATL 109",Oklahoma City Thunder,Atlanta Hawks,20181130,Oklahoma City Thunder,124,Atlanta Hawks,109,Yes
+401071007,"HOU 136, SA 105",San Antonio Spurs,Houston Rockets,20181130,Houston Rockets,136,San Antonio Spurs,105,No
+401071008,"ORL 99, PHX 85",Phoenix Suns,Orlando Magic,20181130,Orlando Magic,99,Phoenix Suns,85,No
+401071009,"LAL 114, DAL 103",Los Angeles Lakers,Dallas Mavericks,20181130,Los Angeles Lakers,114,Dallas Mavericks,103,Yes
+401071010,"DEN 113, POR 112",Portland Trail Blazers,Denver Nuggets,20181130,Denver Nuggets,113,Portland Trail Blazers,112,No
+401071011,"NY 136, MIL 134 (OT)",New York Knicks,Milwaukee Bucks,20181201,New York Knicks,136,Milwaukee Bucks,134,Yes
+401071012,"DET 111, GS 102",Detroit Pistons,Golden State Warriors,20181201,Detroit Pistons,111,Golden State Warriors,102,Yes
+401071013,"WSH 102, BKN 88",Washington Wizards,Brooklyn Nets,20181201,Washington Wizards,102,Brooklyn Nets,88,Yes
+401071014,"TOR 106, CLE 95",Cleveland Cavaliers,Toronto Raptors,20181201,Toronto Raptors,106,Cleveland Cavaliers,95,No
+401071015,"HOU 121, CHI 105",Houston Rockets,Chicago Bulls,20181201,Houston Rockets,121,Chicago Bulls,105,Yes
+401071016,"BOS 118, MIN 109",Minnesota Timberwolves,Boston Celtics,20181201,Boston Celtics,118,Minnesota Timberwolves,109,No
+401071017,"SAC 111, IND 110",Sacramento Kings,Indiana Pacers,20181201,Sacramento Kings,111,Indiana Pacers,110,Yes
+401071018,"LAL 120, PHX 96",Los Angeles Lakers,Phoenix Suns,20181202,Los Angeles Lakers,120,Phoenix Suns,96,Yes
+401071019,"NO 119, CHA 109",Charlotte Hornets,New Orleans Pelicans,20181202,New Orleans Pelicans,119,Charlotte Hornets,109,No
+401071020,"MIA 102, UTAH 100",Miami Heat,Utah Jazz,20181202,Miami Heat,102,Utah Jazz,100,Yes
+401071021,"PHI 103, MEM 95",Philadelphia 76ers,Memphis Grizzlies,20181202,Philadelphia 76ers,103,Memphis Grizzlies,95,Yes
+401071022,"DAL 114, LAC 110",Dallas Mavericks,LA Clippers,20181202,Dallas Mavericks,114,LA Clippers,110,Yes
+401071023,"SA 131, POR 118",San Antonio Spurs,Portland Trail Blazers,20181202,San Antonio Spurs,131,Portland Trail Blazers,118,Yes
+401071024,"OKC 110, DET 83",Detroit Pistons,Oklahoma City Thunder,20181203,Oklahoma City Thunder,110,Detroit Pistons,83,No
+401071025,"GS 128, ATL 111",Atlanta Hawks,Golden State Warriors,20181203,Golden State Warriors,128,Atlanta Hawks,111,No
+401071026,"CLE 99, BKN 97",Brooklyn Nets,Cleveland Cavaliers,20181203,Cleveland Cavaliers,99,Brooklyn Nets,97,No
+401071027,"WSH 110, NY 107",New York Knicks,Washington Wizards,20181203,Washington Wizards,110,New York Knicks,107,No
+401071028,"DEN 106, TOR 103",Toronto Raptors,Denver Nuggets,20181203,Denver Nuggets,106,Toronto Raptors,103,No
+401071029,"MIN 103, HOU 91",Minnesota Timberwolves,Houston Rockets,20181203,Minnesota Timberwolves,103,Houston Rockets,91,Yes
+401071030,"LAC 129, NO 126",New Orleans Pelicans,LA Clippers,20181203,LA Clippers,129,New Orleans Pelicans,126,No
+401071036,"GS 129, CLE 105",Cleveland Cavaliers,Golden State Warriors,20181205,Golden State Warriors,129,Cleveland Cavaliers,105,No
+401071037,"DEN 124, ORL 118 (OT)",Orlando Magic,Denver Nuggets,20181205,Denver Nuggets,124,Orlando Magic,118,No
+401071038,"WSH 131, ATL 117",Atlanta Hawks,Washington Wizards,20181205,Washington Wizards,131,Atlanta Hawks,117,No
+401071039,"OKC 114, BKN 112",Brooklyn Nets,Oklahoma City Thunder,20181205,Oklahoma City Thunder,114,Brooklyn Nets,112,No
+401071040,"TOR 113, PHI 102",Toronto Raptors,Philadelphia 76ers,20181205,Toronto Raptors,113,Philadelphia 76ers,102,Yes
+401071041,"MEM 96, LAC 86",Memphis Grizzlies,LA Clippers,20181205,Memphis Grizzlies,96,LA Clippers,86,Yes
+401071042,"MIL 115, DET 92",Milwaukee Bucks,Detroit Pistons,20181205,Milwaukee Bucks,115,Detroit Pistons,92,Yes
+401071043,"MIN 121, CHA 104",Minnesota Timberwolves,Charlotte Hornets,20181205,Minnesota Timberwolves,121,Charlotte Hornets,104,Yes
+401071044,"NO 132, DAL 106",New Orleans Pelicans,Dallas Mavericks,20181205,New Orleans Pelicans,132,Dallas Mavericks,106,Yes
+401071045,"LAL 121, SA 113",Los Angeles Lakers,San Antonio Spurs,20181205,Los Angeles Lakers,121,San Antonio Spurs,113,Yes
+401071046,"BOS 128, NY 100",Boston Celtics,New York Knicks,20181206,Boston Celtics,128,New York Knicks,100,Yes
+401071047,"POR 108, PHX 86",Portland Trail Blazers,Phoenix Suns,20181206,Portland Trail Blazers,108,Phoenix Suns,86,Yes
+401071048,"UTAH 118, HOU 91",Utah Jazz,Houston Rockets,20181206,Utah Jazz,118,Houston Rockets,91,Yes
+401071049,"CHA 113, DEN 107",Charlotte Hornets,Denver Nuggets,20181207,Charlotte Hornets,113,Denver Nuggets,107,Yes
+401071050,"PHI 117, DET 111",Detroit Pistons,Philadelphia 76ers,20181207,Philadelphia 76ers,117,Detroit Pistons,111,No
+401071051,"IND 112, ORL 90",Orlando Magic,Indiana Pacers,20181207,Indiana Pacers,112,Orlando Magic,90,No
+401071052,"BKN 106, TOR 105 (OT)",Brooklyn Nets,Toronto Raptors,20181207,Brooklyn Nets,106,Toronto Raptors,105,Yes
+401071053,"SAC 129, CLE 110",Cleveland Cavaliers,Sacramento Kings,20181207,Sacramento Kings,129,Cleveland Cavaliers,110,No
+401071054,"CHI 114, OKC 112",Chicago Bulls,Oklahoma City Thunder,20181207,Chicago Bulls,114,Oklahoma City Thunder,112,Yes
+401071055,"MEM 107, NO 103",New Orleans Pelicans,Memphis Grizzlies,20181207,Memphis Grizzlies,107,New Orleans Pelicans,103,No
+401071056,"SA 133, LAL 120",San Antonio Spurs,Los Angeles Lakers,20181207,San Antonio Spurs,133,Los Angeles Lakers,120,Yes
+401071057,"MIA 115, PHX 98",Phoenix Suns,Miami Heat,20181207,Miami Heat,115,Phoenix Suns,98,No
+401071058,"GS 105, MIL 95",Milwaukee Bucks,Golden State Warriors,20181207,Golden State Warriors,105,Milwaukee Bucks,95,No
+401071059,"DAL 107, HOU 104",Dallas Mavericks,Houston Rockets,20181208,Dallas Mavericks,107,Houston Rockets,104,Yes
+401071060,"IND 107, SAC 97",Indiana Pacers,Sacramento Kings,20181208,Indiana Pacers,107,Sacramento Kings,97,Yes
+401071061,"ATL 106, DEN 98",Atlanta Hawks,Denver Nuggets,20181208,Atlanta Hawks,106,Denver Nuggets,98,Yes
+401071062,"CLE 116, WSH 101",Cleveland Cavaliers,Washington Wizards,20181208,Cleveland Cavaliers,116,Washington Wizards,101,Yes
+401071063,"BKN 112, NY 104",New York Knicks,Brooklyn Nets,20181208,Brooklyn Nets,112,New York Knicks,104,No
+401071064,"BOS 133, CHI 77",Chicago Bulls,Boston Celtics,20181208,Boston Celtics,133,Chicago Bulls,77,No
+401071065,"LAL 111, MEM 88",Memphis Grizzlies,Los Angeles Lakers,20181208,Los Angeles Lakers,111,Memphis Grizzlies,88,No
+401071066,"POR 113, MIN 105",Portland Trail Blazers,Minnesota Timberwolves,20181208,Portland Trail Blazers,113,Minnesota Timberwolves,105,Yes
+401071067,"MIA 121, LAC 98",LA Clippers,Miami Heat,20181208,Miami Heat,121,LA Clippers,98,No
+401071072,"IND 109, WSH 101",Indiana Pacers,Washington Wizards,20181210,Indiana Pacers,109,Washington Wizards,101,Yes
+401071073,"PHI 116, DET 102",Philadelphia 76ers,Detroit Pistons,20181210,Philadelphia 76ers,116,Detroit Pistons,102,Yes
+401071074,"BOS 113, NO 100",Boston Celtics,New Orleans Pelicans,20181210,Boston Celtics,113,New Orleans Pelicans,100,Yes
+401071075,"SAC 108, CHI 89",Chicago Bulls,Sacramento Kings,20181210,Sacramento Kings,108,Chicago Bulls,89,No
+401071076,"MIL 108, CLE 92",Milwaukee Bucks,Cleveland Cavaliers,20181210,Milwaukee Bucks,108,Cleveland Cavaliers,92,Yes
+401071077,"OKC 122, UTAH 113",Oklahoma City Thunder,Utah Jazz,20181210,Oklahoma City Thunder,122,Utah Jazz,113,Yes
+401071078,"DAL 101, ORL 76",Dallas Mavericks,Orlando Magic,20181210,Dallas Mavericks,101,Orlando Magic,76,Yes
+401071079,"DEN 105, MEM 99",Denver Nuggets,Memphis Grizzlies,20181210,Denver Nuggets,105,Memphis Grizzlies,99,Yes
+401071080,"LAC 123, PHX 119 (OT)",Phoenix Suns,LA Clippers,20181210,LA Clippers,123,Phoenix Suns,119,No
+401071081,"GS 116, MIN 108",Golden State Warriors,Minnesota Timberwolves,20181210,Golden State Warriors,116,Minnesota Timberwolves,108,Yes
+401071082,"LAL 108, MIA 105",Los Angeles Lakers,Miami Heat,20181210,Los Angeles Lakers,108,Miami Heat,105,Yes
+401071083,"HOU 111, POR 104",Houston Rockets,Portland Trail Blazers,20181211,Houston Rockets,111,Portland Trail Blazers,104,Yes
+401071084,"SA 111, PHX 86",San Antonio Spurs,Phoenix Suns,20181211,San Antonio Spurs,111,Phoenix Suns,86,Yes
+401071085,"TOR 123, LAC 99",LA Clippers,Toronto Raptors,20181211,Toronto Raptors,123,LA Clippers,99,No
+401071101,"BOS 129, ATL 108",Boston Celtics,Atlanta Hawks,20181214,Boston Celtics,129,Atlanta Hawks,108,Yes
+401071102,"NY 126, CHA 124 (OT)",Charlotte Hornets,New York Knicks,20181214,New York Knicks,126,Charlotte Hornets,124,No
+401071103,"BKN 125, WSH 118",Brooklyn Nets,Washington Wizards,20181214,Brooklyn Nets,125,Washington Wizards,118,Yes
+401071104,"MIL 114, CLE 102",Cleveland Cavaliers,Milwaukee Bucks,20181214,Milwaukee Bucks,114,Cleveland Cavaliers,102,No
+401071105,"IND 113, PHI 101",Philadelphia 76ers,Indiana Pacers,20181214,Indiana Pacers,113,Philadelphia 76ers,101,No
+401071106,"MIA 100, MEM 97",Memphis Grizzlies,Miami Heat,20181214,Miami Heat,100,Memphis Grizzlies,97,No
+401071107,"DEN 109, OKC 98",Denver Nuggets,Oklahoma City Thunder,20181214,Denver Nuggets,109,Oklahoma City Thunder,98,Yes
+401071108,"POR 128, TOR 122",Portland Trail Blazers,Toronto Raptors,20181214,Portland Trail Blazers,128,Toronto Raptors,122,Yes
+401071109,"GS 130, SAC 125",Sacramento Kings,Golden State Warriors,20181214,Golden State Warriors,130,Sacramento Kings,125,No
+401071110,"ORL 96, UTAH 89",Orlando Magic,Utah Jazz,20181215,Orlando Magic,96,Utah Jazz,89,Yes
+401071111,"LAL 128, CHA 100",Charlotte Hornets,Los Angeles Lakers,20181215,Los Angeles Lakers,128,Charlotte Hornets,100,No
+401071112,"DET 113, BOS 104",Detroit Pistons,Boston Celtics,20181215,Detroit Pistons,113,Boston Celtics,104,Yes
+401071113,"HOU 105, MEM 97",Memphis Grizzlies,Houston Rockets,20181215,Houston Rockets,105,Memphis Grizzlies,97,No
+401071114,"CHI 98, SA 93",San Antonio Spurs,Chicago Bulls,20181215,Chicago Bulls,98,San Antonio Spurs,93,No
+401071115,"OKC 110, LAC 104",Oklahoma City Thunder,LA Clippers,20181215,Oklahoma City Thunder,110,LA Clippers,104,Yes
+401071116,"PHX 107, MIN 99",Phoenix Suns,Minnesota Timberwolves,20181215,Phoenix Suns,107,Minnesota Timberwolves,99,Yes
+401071117,"BKN 144, ATL 127",Brooklyn Nets,Atlanta Hawks,20181216,Brooklyn Nets,144,Atlanta Hawks,127,Yes
+401071118,"PHI 128, CLE 105",Cleveland Cavaliers,Philadelphia 76ers,20181216,Philadelphia 76ers,128,Cleveland Cavaliers,105,No
+401071119,"IND 110, NY 99",Indiana Pacers,New York Knicks,20181216,Indiana Pacers,110,New York Knicks,99,Yes
+401071120,"WSH 128, LAL 110",Washington Wizards,Los Angeles Lakers,20181216,Washington Wizards,128,Los Angeles Lakers,110,Yes
+401071121,"SAC 120, DAL 113",Dallas Mavericks,Sacramento Kings,20181216,Sacramento Kings,120,Dallas Mavericks,113,No
+401071122,"MIA 102, NO 96",New Orleans Pelicans,Miami Heat,20181216,Miami Heat,102,New Orleans Pelicans,96,No
+401071123,"DEN 95, TOR 86",Denver Nuggets,Toronto Raptors,20181216,Denver Nuggets,95,Toronto Raptors,86,Yes
+401071124,"MIL 107, DET 104",Detroit Pistons,Milwaukee Bucks,20181217,Milwaukee Bucks,107,Detroit Pistons,104,No
+401071125,"PHX 128, NY 110",New York Knicks,Phoenix Suns,20181217,Phoenix Suns,128,New York Knicks,110,No
+401071126,"HOU 102, UTAH 97",Houston Rockets,Utah Jazz,20181217,Houston Rockets,102,Utah Jazz,97,Yes
+401071127,"MIN 132, SAC 105",Minnesota Timberwolves,Sacramento Kings,20181217,Minnesota Timberwolves,132,Sacramento Kings,105,Yes
+401071128,"OKC 121, CHI 96",Oklahoma City Thunder,Chicago Bulls,20181217,Oklahoma City Thunder,121,Chicago Bulls,96,Yes
+401071129,"SA 123, PHI 96",San Antonio Spurs,Philadelphia 76ers,20181217,San Antonio Spurs,123,Philadelphia 76ers,96,Yes
+401071130,"GS 110, MEM 93",Golden State Warriors,Memphis Grizzlies,20181217,Golden State Warriors,110,Memphis Grizzlies,93,Yes
+401071131,"POR 131, LAC 127",LA Clippers,Portland Trail Blazers,20181217,Portland Trail Blazers,131,LA Clippers,127,No
+401071132,"CLE 92, IND 91",Indiana Pacers,Cleveland Cavaliers,20181218,Cleveland Cavaliers,92,Indiana Pacers,91,No
+401071133,"ATL 118, WSH 110",Atlanta Hawks,Washington Wizards,20181218,Atlanta Hawks,118,Washington Wizards,110,Yes
+401071134,"BKN 115, LAL 110",Brooklyn Nets,Los Angeles Lakers,20181218,Brooklyn Nets,115,Los Angeles Lakers,110,Yes
+401071135,"DEN 126, DAL 118",Denver Nuggets,Dallas Mavericks,20181218,Denver Nuggets,126,Dallas Mavericks,118,Yes
+401071148,"MIA 101, HOU 99",Miami Heat,Houston Rockets,20181220,Miami Heat,101,Houston Rockets,99,Yes
+401071149,"LAC 125, DAL 121",LA Clippers,Dallas Mavericks,20181220,LA Clippers,125,Dallas Mavericks,121,Yes
+401071150,"CHA 98, DET 86",Charlotte Hornets,Detroit Pistons,20181221,Charlotte Hornets,98,Detroit Pistons,86,Yes
+401071151,"TOR 126, CLE 110",Toronto Raptors,Cleveland Cavaliers,20181221,Toronto Raptors,126,Cleveland Cavaliers,110,Yes
+401071152,"IND 114, BKN 106",Brooklyn Nets,Indiana Pacers,20181221,Indiana Pacers,114,Brooklyn Nets,106,No
+401071153,"ATL 114, NY 107",New York Knicks,Atlanta Hawks,20181221,Atlanta Hawks,114,New York Knicks,107,No
+401071154,"MIL 120, BOS 107",Boston Celtics,Milwaukee Bucks,20181221,Milwaukee Bucks,120,Boston Celtics,107,No
+401071155,"CHI 90, ORL 80",Chicago Bulls,Orlando Magic,20181221,Chicago Bulls,90,Orlando Magic,80,Yes
+401071156,"SA 124, MIN 98",San Antonio Spurs,Minnesota Timberwolves,20181221,San Antonio Spurs,124,Minnesota Timberwolves,98,Yes
+401071157,"UTAH 120, POR 90",Portland Trail Blazers,Utah Jazz,20181221,Utah Jazz,120,Portland Trail Blazers,90,No
+401071158,"SAC 102, MEM 99",Sacramento Kings,Memphis Grizzlies,20181221,Sacramento Kings,102,Memphis Grizzlies,99,Yes
+401071159,"LAL 112, NO 104",Los Angeles Lakers,New Orleans Pelicans,20181221,Los Angeles Lakers,112,New Orleans Pelicans,104,Yes
+401071160,"LAC 132, DEN 111",LA Clippers,Denver Nuggets,20181222,LA Clippers,132,Denver Nuggets,111,Yes
+401071161,"WSH 149, PHX 146 (3OT)",Washington Wizards,Phoenix Suns,20181222,Washington Wizards,149,Phoenix Suns,146,Yes
+401071162,"PHI 126, TOR 101",Philadelphia 76ers,Toronto Raptors,20181222,Philadelphia 76ers,126,Toronto Raptors,101,Yes
+401071163,"MIA 94, MIL 87",Miami Heat,Milwaukee Bucks,20181222,Miami Heat,94,Milwaukee Bucks,87,Yes
+401071164,"HOU 108, SA 101",Houston Rockets,San Antonio Spurs,20181222,Houston Rockets,108,San Antonio Spurs,101,Yes
+401071165,"GS 120, DAL 116",Golden State Warriors,Dallas Mavericks,20181222,Golden State Warriors,120,Dallas Mavericks,116,Yes
+401071166,"OKC 107, UTAH 106",Utah Jazz,Oklahoma City Thunder,20181222,Oklahoma City Thunder,107,Utah Jazz,106,No
+401070233,"MIL 109, NY 95",New York Knicks,Milwaukee Bucks,20181225,Milwaukee Bucks,109,New York Knicks,95,No
+401070234,"HOU 113, OKC 109",Houston Rockets,Oklahoma City Thunder,20181225,Houston Rockets,113,Oklahoma City Thunder,109,Yes
+401070235,"BOS 121, PHI 114 (OT)",Boston Celtics,Philadelphia 76ers,20181225,Boston Celtics,121,Philadelphia 76ers,114,Yes
+401070236,"LAL 127, GS 101",Golden State Warriors,Los Angeles Lakers,20181225,Los Angeles Lakers,127,Golden State Warriors,101,No
+401070237,"UTAH 117, POR 96",Utah Jazz,Portland Trail Blazers,20181225,Utah Jazz,117,Portland Trail Blazers,96,Yes
+401071178,"DET 106, WSH 95",Detroit Pistons,Washington Wizards,20181226,Detroit Pistons,106,Washington Wizards,95,Yes
+401071179,"PHX 122, ORL 120 (OT)",Orlando Magic,Phoenix Suns,20181226,Phoenix Suns,122,Orlando Magic,120,No
+401071180,"IND 129, ATL 121",Atlanta Hawks,Indiana Pacers,20181226,Indiana Pacers,129,Atlanta Hawks,121,No
+401071181,"BKN 134, CHA 132 (2OT)",Brooklyn Nets,Charlotte Hornets,20181226,Brooklyn Nets,134,Charlotte Hornets,132,Yes
+401071182,"TOR 106, MIA 104",Miami Heat,Toronto Raptors,20181226,Toronto Raptors,106,Miami Heat,104,No
+401071183,"MIN 119, CHI 94",Chicago Bulls,Minnesota Timberwolves,20181226,Minnesota Timberwolves,119,Chicago Bulls,94,No
+401071184,"MEM 95, CLE 87",Memphis Grizzlies,Cleveland Cavaliers,20181226,Memphis Grizzlies,95,Cleveland Cavaliers,87,Yes
+401071185,"DAL 122, NO 119",Dallas Mavericks,New Orleans Pelicans,20181226,Dallas Mavericks,122,New Orleans Pelicans,119,Yes
+401071186,"SA 111, DEN 103",San Antonio Spurs,Denver Nuggets,20181226,San Antonio Spurs,111,Denver Nuggets,103,Yes
+401071187,"LAC 127, SAC 118",LA Clippers,Sacramento Kings,20181226,LA Clippers,127,Sacramento Kings,118,Yes
+401071188,"HOU 127, BOS 113",Houston Rockets,Boston Celtics,20181227,Houston Rockets,127,Boston Celtics,113,Yes
+401071189,"MIL 112, NY 96",Milwaukee Bucks,New York Knicks,20181227,Milwaukee Bucks,112,New York Knicks,96,Yes
+401071190,"SAC 117, LAL 116",Sacramento Kings,Los Angeles Lakers,20181227,Sacramento Kings,117,Los Angeles Lakers,116,Yes
+401071191,"PHI 114, UTAH 97",Utah Jazz,Philadelphia 76ers,20181227,Philadelphia 76ers,114,Utah Jazz,97,No
+401071192,"POR 110, GS 109 (OT)",Golden State Warriors,Portland Trail Blazers,20181227,Portland Trail Blazers,110,Golden State Warriors,109,No
+401071203,"MIL 129, BKN 115",Milwaukee Bucks,Brooklyn Nets,20181229,Milwaukee Bucks,129,Brooklyn Nets,115,Yes
+401071204,"WSH 130, CHA 126",Washington Wizards,Charlotte Hornets,20181229,Washington Wizards,130,Charlotte Hornets,126,Yes
+401071205,"HOU 108, NO 104",New Orleans Pelicans,Houston Rockets,20181229,Houston Rockets,108,New Orleans Pelicans,104,No
+401071206,"ATL 111, CLE 108",Atlanta Hawks,Cleveland Cavaliers,20181229,Atlanta Hawks,111,Cleveland Cavaliers,108,Yes
+401071207,"BOS 112, MEM 103",Memphis Grizzlies,Boston Celtics,20181229,Boston Celtics,112,Memphis Grizzlies,103,No
+401071208,"UTAH 129, NY 97",Utah Jazz,New York Knicks,20181229,Utah Jazz,129,New York Knicks,97,Yes
+401071209,"DEN 122, PHX 118",Phoenix Suns,Denver Nuggets,20181229,Denver Nuggets,122,Phoenix Suns,118,No
+401071210,"GS 115, POR 105",Portland Trail Blazers,Golden State Warriors,20181229,Golden State Warriors,115,Portland Trail Blazers,105,No
+401071211,"SA 122, LAC 111",LA Clippers,San Antonio Spurs,20181229,San Antonio Spurs,122,LA Clippers,111,No
+401071212,"ORL 109, DET 107",Orlando Magic,Detroit Pistons,20181230,Orlando Magic,109,Detroit Pistons,107,Yes
+401071213,"MIN 113, MIA 104",Miami Heat,Minnesota Timberwolves,20181230,Minnesota Timberwolves,113,Miami Heat,104,No
+401071214,"TOR 95, CHI 89",Toronto Raptors,Chicago Bulls,20181230,Toronto Raptors,95,Chicago Bulls,89,Yes
+401071215,"DAL 105, OKC 103",Dallas Mavericks,Oklahoma City Thunder,20181230,Dallas Mavericks,105,Oklahoma City Thunder,103,Yes
+401071216,"POR 129, PHI 95",Portland Trail Blazers,Philadelphia 76ers,20181230,Portland Trail Blazers,129,Philadelphia 76ers,95,Yes
+401071217,"LAL 121, SAC 114",Los Angeles Lakers,Sacramento Kings,20181230,Los Angeles Lakers,121,Sacramento Kings,114,Yes
+401071218,"IND 116, ATL 108",Indiana Pacers,Atlanta Hawks,20181231,Indiana Pacers,116,Atlanta Hawks,108,Yes
+401071219,"CHA 125, ORL 100",Charlotte Hornets,Orlando Magic,20181231,Charlotte Hornets,125,Orlando Magic,100,Yes
+401071220,"HOU 113, MEM 101",Houston Rockets,Memphis Grizzlies,20181231,Houston Rockets,113,Memphis Grizzlies,101,Yes
+401071221,"SA 120, BOS 111",San Antonio Spurs,Boston Celtics,20181231,San Antonio Spurs,120,Boston Celtics,111,Yes
+401071222,"NO 123, MIN 114",New Orleans Pelicans,Minnesota Timberwolves,20181231,New Orleans Pelicans,123,Minnesota Timberwolves,114,Yes
+401071223,"OKC 122, DAL 102",Oklahoma City Thunder,Dallas Mavericks,20181231,Oklahoma City Thunder,122,Dallas Mavericks,102,Yes
+401071224,"GS 132, PHX 109",Phoenix Suns,Golden State Warriors,20181231,Golden State Warriors,132,Phoenix Suns,109,No
+401071225,"TOR 122, UTAH 116",Toronto Raptors,Utah Jazz,20190101,Toronto Raptors,122,Utah Jazz,116,Yes
+401071226,"MIL 121, DET 98",Milwaukee Bucks,Detroit Pistons,20190101,Milwaukee Bucks,121,Detroit Pistons,98,Yes
+401071227,"DEN 115, NY 108",Denver Nuggets,New York Knicks,20190101,Denver Nuggets,115,New York Knicks,108,Yes
+401071228,"POR 113, SAC 108 (OT)",Sacramento Kings,Portland Trail Blazers,20190101,Portland Trail Blazers,113,Sacramento Kings,108,No
+401071229,"PHI 119, LAC 113",LA Clippers,Philadelphia 76ers,20190101,Philadelphia 76ers,119,LA Clippers,113,No
+401071243,"UTAH 117, CLE 91",Cleveland Cavaliers,Utah Jazz,20190104,Utah Jazz,117,Cleveland Cavaliers,91,No
+401071242,"BOS 114, DAL 93",Boston Celtics,Dallas Mavericks,20190104,Boston Celtics,114,Dallas Mavericks,93,Yes
+401071244,"MIA 115, WSH 109",Miami Heat,Washington Wizards,20190104,Miami Heat,115,Washington Wizards,109,Yes
+401071245,"IND 119, CHI 116 (OT)",Chicago Bulls,Indiana Pacers,20190104,Indiana Pacers,119,Chicago Bulls,116,No
+401071246,"BKN 109, MEM 100",Memphis Grizzlies,Brooklyn Nets,20190104,Brooklyn Nets,109,Memphis Grizzlies,100,No
+401071247,"MIN 120, ORL 103",Minnesota Timberwolves,Orlando Magic,20190104,Minnesota Timberwolves,120,Orlando Magic,103,Yes
+401071248,"MIL 144, ATL 112",Milwaukee Bucks,Atlanta Hawks,20190104,Milwaukee Bucks,144,Atlanta Hawks,112,Yes
+401071249,"LAC 121, PHX 111",Phoenix Suns,LA Clippers,20190104,LA Clippers,121,Phoenix Suns,111,No
+401071250,"NY 119, LAL 112",Los Angeles Lakers,New York Knicks,20190104,New York Knicks,119,Los Angeles Lakers,112,No
+401071251,"OKC 111, POR 109",Portland Trail Blazers,Oklahoma City Thunder,20190104,Oklahoma City Thunder,111,Portland Trail Blazers,109,No
+401071252,"DEN 123, CHA 110",Denver Nuggets,Charlotte Hornets,20190105,Denver Nuggets,123,Charlotte Hornets,110,Yes
+401071253,"UTAH 110, DET 105",Detroit Pistons,Utah Jazz,20190105,Utah Jazz,110,Detroit Pistons,105,No
+401071254,"PHI 106, DAL 100",Philadelphia 76ers,Dallas Mavericks,20190105,Philadelphia 76ers,106,Dallas Mavericks,100,Yes
+401071255,"NO 133, CLE 98",Cleveland Cavaliers,New Orleans Pelicans,20190105,New Orleans Pelicans,133,Cleveland Cavaliers,98,No
+401071256,"TOR 123, MIL 116",Milwaukee Bucks,Toronto Raptors,20190105,Toronto Raptors,123,Milwaukee Bucks,116,No
+401071257,"SA 108, MEM 88",San Antonio Spurs,Memphis Grizzlies,20190105,San Antonio Spurs,108,Memphis Grizzlies,88,Yes
+401071258,"POR 110, HOU 101",Portland Trail Blazers,Houston Rockets,20190105,Portland Trail Blazers,110,Houston Rockets,101,Yes
+401071259,"GS 127, SAC 123",Sacramento Kings,Golden State Warriors,20190105,Golden State Warriors,127,Sacramento Kings,123,No
+401071260,"BKN 117, CHI 100",Chicago Bulls,Brooklyn Nets,20190106,Brooklyn Nets,117,Chicago Bulls,100,No
+401071261,"MIN 108, LAL 86",Minnesota Timberwolves,Los Angeles Lakers,20190106,Minnesota Timberwolves,108,Los Angeles Lakers,86,Yes
+401071262,"LAC 106, ORL 96",LA Clippers,Orlando Magic,20190106,LA Clippers,106,Orlando Magic,96,Yes
+401071263,"ATL 106, MIA 82",Atlanta Hawks,Miami Heat,20190106,Atlanta Hawks,106,Miami Heat,82,Yes
+401071264,"WSH 116, OKC 98",Oklahoma City Thunder,Washington Wizards,20190106,Washington Wizards,116,Oklahoma City Thunder,98,No
+401071265,"TOR 121, IND 105",Toronto Raptors,Indiana Pacers,20190106,Toronto Raptors,121,Indiana Pacers,105,Yes
+401071266,"CHA 119, PHX 113",Phoenix Suns,Charlotte Hornets,20190106,Charlotte Hornets,119,Phoenix Suns,113,No
+401071267,"SA 119, DET 107",Detroit Pistons,San Antonio Spurs,20190107,San Antonio Spurs,119,Detroit Pistons,107,No
+401071268,"BOS 116, BKN 95",Boston Celtics,Brooklyn Nets,20190107,Boston Celtics,116,Brooklyn Nets,95,Yes
+401071269,"HOU 125, DEN 113",Houston Rockets,Denver Nuggets,20190107,Houston Rockets,125,Denver Nuggets,113,Yes
+401071270,"MIL 114, UTAH 102",Milwaukee Bucks,Utah Jazz,20190107,Milwaukee Bucks,114,Utah Jazz,102,Yes
+401071271,"NO 114, MEM 95",New Orleans Pelicans,Memphis Grizzlies,20190107,New Orleans Pelicans,114,Memphis Grizzlies,95,Yes
+401071272,"LAL 107, DAL 97",Dallas Mavericks,Los Angeles Lakers,20190107,Los Angeles Lakers,107,Dallas Mavericks,97,No
+401071273,"POR 111, NY 101",Portland Trail Blazers,New York Knicks,20190107,Portland Trail Blazers,111,New York Knicks,101,Yes
+401071274,"SAC 111, ORL 95",Sacramento Kings,Orlando Magic,20190107,Sacramento Kings,111,Orlando Magic,95,Yes
+401071283,"BOS 135, IND 108",Boston Celtics,Indiana Pacers,20190109,Boston Celtics,135,Indiana Pacers,108,Yes
+401071284,"WSH 123, PHI 106",Washington Wizards,Philadelphia 76ers,20190109,Washington Wizards,123,Philadelphia 76ers,106,Yes
+401071285,"BKN 116, ATL 100",Brooklyn Nets,Atlanta Hawks,20190109,Brooklyn Nets,116,Atlanta Hawks,100,Yes
+401071286,"MIL 116, HOU 109",Houston Rockets,Milwaukee Bucks,20190109,Milwaukee Bucks,116,Houston Rockets,109,No
+401071287,"MEM 96, SA 86",Memphis Grizzlies,San Antonio Spurs,20190109,Memphis Grizzlies,96,San Antonio Spurs,86,Yes
+401071288,"NO 140, CLE 124",New Orleans Pelicans,Cleveland Cavaliers,20190109,New Orleans Pelicans,140,Cleveland Cavaliers,124,Yes
+401071289,"DAL 104, PHX 94",Dallas Mavericks,Phoenix Suns,20190109,Dallas Mavericks,104,Phoenix Suns,94,Yes
+401071290,"UTAH 106, ORL 93",Utah Jazz,Orlando Magic,20190109,Utah Jazz,106,Orlando Magic,93,Yes
+401071291,"POR 124, CHI 112",Portland Trail Blazers,Chicago Bulls,20190109,Portland Trail Blazers,124,Chicago Bulls,112,Yes
+401071292,"LAL 113, DET 100",Los Angeles Lakers,Detroit Pistons,20190109,Los Angeles Lakers,113,Detroit Pistons,100,Yes
+401071297,"ATL 123, PHI 121",Philadelphia 76ers,Atlanta Hawks,20190111,Atlanta Hawks,123,Philadelphia 76ers,121,No
+401071298,"WSH 113, MIL 106",Washington Wizards,Milwaukee Bucks,20190111,Washington Wizards,113,Milwaukee Bucks,106,Yes
+401071299,"IND 121, NY 106",New York Knicks,Indiana Pacers,20190111,Indiana Pacers,121,New York Knicks,106,No
+401071300,"TOR 122, BKN 105",Toronto Raptors,Brooklyn Nets,20190111,Toronto Raptors,122,Brooklyn Nets,105,Yes
+401071301,"HOU 141, CLE 113",Houston Rockets,Cleveland Cavaliers,20190111,Houston Rockets,141,Cleveland Cavaliers,113,Yes
+401071302,"DAL 119, MIN 115",Minnesota Timberwolves,Dallas Mavericks,20190111,Dallas Mavericks,119,Minnesota Timberwolves,115,No
+401071303,"UTAH 113, LAL 95",Utah Jazz,Los Angeles Lakers,20190111,Utah Jazz,113,Los Angeles Lakers,95,Yes
+401071304,"POR 127, CHA 96",Portland Trail Blazers,Charlotte Hornets,20190111,Portland Trail Blazers,127,Charlotte Hornets,96,Yes
+401071305,"GS 146, CHI 109",Golden State Warriors,Chicago Bulls,20190111,Golden State Warriors,146,Chicago Bulls,109,Yes
+401071321,"BKN 109, BOS 102",Brooklyn Nets,Boston Celtics,20190114,Brooklyn Nets,109,Boston Celtics,102,Yes
+401071322,"HOU 112, MEM 94",Houston Rockets,Memphis Grizzlies,20190114,Houston Rockets,112,Memphis Grizzlies,94,Yes
+401071323,"CHA 108, SA 93",San Antonio Spurs,Charlotte Hornets,20190114,Charlotte Hornets,108,San Antonio Spurs,93,No
+401071324,"UTAH 100, DET 94",Utah Jazz,Detroit Pistons,20190114,Utah Jazz,100,Detroit Pistons,94,Yes
+401071325,"SAC 115, POR 107",Sacramento Kings,Portland Trail Blazers,20190114,Sacramento Kings,115,Portland Trail Blazers,107,Yes
+401071326,"NO 121, LAC 117",LA Clippers,New Orleans Pelicans,20190114,New Orleans Pelicans,121,LA Clippers,117,No
+401071327,"IND 131, PHX 97",Indiana Pacers,Phoenix Suns,20190115,Indiana Pacers,131,Phoenix Suns,97,Yes
+401071328,"PHI 149, MIN 107",Philadelphia 76ers,Minnesota Timberwolves,20190115,Philadelphia 76ers,149,Minnesota Timberwolves,107,Yes
+401071329,"ATL 142, OKC 126",Atlanta Hawks,Oklahoma City Thunder,20190115,Atlanta Hawks,142,Oklahoma City Thunder,126,Yes
+401071330,"MIL 124, MIA 86",Milwaukee Bucks,Miami Heat,20190115,Milwaukee Bucks,124,Miami Heat,86,Yes
+401071331,"GS 142, DEN 111",Denver Nuggets,Golden State Warriors,20190115,Golden State Warriors,142,Denver Nuggets,111,No
+401071332,"LAL 107, CHI 100",Los Angeles Lakers,Chicago Bulls,20190115,Los Angeles Lakers,107,Chicago Bulls,100,Yes
+401071333,"DET 120, ORL 115 (OT)",Detroit Pistons,Orlando Magic,20190116,Detroit Pistons,120,Orlando Magic,115,Yes
+401071334,"BOS 117, TOR 108",Boston Celtics,Toronto Raptors,20190116,Boston Celtics,117,Toronto Raptors,108,Yes
+401071335,"BKN 145, HOU 142 (OT)",Houston Rockets,Brooklyn Nets,20190116,Brooklyn Nets,145,Houston Rockets,142,No
+401071336,"MIL 111, MEM 101",Memphis Grizzlies,Milwaukee Bucks,20190116,Milwaukee Bucks,111,Memphis Grizzlies,101,No
+401071337,"SA 105, DAL 101",Dallas Mavericks,San Antonio Spurs,20190116,San Antonio Spurs,105,Dallas Mavericks,101,No
+401071338,"POR 129, CLE 112",Portland Trail Blazers,Cleveland Cavaliers,20190116,Portland Trail Blazers,129,Cleveland Cavaliers,112,Yes
+401071339,"GS 147, NO 140",Golden State Warriors,New Orleans Pelicans,20190116,Golden State Warriors,147,New Orleans Pelicans,140,Yes
+401071340,"UTAH 129, LAC 109",LA Clippers,Utah Jazz,20190116,Utah Jazz,129,LA Clippers,109,No
+401071341,"WSH 101, NY 100",Washington Wizards,New York Knicks,20190117,Washington Wizards,101,New York Knicks,100,Yes
+401071342,"CHA 114, SAC 95",Charlotte Hornets,Sacramento Kings,20190117,Charlotte Hornets,114,Sacramento Kings,95,Yes
+401071343,"PHI 120, IND 96",Indiana Pacers,Philadelphia 76ers,20190117,Philadelphia 76ers,120,Indiana Pacers,96,No
+401071344,"TOR 111, PHX 109",Toronto Raptors,Phoenix Suns,20190117,Toronto Raptors,111,Phoenix Suns,109,Yes
+401071345,"DEN 135, CHI 105",Denver Nuggets,Chicago Bulls,20190117,Denver Nuggets,135,Chicago Bulls,105,Yes
+401071346,"LAL 138, OKC 128 (OT)",Oklahoma City Thunder,Los Angeles Lakers,20190117,Los Angeles Lakers,138,Oklahoma City Thunder,128,No
+401071347,"BOS 122, MEM 116",Boston Celtics,Memphis Grizzlies,20190118,Boston Celtics,122,Memphis Grizzlies,116,Yes
+401071348,"DET 98, MIA 93",Detroit Pistons,Miami Heat,20190118,Detroit Pistons,98,Miami Heat,93,Yes
+401071349,"BKN 117, ORL 115",Orlando Magic,Brooklyn Nets,20190118,Brooklyn Nets,117,Orlando Magic,115,No
+401071350,"SA 116, MIN 113",Minnesota Timberwolves,San Antonio Spurs,20190118,San Antonio Spurs,116,Minnesota Timberwolves,113,No
+401071351,"UTAH 115, CLE 99",Utah Jazz,Cleveland Cavaliers,20190118,Utah Jazz,115,Cleveland Cavaliers,99,Yes
+401071352,"GS 112, LAC 94",LA Clippers,Golden State Warriors,20190118,Golden State Warriors,112,LA Clippers,94,No
+401071353,"POR 128, NO 112",Portland Trail Blazers,New Orleans Pelicans,20190118,Portland Trail Blazers,128,New Orleans Pelicans,112,Yes
+401071354,"OKC 117, PHI 115",Philadelphia 76ers,Oklahoma City Thunder,20190119,Oklahoma City Thunder,117,Philadelphia 76ers,115,No
+401071355,"CHA 135, PHX 115",Charlotte Hornets,Phoenix Suns,20190119,Charlotte Hornets,135,Phoenix Suns,115,Yes
+401071356,"SAC 103, DET 101",Detroit Pistons,Sacramento Kings,20190119,Sacramento Kings,103,Detroit Pistons,101,No
+401071357,"IND 111, DAL 99",Indiana Pacers,Dallas Mavericks,20190119,Indiana Pacers,111,Dallas Mavericks,99,Yes
+401071358,"MIL 118, ORL 108",Orlando Magic,Milwaukee Bucks,20190119,Milwaukee Bucks,118,Orlando Magic,108,No
+401071359,"BOS 113, ATL 105",Atlanta Hawks,Boston Celtics,20190119,Boston Celtics,113,Atlanta Hawks,105,No
+401071360,"TOR 119, MEM 90",Toronto Raptors,Memphis Grizzlies,20190119,Toronto Raptors,119,Memphis Grizzlies,90,Yes
+401071361,"MIA 117, CHI 103",Chicago Bulls,Miami Heat,20190119,Miami Heat,117,Chicago Bulls,103,No
+401071362,"HOU 138, LAL 134 (OT)",Houston Rockets,Los Angeles Lakers,20190119,Houston Rockets,138,Los Angeles Lakers,134,Yes
+401071363,"DEN 124, CLE 102",Denver Nuggets,Cleveland Cavaliers,20190119,Denver Nuggets,124,Cleveland Cavaliers,102,Yes
+401071364,"IND 120, CHA 95",Indiana Pacers,Charlotte Hornets,20190120,Indiana Pacers,120,Charlotte Hornets,95,Yes
+401071365,"MIN 116, PHX 114",Minnesota Timberwolves,Phoenix Suns,20190120,Minnesota Timberwolves,116,Phoenix Suns,114,Yes
+401071366,"LAC 103, SA 95",San Antonio Spurs,LA Clippers,20190120,LA Clippers,103,San Antonio Spurs,95,No
+401071367,"OKC 127, NY 109",New York Knicks,Oklahoma City Thunder,20190121,Oklahoma City Thunder,127,New York Knicks,109,No
+401071368,"CHI 104, CLE 88",Cleveland Cavaliers,Chicago Bulls,20190121,Chicago Bulls,104,Cleveland Cavaliers,88,No
+401071369,"WSH 101, DET 87",Washington Wizards,Detroit Pistons,20190121,Washington Wizards,101,Detroit Pistons,87,Yes
+401071370,"MIL 116, DAL 106",Milwaukee Bucks,Dallas Mavericks,20190121,Milwaukee Bucks,116,Dallas Mavericks,106,Yes
+401071371,"ORL 122, ATL 103",Atlanta Hawks,Orlando Magic,20190121,Orlando Magic,122,Atlanta Hawks,103,No
+401071372,"BKN 123, SAC 94",Brooklyn Nets,Sacramento Kings,20190121,Brooklyn Nets,123,Sacramento Kings,94,Yes
+401070238,"NO 105, MEM 85",Memphis Grizzlies,New Orleans Pelicans,20190121,New Orleans Pelicans,105,Memphis Grizzlies,85,No
+401071373,"BOS 107, MIA 99",Boston Celtics,Miami Heat,20190121,Boston Celtics,107,Miami Heat,99,Yes
+401070239,"PHI 121, HOU 93",Philadelphia 76ers,Houston Rockets,20190121,Philadelphia 76ers,121,Houston Rockets,93,Yes
+401071374,"POR 109, UTAH 104",Utah Jazz,Portland Trail Blazers,20190121,Portland Trail Blazers,109,Utah Jazz,104,No
+401070240,"GS 130, LAL 111",Los Angeles Lakers,Golden State Warriors,20190121,Golden State Warriors,130,Los Angeles Lakers,111,No
+401071375,"TOR 120, SAC 105",Toronto Raptors,Sacramento Kings,20190122,Toronto Raptors,120,Sacramento Kings,105,Yes
+401071376,"OKC 123, POR 114",Oklahoma City Thunder,Portland Trail Blazers,20190122,Oklahoma City Thunder,123,Portland Trail Blazers,114,Yes
+401071377,"DAL 106, LAC 98",Dallas Mavericks,LA Clippers,20190122,Dallas Mavericks,106,LA Clippers,98,Yes
+401071378,"MIN 118, PHX 91",Phoenix Suns,Minnesota Timberwolves,20190122,Minnesota Timberwolves,118,Phoenix Suns,91,No
+401071379,"IND 110, TOR 106",Indiana Pacers,Toronto Raptors,20190123,Indiana Pacers,110,Toronto Raptors,106,Yes
+401071380,"BOS 123, CLE 103",Boston Celtics,Cleveland Cavaliers,20190123,Boston Celtics,123,Cleveland Cavaliers,103,Yes
+401071381,"BKN 114, ORL 110",Brooklyn Nets,Orlando Magic,20190123,Brooklyn Nets,114,Orlando Magic,110,Yes
+401071382,"LAC 111, MIA 99",Miami Heat,LA Clippers,20190123,LA Clippers,111,Miami Heat,99,No
+401071383,"HOU 114, NY 110",New York Knicks,Houston Rockets,20190123,Houston Rockets,114,New York Knicks,110,No
+401071384,"PHI 122, SA 120",Philadelphia 76ers,San Antonio Spurs,20190123,Philadelphia 76ers,122,San Antonio Spurs,120,Yes
+401071385,"ATL 121, CHI 101",Chicago Bulls,Atlanta Hawks,20190123,Atlanta Hawks,121,Chicago Bulls,101,No
+401071386,"CHA 118, MEM 107",Memphis Grizzlies,Charlotte Hornets,20190123,Charlotte Hornets,118,Memphis Grizzlies,107,No
+401071387,"DET 98, NO 94",New Orleans Pelicans,Detroit Pistons,20190123,Detroit Pistons,98,New Orleans Pelicans,94,No
+401071388,"UTAH 114, DEN 108",Utah Jazz,Denver Nuggets,20190123,Utah Jazz,114,Denver Nuggets,108,Yes
+401071389,"GS 126, WSH 118",Washington Wizards,Golden State Warriors,20190124,Golden State Warriors,126,Washington Wizards,118,No
+401071390,"OKC 122, NO 116",Oklahoma City Thunder,New Orleans Pelicans,20190124,Oklahoma City Thunder,122,New Orleans Pelicans,116,Yes
+401071391,"POR 120, PHX 106",Phoenix Suns,Portland Trail Blazers,20190124,Portland Trail Blazers,120,Phoenix Suns,106,No
+401071392,"MIN 120, LAL 105",Los Angeles Lakers,Minnesota Timberwolves,20190124,Minnesota Timberwolves,120,Los Angeles Lakers,105,No
+401071393,"WSH 95, ORL 91",Orlando Magic,Washington Wizards,20190125,Washington Wizards,95,Orlando Magic,91,No
+401071394,"BKN 109, NY 99",Brooklyn Nets,New York Knicks,20190125,Brooklyn Nets,109,New York Knicks,99,Yes
+401071395,"MIA 100, CLE 94",Cleveland Cavaliers,Miami Heat,20190125,Miami Heat,100,Cleveland Cavaliers,94,No
+401071396,"LAC 106, CHI 101",Chicago Bulls,LA Clippers,20190125,LA Clippers,106,Chicago Bulls,101,No
+401071397,"HOU 121, TOR 119",Houston Rockets,Toronto Raptors,20190125,Houston Rockets,121,Toronto Raptors,119,Yes
+401071398,"SAC 99, MEM 96",Memphis Grizzlies,Sacramento Kings,20190125,Sacramento Kings,99,Memphis Grizzlies,96,No
+401071399,"DAL 106, DET 101",Dallas Mavericks,Detroit Pistons,20190125,Dallas Mavericks,106,Detroit Pistons,101,Yes
+401071400,"MIL 108, CHA 99",Milwaukee Bucks,Charlotte Hornets,20190125,Milwaukee Bucks,108,Charlotte Hornets,99,Yes
+401071401,"DEN 132, PHX 95",Denver Nuggets,Phoenix Suns,20190125,Denver Nuggets,132,Phoenix Suns,95,Yes
+401071402,"UTAH 106, MIN 102",Utah Jazz,Minnesota Timberwolves,20190125,Utah Jazz,106,Minnesota Timberwolves,102,Yes
+401071403,"SA 126, NO 114",New Orleans Pelicans,San Antonio Spurs,20190126,San Antonio Spurs,126,New Orleans Pelicans,114,No
+401071404,"MEM 106, IND 103",Memphis Grizzlies,Indiana Pacers,20190126,Memphis Grizzlies,106,Indiana Pacers,103,Yes
+401071405,"GS 115, BOS 111",Boston Celtics,Golden State Warriors,20190126,Golden State Warriors,115,Boston Celtics,111,No
+401071406,"DEN 126, PHI 110",Denver Nuggets,Philadelphia 76ers,20190126,Denver Nuggets,126,Philadelphia 76ers,110,Yes
+401071407,"POR 120, ATL 111",Portland Trail Blazers,Atlanta Hawks,20190126,Portland Trail Blazers,120,Atlanta Hawks,111,Yes
+401071408,"CLE 104, CHI 101",Chicago Bulls,Cleveland Cavaliers,20190127,Cleveland Cavaliers,104,Chicago Bulls,101,No
+401071409,"LAC 122, SAC 108",LA Clippers,Sacramento Kings,20190127,LA Clippers,122,Sacramento Kings,108,Yes
+401071410,"OKC 118, MIL 112",Oklahoma City Thunder,Milwaukee Bucks,20190127,Oklahoma City Thunder,118,Milwaukee Bucks,112,Yes
+401071411,"TOR 123, DAL 120",Dallas Mavericks,Toronto Raptors,20190127,Toronto Raptors,123,Dallas Mavericks,120,No
+401071412,"HOU 103, ORL 98",Houston Rockets,Orlando Magic,20190127,Houston Rockets,103,Orlando Magic,98,Yes
+401071413,"UTAH 125, MIN 111",Minnesota Timberwolves,Utah Jazz,20190127,Utah Jazz,125,Minnesota Timberwolves,111,No
+401071414,"SA 132, WSH 119",San Antonio Spurs,Washington Wizards,20190127,San Antonio Spurs,132,Washington Wizards,119,Yes
+401071415,"MIA 106, NY 97",New York Knicks,Miami Heat,20190127,Miami Heat,106,New York Knicks,97,No
+401071416,"LAL 116, PHX 102",Los Angeles Lakers,Phoenix Suns,20190127,Los Angeles Lakers,116,Phoenix Suns,102,Yes
+401071417,"CHA 101, NY 92",Charlotte Hornets,New York Knicks,20190128,Charlotte Hornets,101,New York Knicks,92,Yes
+401071418,"GS 132, IND 100",Indiana Pacers,Golden State Warriors,20190128,Golden State Warriors,132,Indiana Pacers,100,No
+401071419,"BOS 112, BKN 104",Boston Celtics,Brooklyn Nets,20190128,Boston Celtics,112,Brooklyn Nets,104,Yes
+401071420,"DEN 95, MEM 92",Memphis Grizzlies,Denver Nuggets,20190128,Denver Nuggets,95,Memphis Grizzlies,92,No
+401071421,"ATL 123, LAC 118",LA Clippers,Atlanta Hawks,20190128,Atlanta Hawks,123,LA Clippers,118,No
+401071422,"CLE 116, WSH 113",Cleveland Cavaliers,Washington Wizards,20190129,Cleveland Cavaliers,116,Washington Wizards,113,Yes
+401071423,"MIL 115, DET 105",Detroit Pistons,Milwaukee Bucks,20190129,Milwaukee Bucks,115,Detroit Pistons,105,No
+401071424,"OKC 126, ORL 117",Orlando Magic,Oklahoma City Thunder,20190129,Oklahoma City Thunder,126,Orlando Magic,117,No
+401071425,"BKN 122, CHI 117",Brooklyn Nets,Chicago Bulls,20190129,Brooklyn Nets,122,Chicago Bulls,117,Yes
+401071426,"NO 121, HOU 116",Houston Rockets,New Orleans Pelicans,20190129,New Orleans Pelicans,121,Houston Rockets,116,No
+401071427,"SA 126, PHX 124",San Antonio Spurs,Phoenix Suns,20190129,San Antonio Spurs,126,Phoenix Suns,124,Yes
+401071428,"PHI 121, LAL 105",Los Angeles Lakers,Philadelphia 76ers,20190129,Philadelphia 76ers,121,Los Angeles Lakers,105,No
+401071429,"BOS 126, CHA 94",Boston Celtics,Charlotte Hornets,20190130,Boston Celtics,126,Charlotte Hornets,94,Yes
+401071430,"CHI 105, MIA 89",Miami Heat,Chicago Bulls,20190130,Chicago Bulls,105,Miami Heat,89,No
+401071431,"DAL 114, NY 90",New York Knicks,Dallas Mavericks,20190130,Dallas Mavericks,114,New York Knicks,90,No
+401071432,"WSH 107, IND 89",Washington Wizards,Indiana Pacers,20190130,Washington Wizards,107,Indiana Pacers,89,Yes
+401071433,"MIN 99, MEM 97 (OT)",Minnesota Timberwolves,Memphis Grizzlies,20190130,Minnesota Timberwolves,99,Memphis Grizzlies,97,Yes
+401071434,"DEN 105, NO 99",New Orleans Pelicans,Denver Nuggets,20190130,Denver Nuggets,105,New Orleans Pelicans,99,No
+401071435,"SAC 135, ATL 113",Sacramento Kings,Atlanta Hawks,20190130,Sacramento Kings,135,Atlanta Hawks,113,Yes
+401071436,"POR 132, UTAH 105",Portland Trail Blazers,Utah Jazz,20190130,Portland Trail Blazers,132,Utah Jazz,105,Yes
+401071437,"DET 93, DAL 89",Detroit Pistons,Dallas Mavericks,20190131,Detroit Pistons,93,Dallas Mavericks,89,Yes
+401071438,"ORL 107, IND 100",Orlando Magic,Indiana Pacers,20190131,Orlando Magic,107,Indiana Pacers,100,Yes
+401071439,"MIL 105, TOR 92",Toronto Raptors,Milwaukee Bucks,20190131,Milwaukee Bucks,105,Toronto Raptors,92,No
+401071440,"SA 117, BKN 114",San Antonio Spurs,Brooklyn Nets,20190131,San Antonio Spurs,117,Brooklyn Nets,114,Yes
+401071441,"PHI 113, GS 104",Golden State Warriors,Philadelphia 76ers,20190131,Philadelphia 76ers,113,Golden State Warriors,104,No
+401071442,"LAL 123, LAC 120 (OT)",LA Clippers,Los Angeles Lakers,20190131,Los Angeles Lakers,123,LA Clippers,120,No
+401071443,"CHA 100, MEM 92",Charlotte Hornets,Memphis Grizzlies,20190201,Charlotte Hornets,100,Memphis Grizzlies,92,Yes
+401071444,"BOS 113, NY 99",New York Knicks,Boston Celtics,20190201,Boston Celtics,113,New York Knicks,99,No
+401071445,"OKC 118, MIA 102",Miami Heat,Oklahoma City Thunder,20190201,Oklahoma City Thunder,118,Miami Heat,102,No
+401071446,"UTAH 128, ATL 112",Utah Jazz,Atlanta Hawks,20190201,Utah Jazz,128,Atlanta Hawks,112,Yes
+401071447,"DEN 136, HOU 122",Denver Nuggets,Houston Rockets,20190201,Denver Nuggets,136,Houston Rockets,122,Yes
+401071448,"LAC 111, DET 101",Detroit Pistons,LA Clippers,20190202,LA Clippers,111,Detroit Pistons,101,No
+401071449,"CHA 125, CHI 118",Charlotte Hornets,Chicago Bulls,20190202,Charlotte Hornets,125,Chicago Bulls,118,Yes
+401071450,"ORL 102, BKN 89",Orlando Magic,Brooklyn Nets,20190202,Orlando Magic,102,Brooklyn Nets,89,Yes
+401071451,"MIL 131, WSH 115",Washington Wizards,Milwaukee Bucks,20190202,Milwaukee Bucks,131,Washington Wizards,115,No
+401071452,"DAL 111, CLE 98",Cleveland Cavaliers,Dallas Mavericks,20190202,Dallas Mavericks,111,Cleveland Cavaliers,98,No
+401071453,"IND 95, MIA 88",Miami Heat,Indiana Pacers,20190202,Indiana Pacers,95,Miami Heat,88,No
+401071454,"SA 113, NO 108",San Antonio Spurs,New Orleans Pelicans,20190202,San Antonio Spurs,113,New Orleans Pelicans,108,Yes
+401071455,"GS 115, LAL 101",Golden State Warriors,Los Angeles Lakers,20190202,Golden State Warriors,115,Los Angeles Lakers,101,Yes
+401071456,"DEN 107, MIN 106",Minnesota Timberwolves,Denver Nuggets,20190202,Denver Nuggets,107,Minnesota Timberwolves,106,No
+401071457,"ATL 118, PHX 112",Phoenix Suns,Atlanta Hawks,20190202,Atlanta Hawks,118,Phoenix Suns,112,No
+401071458,"HOU 125, UTAH 98",Utah Jazz,Houston Rockets,20190202,Houston Rockets,125,Utah Jazz,98,No
+401071459,"SAC 115, PHI 108",Sacramento Kings,Philadelphia 76ers,20190202,Sacramento Kings,115,Philadelphia 76ers,108,Yes
+401071460,"MEM 96, NY 84",New York Knicks,Memphis Grizzlies,20190203,Memphis Grizzlies,96,New York Knicks,84,No
+401071461,"BOS 134, OKC 129",Boston Celtics,Oklahoma City Thunder,20190203,Boston Celtics,134,Oklahoma City Thunder,129,Yes
+401071462,"TOR 121, LAC 103",Toronto Raptors,LA Clippers,20190203,Toronto Raptors,121,LA Clippers,103,Yes
+401071463,"DET 129, DEN 103",Detroit Pistons,Denver Nuggets,20190204,Detroit Pistons,129,Denver Nuggets,103,Yes
+401071464,"ATL 137, WSH 129",Washington Wizards,Atlanta Hawks,20190204,Atlanta Hawks,137,Washington Wizards,129,No
+401071465,"MIL 113, BKN 94",Brooklyn Nets,Milwaukee Bucks,20190204,Milwaukee Bucks,113,Brooklyn Nets,94,No
+401071466,"IND 109, NO 107",New Orleans Pelicans,Indiana Pacers,20190204,Indiana Pacers,109,New Orleans Pelicans,107,No
+401071467,"HOU 118, PHX 110",Phoenix Suns,Houston Rockets,20190204,Houston Rockets,118,Phoenix Suns,110,No
+401071468,"SAC 127, SA 112",Sacramento Kings,San Antonio Spurs,20190204,Sacramento Kings,127,San Antonio Spurs,112,Yes
+401071469,"LAC 117, CHA 115",Charlotte Hornets,LA Clippers,20190205,LA Clippers,117,Charlotte Hornets,115,No
+401071470,"BOS 103, CLE 96",Cleveland Cavaliers,Boston Celtics,20190205,Boston Celtics,103,Cleveland Cavaliers,96,No
+401071471,"IND 136, LAL 94",Indiana Pacers,Los Angeles Lakers,20190205,Indiana Pacers,136,Los Angeles Lakers,94,Yes
+401071472,"DET 105, NY 92",New York Knicks,Detroit Pistons,20190205,Detroit Pistons,105,New York Knicks,92,No
+401071473,"TOR 119, PHI 107",Philadelphia 76ers,Toronto Raptors,20190205,Toronto Raptors,119,Philadelphia 76ers,107,No
+401071474,"MEM 108, MIN 106",Memphis Grizzlies,Minnesota Timberwolves,20190205,Memphis Grizzlies,108,Minnesota Timberwolves,106,Yes
+401071475,"OKC 132, ORL 122",Oklahoma City Thunder,Orlando Magic,20190205,Oklahoma City Thunder,132,Orlando Magic,122,Yes
+401071476,"MIA 118, POR 108",Portland Trail Blazers,Miami Heat,20190205,Miami Heat,118,Portland Trail Blazers,108,No
+401071477,"BKN 135, DEN 130",Brooklyn Nets,Denver Nuggets,20190206,Brooklyn Nets,135,Denver Nuggets,130,Yes
+401071478,"NO 125, CHI 120",Chicago Bulls,New Orleans Pelicans,20190206,New Orleans Pelicans,125,Chicago Bulls,120,No
+401071479,"MIL 148, WSH 129",Milwaukee Bucks,Washington Wizards,20190206,Milwaukee Bucks,148,Washington Wizards,129,Yes
+401071480,"DAL 99, CHA 93",Dallas Mavericks,Charlotte Hornets,20190206,Dallas Mavericks,99,Charlotte Hornets,93,Yes
+401071481,"UTAH 116, PHX 88",Utah Jazz,Phoenix Suns,20190206,Utah Jazz,116,Phoenix Suns,88,Yes
+401071482,"HOU 127, SAC 101",Sacramento Kings,Houston Rockets,20190206,Houston Rockets,127,Sacramento Kings,101,No
+401071483,"GS 141, SA 102",Golden State Warriors,San Antonio Spurs,20190206,Golden State Warriors,141,San Antonio Spurs,102,Yes
+401071484,"IND 116, LAC 92",Indiana Pacers,LA Clippers,20190207,Indiana Pacers,116,LA Clippers,92,Yes
+401071485,"ORL 122, MIN 112",Orlando Magic,Minnesota Timberwolves,20190207,Orlando Magic,122,Minnesota Timberwolves,112,Yes
+401071486,"TOR 119, ATL 101",Atlanta Hawks,Toronto Raptors,20190207,Toronto Raptors,119,Atlanta Hawks,101,No
+401071487,"LAL 129, BOS 128",Boston Celtics,Los Angeles Lakers,20190207,Los Angeles Lakers,129,Boston Celtics,128,No
+401071488,"OKC 117, MEM 95",Oklahoma City Thunder,Memphis Grizzlies,20190207,Oklahoma City Thunder,117,Memphis Grizzlies,95,Yes
+401071489,"POR 127, SA 118",Portland Trail Blazers,San Antonio Spurs,20190207,Portland Trail Blazers,127,San Antonio Spurs,118,Yes
+401071490,"DET 120, NY 103",Detroit Pistons,New York Knicks,20190208,Detroit Pistons,120,New York Knicks,103,Yes
+401071491,"PHI 117, DEN 110",Philadelphia 76ers,Denver Nuggets,20190208,Philadelphia 76ers,117,Denver Nuggets,110,Yes
+401071492,"WSH 119, CLE 106",Washington Wizards,Cleveland Cavaliers,20190208,Washington Wizards,119,Cleveland Cavaliers,106,Yes
+401071493,"CHI 125, BKN 106",Brooklyn Nets,Chicago Bulls,20190208,Chicago Bulls,125,Brooklyn Nets,106,No
+401071494,"MIL 122, DAL 107",Dallas Mavericks,Milwaukee Bucks,20190208,Milwaukee Bucks,122,Dallas Mavericks,107,No
+401071495,"GS 117, PHX 107",Phoenix Suns,Golden State Warriors,20190208,Golden State Warriors,117,Phoenix Suns,107,No
+401071496,"NO 122, MIN 117",New Orleans Pelicans,Minnesota Timberwolves,20190208,New Orleans Pelicans,122,Minnesota Timberwolves,117,Yes
+401071497,"SAC 102, MIA 96",Sacramento Kings,Miami Heat,20190208,Sacramento Kings,102,Miami Heat,96,Yes
+401071498,"UTAH 125, SA 105",Utah Jazz,San Antonio Spurs,20190209,Utah Jazz,125,San Antonio Spurs,105,Yes
+401071499,"IND 105, CLE 90",Indiana Pacers,Cleveland Cavaliers,20190209,Indiana Pacers,105,Cleveland Cavaliers,90,Yes
+401071500,"CHA 129, ATL 120",Atlanta Hawks,Charlotte Hornets,20190209,Charlotte Hornets,129,Atlanta Hawks,120,No
+401071501,"TOR 104, NY 99",New York Knicks,Toronto Raptors,20190209,Toronto Raptors,104,New York Knicks,99,No
+401071502,"LAC 123, BOS 112",Boston Celtics,LA Clippers,20190209,LA Clippers,123,Boston Celtics,112,No
+401071503,"WSH 134, CHI 125",Chicago Bulls,Washington Wizards,20190209,Washington Wizards,134,Chicago Bulls,125,No
+401071504,"MEM 99, NO 90",Memphis Grizzlies,New Orleans Pelicans,20190209,Memphis Grizzlies,99,New Orleans Pelicans,90,Yes
+401071505,"OKC 117, HOU 112",Houston Rockets,Oklahoma City Thunder,20190209,Oklahoma City Thunder,117,Houston Rockets,112,No
+401071506,"ORL 103, MIL 83",Milwaukee Bucks,Orlando Magic,20190209,Orlando Magic,103,Milwaukee Bucks,83,No
+401071507,"DAL 102, POR 101",Dallas Mavericks,Portland Trail Blazers,20190210,Dallas Mavericks,102,Portland Trail Blazers,101,Yes
+401071508,"PHI 143, LAL 120",Philadelphia 76ers,Los Angeles Lakers,20190210,Philadelphia 76ers,143,Los Angeles Lakers,120,Yes
+401071509,"SAC 117, PHX 104",Sacramento Kings,Phoenix Suns,20190210,Sacramento Kings,117,Phoenix Suns,104,Yes
+401071510,"ORL 124, ATL 108",Atlanta Hawks,Orlando Magic,20190210,Orlando Magic,124,Atlanta Hawks,108,No
+401071511,"GS 120, MIA 118",Golden State Warriors,Miami Heat,20190210,Golden State Warriors,120,Miami Heat,118,Yes
+401071512,"CLE 107, NY 104",Cleveland Cavaliers,New York Knicks,20190211,Cleveland Cavaliers,107,New York Knicks,104,Yes
+401071513,"DET 121, WSH 112",Detroit Pistons,Washington Wizards,20190211,Detroit Pistons,121,Washington Wizards,112,Yes
+401071514,"IND 99, CHA 90",Indiana Pacers,Charlotte Hornets,20190211,Indiana Pacers,99,Charlotte Hornets,90,Yes
+401071515,"TOR 127, BKN 125",Toronto Raptors,Brooklyn Nets,20190211,Toronto Raptors,127,Brooklyn Nets,125,Yes
+401071516,"MIL 112, CHI 99",Chicago Bulls,Milwaukee Bucks,20190211,Milwaukee Bucks,112,Chicago Bulls,99,No
+401071517,"HOU 120, DAL 104",Houston Rockets,Dallas Mavericks,20190211,Houston Rockets,120,Dallas Mavericks,104,Yes
+401071518,"MIN 130, LAC 120",Minnesota Timberwolves,LA Clippers,20190211,Minnesota Timberwolves,130,LA Clippers,120,Yes
+401071519,"OKC 120, POR 111",Oklahoma City Thunder,Portland Trail Blazers,20190211,Oklahoma City Thunder,120,Portland Trail Blazers,111,Yes
+401071520,"DEN 103, MIA 87",Denver Nuggets,Miami Heat,20190211,Denver Nuggets,103,Miami Heat,87,Yes
+401071521,"ATL 117, LAL 113",Atlanta Hawks,Los Angeles Lakers,20190212,Atlanta Hawks,117,Los Angeles Lakers,113,Yes
+401071522,"BOS 112, PHI 109",Philadelphia 76ers,Boston Celtics,20190212,Boston Celtics,112,Philadelphia 76ers,109,No
+401071523,"SA 108, MEM 107",Memphis Grizzlies,San Antonio Spurs,20190212,San Antonio Spurs,108,Memphis Grizzlies,107,No
+401071524,"ORL 118, NO 88",New Orleans Pelicans,Orlando Magic,20190212,Orlando Magic,118,New Orleans Pelicans,88,No
+401071525,"GS 115, UTAH 108",Golden State Warriors,Utah Jazz,20190212,Golden State Warriors,115,Utah Jazz,108,Yes
+401071526,"BKN 148, CLE 139 (3OT)",Cleveland Cavaliers,Brooklyn Nets,20190213,Brooklyn Nets,148,Cleveland Cavaliers,139,No
+401071527,"MIL 106, IND 97",Indiana Pacers,Milwaukee Bucks,20190213,Milwaukee Bucks,106,Indiana Pacers,97,No
+401071528,"BOS 118, DET 110",Boston Celtics,Detroit Pistons,20190213,Boston Celtics,118,Detroit Pistons,110,Yes
+401071529,"PHI 126, NY 111",New York Knicks,Philadelphia 76ers,20190213,Philadelphia 76ers,126,New York Knicks,111,No
+401071530,"TOR 129, WSH 120",Toronto Raptors,Washington Wizards,20190213,Toronto Raptors,129,Washington Wizards,120,Yes
+401071531,"CHI 122, MEM 110",Chicago Bulls,Memphis Grizzlies,20190213,Chicago Bulls,122,Memphis Grizzlies,110,Yes
+401071534,"MIN 121, HOU 111",Minnesota Timberwolves,Houston Rockets,20190213,Minnesota Timberwolves,121,Houston Rockets,111,Yes
+401071532,"MIA 112, DAL 101",Dallas Mavericks,Miami Heat,20190213,Miami Heat,112,Dallas Mavericks,101,No
+401071533,"DEN 120, SAC 118",Denver Nuggets,Sacramento Kings,20190213,Denver Nuggets,120,Sacramento Kings,118,Yes
+401071535,"POR 129, GS 107",Portland Trail Blazers,Golden State Warriors,20190213,Portland Trail Blazers,129,Golden State Warriors,107,Yes
+401071536,"LAC 134, PHX 107",LA Clippers,Phoenix Suns,20190213,LA Clippers,134,Phoenix Suns,107,Yes
+401071537,"ORL 127, CHA 89",Orlando Magic,Charlotte Hornets,20190214,Orlando Magic,127,Charlotte Hornets,89,Yes
+401071538,"NY 106, ATL 91",Atlanta Hawks,New York Knicks,20190214,New York Knicks,106,Atlanta Hawks,91,No
+401071539,"NO 131, OKC 122",New Orleans Pelicans,Oklahoma City Thunder,20190214,New Orleans Pelicans,131,Oklahoma City Thunder,122,Yes
+401071540,"CLE 111, PHX 98",Cleveland Cavaliers,Phoenix Suns,20190221,Cleveland Cavaliers,111,Phoenix Suns,98,Yes
+401071541,"PHI 106, MIA 102",Philadelphia 76ers,Miami Heat,20190221,Philadelphia 76ers,106,Miami Heat,102,Yes
+401071542,"POR 113, BKN 99",Brooklyn Nets,Portland Trail Blazers,20190221,Portland Trail Blazers,113,Brooklyn Nets,99,No
+401071543,"MIL 98, BOS 97",Milwaukee Bucks,Boston Celtics,20190221,Milwaukee Bucks,98,Boston Celtics,97,Yes
+401071544,"GS 125, SAC 123",Golden State Warriors,Sacramento Kings,20190221,Golden State Warriors,125,Sacramento Kings,123,Yes
+401071545,"LAL 111, HOU 106",Los Angeles Lakers,Houston Rockets,20190221,Los Angeles Lakers,111,Houston Rockets,106,Yes
+401071546,"CHA 123, WSH 110",Charlotte Hornets,Washington Wizards,20190222,Charlotte Hornets,123,Washington Wizards,110,Yes
+401071547,"IND 126, NO 111",Indiana Pacers,New Orleans Pelicans,20190222,Indiana Pacers,126,New Orleans Pelicans,111,Yes
+401071548,"CHI 110, ORL 109",Orlando Magic,Chicago Bulls,20190222,Chicago Bulls,110,Orlando Magic,109,No
+401071549,"TOR 120, SA 117",Toronto Raptors,San Antonio Spurs,20190222,Toronto Raptors,120,San Antonio Spurs,117,Yes
+401071550,"DET 125, ATL 122",Atlanta Hawks,Detroit Pistons,20190222,Detroit Pistons,125,Atlanta Hawks,122,No
+401071551,"MIN 115, NY 104",New York Knicks,Minnesota Timberwolves,20190222,Minnesota Timberwolves,115,New York Knicks,104,No
+401071552,"LAC 112, MEM 106",Memphis Grizzlies,LA Clippers,20190222,LA Clippers,112,Memphis Grizzlies,106,No
+401071553,"DEN 114, DAL 104",Dallas Mavericks,Denver Nuggets,20190222,Denver Nuggets,114,Dallas Mavericks,104,No
+401071554,"OKC 148, UTAH 147 (2OT)",Oklahoma City Thunder,Utah Jazz,20190222,Oklahoma City Thunder,148,Utah Jazz,147,Yes
+401071555,"POR 130, PHI 115",Philadelphia 76ers,Portland Trail Blazers,20190223,Portland Trail Blazers,130,Philadelphia 76ers,115,No
+401071556,"ATL 120, PHX 112",Atlanta Hawks,Phoenix Suns,20190223,Atlanta Hawks,120,Phoenix Suns,112,Yes
+401071557,"BKN 117, CHA 115",Charlotte Hornets,Brooklyn Nets,20190223,Brooklyn Nets,117,Charlotte Hornets,115,No
+401071558,"CLE 112, MEM 107",Cleveland Cavaliers,Memphis Grizzlies,20190223,Cleveland Cavaliers,112,Memphis Grizzlies,107,Yes
+401071559,"IND 119, WSH 112",Washington Wizards,Indiana Pacers,20190223,Indiana Pacers,119,Washington Wizards,112,No
+401071560,"NO 128, LAL 115",New Orleans Pelicans,Los Angeles Lakers,20190223,New Orleans Pelicans,128,Los Angeles Lakers,115,Yes
+401071561,"DET 119, MIA 96",Miami Heat,Detroit Pistons,20190223,Detroit Pistons,119,Miami Heat,96,No
+401071562,"CHI 126, BOS 116",Chicago Bulls,Boston Celtics,20190223,Chicago Bulls,126,Boston Celtics,116,Yes
+401071563,"SAC 119, OKC 116",Oklahoma City Thunder,Sacramento Kings,20190223,Sacramento Kings,119,Oklahoma City Thunder,116,No
+401071564,"MIL 140, MIN 128",Milwaukee Bucks,Minnesota Timberwolves,20190223,Milwaukee Bucks,140,Minnesota Timberwolves,128,Yes
+401071565,"HOU 118, GS 112",Golden State Warriors,Houston Rockets,20190223,Houston Rockets,118,Golden State Warriors,112,No
+401071566,"UTAH 125, DAL 109",Utah Jazz,Dallas Mavericks,20190223,Utah Jazz,125,Dallas Mavericks,109,Yes
+401071567,"ORL 113, TOR 98",Toronto Raptors,Orlando Magic,20190224,Orlando Magic,113,Toronto Raptors,98,No
+401071568,"DEN 123, LAC 96",Denver Nuggets,LA Clippers,20190224,Denver Nuggets,123,LA Clippers,96,Yes
+401071569,"NY 130, SA 118",New York Knicks,San Antonio Spurs,20190224,New York Knicks,130,San Antonio Spurs,118,Yes
+401071570,"GS 121, CHA 110",Charlotte Hornets,Golden State Warriors,20190225,Golden State Warriors,121,Charlotte Hornets,110,No
+401071571,"POR 123, CLE 110",Cleveland Cavaliers,Portland Trail Blazers,20190225,Portland Trail Blazers,123,Cleveland Cavaliers,110,No
+401071572,"DET 113, IND 109",Detroit Pistons,Indiana Pacers,20190225,Detroit Pistons,113,Indiana Pacers,109,Yes
+401071573,"BKN 101, SA 85",Brooklyn Nets,San Antonio Spurs,20190225,Brooklyn Nets,101,San Antonio Spurs,85,Yes
+401071574,"PHX 124, MIA 121",Miami Heat,Phoenix Suns,20190225,Phoenix Suns,124,Miami Heat,121,No
+401071575,"MIL 117, CHI 106",Chicago Bulls,Milwaukee Bucks,20190225,Milwaukee Bucks,117,Chicago Bulls,106,No
+401071576,"HOU 119, ATL 111",Houston Rockets,Atlanta Hawks,20190225,Houston Rockets,119,Atlanta Hawks,111,Yes
+401071577,"MEM 110, LAL 105",Memphis Grizzlies,Los Angeles Lakers,20190225,Memphis Grizzlies,110,Los Angeles Lakers,105,Yes
+401071578,"MIN 112, SAC 105",Minnesota Timberwolves,Sacramento Kings,20190225,Minnesota Timberwolves,112,Sacramento Kings,105,Yes
+401071579,"PHI 111, NO 110",New Orleans Pelicans,Philadelphia 76ers,20190225,Philadelphia 76ers,111,New Orleans Pelicans,110,No
+401071580,"LAC 121, DAL 112",LA Clippers,Dallas Mavericks,20190225,LA Clippers,121,Dallas Mavericks,112,Yes
+401071584,"HOU 118, CHA 113",Charlotte Hornets,Houston Rockets,20190227,Houston Rockets,118,Charlotte Hornets,113,No
+401071585,"ATL 131, MIN 123 (OT)",Atlanta Hawks,Minnesota Timberwolves,20190227,Atlanta Hawks,131,Minnesota Timberwolves,123,Yes
+401071587,"WSH 125, BKN 116",Brooklyn Nets,Washington Wizards,20190227,Washington Wizards,125,Brooklyn Nets,116,No
+401071588,"MIA 126, GS 125",Miami Heat,Golden State Warriors,20190227,Miami Heat,126,Golden State Warriors,125,Yes
+401071586,"POR 97, BOS 92",Boston Celtics,Portland Trail Blazers,20190227,Portland Trail Blazers,97,Boston Celtics,92,No
+401071589,"CHI 109, MEM 107",Memphis Grizzlies,Chicago Bulls,20190227,Chicago Bulls,109,Memphis Grizzlies,107,No
+401071590,"SA 105, DET 93",San Antonio Spurs,Detroit Pistons,20190227,San Antonio Spurs,105,Detroit Pistons,93,Yes
+401071591,"DAL 110, IND 101",Dallas Mavericks,Indiana Pacers,20190227,Dallas Mavericks,110,Indiana Pacers,101,Yes
+401071592,"UTAH 111, LAC 105",Utah Jazz,LA Clippers,20190227,Utah Jazz,111,LA Clippers,105,Yes
+401071593,"MIL 141, SAC 140 (OT)",Sacramento Kings,Milwaukee Bucks,20190227,Milwaukee Bucks,141,Sacramento Kings,140,No
+401071594,"LAL 125, NO 119",Los Angeles Lakers,New Orleans Pelicans,20190227,Los Angeles Lakers,125,New Orleans Pelicans,119,Yes
+401071601,"CHI 168, ATL 161 (4OT)",Atlanta Hawks,Chicago Bulls,20190301,Chicago Bulls,168,Atlanta Hawks,161,No
+401071602,"CHA 123, BKN 112",Brooklyn Nets,Charlotte Hornets,20190301,Charlotte Hornets,123,Brooklyn Nets,112,No
+401071603,"TOR 119, POR 117",Toronto Raptors,Portland Trail Blazers,20190301,Toronto Raptors,119,Portland Trail Blazers,117,Yes
+401071604,"BOS 107, WSH 96",Boston Celtics,Washington Wizards,20190301,Boston Celtics,107,Washington Wizards,96,Yes
+401071605,"NO 130, PHX 116",Phoenix Suns,New Orleans Pelicans,20190301,New Orleans Pelicans,130,Phoenix Suns,116,No
+401071606,"LAC 116, SAC 109",Sacramento Kings,LA Clippers,20190301,LA Clippers,116,Sacramento Kings,109,No
+401071607,"MIL 131, LAL 120",Los Angeles Lakers,Milwaukee Bucks,20190301,Milwaukee Bucks,131,Los Angeles Lakers,120,No
+401071617,"POR 118, CHA 108",Charlotte Hornets,Portland Trail Blazers,20190303,Portland Trail Blazers,118,Charlotte Hornets,108,No
+401071618,"HOU 115, BOS 104",Boston Celtics,Houston Rockets,20190303,Houston Rockets,115,Boston Celtics,104,No
+401071619,"ATL 123, CHI 118",Chicago Bulls,Atlanta Hawks,20190303,Atlanta Hawks,123,Chicago Bulls,118,No
+401071620,"LAC 128, NY 107",LA Clippers,New York Knicks,20190303,LA Clippers,128,New York Knicks,107,Yes
+401071621,"CLE 107, ORL 93",Cleveland Cavaliers,Orlando Magic,20190303,Cleveland Cavaliers,107,Orlando Magic,93,Yes
+401071622,"DET 112, TOR 107 (OT)",Detroit Pistons,Toronto Raptors,20190303,Detroit Pistons,112,Toronto Raptors,107,Yes
+401071623,"WSH 135, MIN 121",Washington Wizards,Minnesota Timberwolves,20190303,Washington Wizards,135,Minnesota Timberwolves,121,Yes
+401071624,"OKC 99, MEM 95",Oklahoma City Thunder,Memphis Grizzlies,20190303,Oklahoma City Thunder,99,Memphis Grizzlies,95,Yes
+401071638,"MIA 91, CHA 84",Charlotte Hornets,Miami Heat,20190306,Miami Heat,91,Charlotte Hornets,84,No
+401071639,"DET 131, MIN 114",Detroit Pistons,Minnesota Timberwolves,20190306,Detroit Pistons,131,Minnesota Timberwolves,114,Yes
+401071640,"WSH 132, DAL 123",Washington Wizards,Dallas Mavericks,20190306,Washington Wizards,132,Dallas Mavericks,123,Yes
+401071641,"SA 111, ATL 104",Atlanta Hawks,San Antonio Spurs,20190306,San Antonio Spurs,111,Atlanta Hawks,104,No
+401071642,"BKN 113, CLE 107",Brooklyn Nets,Cleveland Cavaliers,20190306,Brooklyn Nets,113,Cleveland Cavaliers,107,Yes
+401071643,"CHI 108, PHI 107",Chicago Bulls,Philadelphia 76ers,20190306,Chicago Bulls,108,Philadelphia 76ers,107,Yes
+401071644,"UTAH 114, NO 104",New Orleans Pelicans,Utah Jazz,20190306,Utah Jazz,114,New Orleans Pelicans,104,No
+401071645,"PHX 107, NY 96",Phoenix Suns,New York Knicks,20190306,Phoenix Suns,107,New York Knicks,96,Yes
+401071646,"BOS 111, SAC 109",Sacramento Kings,Boston Celtics,20190306,Boston Celtics,111,Sacramento Kings,109,No
+401071647,"DEN 115, LAL 99",Los Angeles Lakers,Denver Nuggets,20190306,Denver Nuggets,115,Los Angeles Lakers,99,No
+401071648,"MIL 117, IND 98",Milwaukee Bucks,Indiana Pacers,20190307,Milwaukee Bucks,117,Indiana Pacers,98,Yes
+401071649,"OKC 129, POR 121 (OT)",Portland Trail Blazers,Oklahoma City Thunder,20190307,Oklahoma City Thunder,129,Portland Trail Blazers,121,No
+401071659,"SAC 102, NY 94",New York Knicks,Sacramento Kings,20190309,Sacramento Kings,102,New York Knicks,94,No
+401071660,"BKN 114, ATL 112",Atlanta Hawks,Brooklyn Nets,20190309,Brooklyn Nets,114,Atlanta Hawks,112,No
+401071661,"MIN 135, WSH 130 (OT)",Minnesota Timberwolves,Washington Wizards,20190309,Minnesota Timberwolves,135,Washington Wizards,130,Yes
+401071662,"BOS 120, LAL 107",Los Angeles Lakers,Boston Celtics,20190309,Boston Celtics,120,Los Angeles Lakers,107,No
+401071663,"MIL 131, CHA 114",Milwaukee Bucks,Charlotte Hornets,20190309,Milwaukee Bucks,131,Charlotte Hornets,114,Yes
+401071664,"POR 127, PHX 120",Portland Trail Blazers,Phoenix Suns,20190309,Portland Trail Blazers,127,Phoenix Suns,120,Yes
+401071680,"IND 103, NY 98",Indiana Pacers,New York Knicks,20190312,Indiana Pacers,103,New York Knicks,98,Yes
+401071681,"PHI 106, CLE 99",Philadelphia 76ers,Cleveland Cavaliers,20190312,Philadelphia 76ers,106,Cleveland Cavaliers,99,Yes
+401071682,"LAL 123, CHI 107",Chicago Bulls,Los Angeles Lakers,20190312,Los Angeles Lakers,123,Chicago Bulls,107,No
+401071683,"MIL 130, NO 113",New Orleans Pelicans,Milwaukee Bucks,20190312,Milwaukee Bucks,130,New Orleans Pelicans,113,No
+401071684,"SA 112, DAL 105",Dallas Mavericks,San Antonio Spurs,20190312,San Antonio Spurs,112,Dallas Mavericks,105,No
+401071685,"DEN 133, MIN 107",Denver Nuggets,Minnesota Timberwolves,20190312,Denver Nuggets,133,Minnesota Timberwolves,107,Yes
+401071686,"POR 125, LAC 104",LA Clippers,Portland Trail Blazers,20190312,Portland Trail Blazers,125,LA Clippers,104,No
+401071693,"IND 108, OKC 106",Indiana Pacers,Oklahoma City Thunder,20190314,Indiana Pacers,108,Oklahoma City Thunder,106,Yes
+401071694,"ORL 120, CLE 91",Orlando Magic,Cleveland Cavaliers,20190314,Orlando Magic,120,Cleveland Cavaliers,91,Yes
+401071695,"BOS 126, SAC 120",Boston Celtics,Sacramento Kings,20190314,Boston Celtics,126,Sacramento Kings,120,Yes
+401071696,"TOR 111, LAL 98",Toronto Raptors,Los Angeles Lakers,20190314,Toronto Raptors,111,Los Angeles Lakers,98,Yes
+401071697,"UTAH 120, MIN 100",Utah Jazz,Minnesota Timberwolves,20190314,Utah Jazz,120,Minnesota Timberwolves,100,Yes
+401071698,"DEN 100, DAL 99",Denver Nuggets,Dallas Mavericks,20190314,Denver Nuggets,100,Dallas Mavericks,99,Yes
+401071699,"DET 111, LAL 97",Detroit Pistons,Los Angeles Lakers,20190315,Detroit Pistons,111,Los Angeles Lakers,97,Yes
+401071700,"PHI 123, SAC 114",Philadelphia 76ers,Sacramento Kings,20190315,Philadelphia 76ers,123,Sacramento Kings,114,Yes
+401071701,"CHA 116, WSH 110",Washington Wizards,Charlotte Hornets,20190315,Charlotte Hornets,116,Washington Wizards,110,No
+401071702,"MIL 113, MIA 98",Miami Heat,Milwaukee Bucks,20190315,Milwaukee Bucks,113,Miami Heat,98,No
+401071703,"HOU 108, PHX 102",Houston Rockets,Phoenix Suns,20190315,Houston Rockets,108,Phoenix Suns,102,Yes
+401071704,"POR 122, NO 110",New Orleans Pelicans,Portland Trail Blazers,20190315,Portland Trail Blazers,122,New Orleans Pelicans,110,No
+401071705,"SA 109, NY 83",San Antonio Spurs,New York Knicks,20190315,San Antonio Spurs,109,New York Knicks,83,Yes
+401071706,"LAC 128, CHI 121",LA Clippers,Chicago Bulls,20190315,LA Clippers,128,Chicago Bulls,121,Yes
+401071707,"BOS 129, ATL 120",Boston Celtics,Atlanta Hawks,20190316,Boston Celtics,129,Atlanta Hawks,120,Yes
+401071708,"WSH 135, MEM 128",Washington Wizards,Memphis Grizzlies,20190316,Washington Wizards,135,Memphis Grizzlies,128,Yes
+401071709,"PHX 138, NO 136 (OT)",New Orleans Pelicans,Phoenix Suns,20190316,Phoenix Suns,138,New Orleans Pelicans,136,No
+401071710,"DAL 121, CLE 116",Dallas Mavericks,Cleveland Cavaliers,20190316,Dallas Mavericks,121,Cleveland Cavaliers,116,Yes
+401071711,"GS 110, OKC 88",Oklahoma City Thunder,Golden State Warriors,20190316,Golden State Warriors,110,Oklahoma City Thunder,88,No
+401071712,"SA 108, POR 103",San Antonio Spurs,Portland Trail Blazers,20190316,San Antonio Spurs,108,Portland Trail Blazers,103,Yes
+401071713,"DEN 102, IND 100",Denver Nuggets,Indiana Pacers,20190316,Denver Nuggets,102,Indiana Pacers,100,Yes
+401071714,"UTAH 114, BKN 98",Utah Jazz,Brooklyn Nets,20190316,Utah Jazz,114,Brooklyn Nets,98,Yes
+401071723,"CLE 126, DET 119",Cleveland Cavaliers,Detroit Pistons,20190318,Cleveland Cavaliers,126,Detroit Pistons,119,Yes
+401071724,"UTAH 116, WSH 95",Washington Wizards,Utah Jazz,20190318,Utah Jazz,116,Washington Wizards,95,No
+401071725,"DEN 114, BOS 105",Boston Celtics,Denver Nuggets,20190318,Denver Nuggets,114,Boston Celtics,105,No
+401071726,"TOR 128, NY 92",Toronto Raptors,New York Knicks,20190318,Toronto Raptors,128,New York Knicks,92,Yes
+401071727,"MIA 116, OKC 107",Oklahoma City Thunder,Miami Heat,20190318,Miami Heat,116,Oklahoma City Thunder,107,No
+401071728,"SA 111, GS 105",San Antonio Spurs,Golden State Warriors,20190318,San Antonio Spurs,111,Golden State Warriors,105,Yes
+401071729,"NO 129, DAL 125 (OT)",Dallas Mavericks,New Orleans Pelicans,20190318,New Orleans Pelicans,129,Dallas Mavericks,125,No
+401071730,"CHI 116, PHX 101",Phoenix Suns,Chicago Bulls,20190318,Chicago Bulls,116,Phoenix Suns,101,No
+401071731,"POR 106, IND 98",Portland Trail Blazers,Indiana Pacers,20190318,Portland Trail Blazers,106,Indiana Pacers,98,Yes
+401071732,"PHI 118, CHA 114",Charlotte Hornets,Philadelphia 76ers,20190319,Philadelphia 76ers,118,Charlotte Hornets,114,No
+401071733,"HOU 121, ATL 105",Atlanta Hawks,Houston Rockets,20190319,Houston Rockets,121,Atlanta Hawks,105,No
+401071734,"MIL 115, LAL 101",Milwaukee Bucks,Los Angeles Lakers,20190319,Milwaukee Bucks,115,Los Angeles Lakers,101,Yes
+401071735,"GS 117, MIN 107",Minnesota Timberwolves,Golden State Warriors,20190319,Golden State Warriors,117,Minnesota Timberwolves,107,No
+401071736,"BKN 123, SAC 121",Sacramento Kings,Brooklyn Nets,20190319,Brooklyn Nets,123,Sacramento Kings,121,No
+401071737,"LAC 115, IND 109",LA Clippers,Indiana Pacers,20190319,LA Clippers,115,Indiana Pacers,109,Yes
+401071738,"CLE 107, MIL 102",Cleveland Cavaliers,Milwaukee Bucks,20190320,Cleveland Cavaliers,107,Milwaukee Bucks,102,Yes
+401071739,"ORL 119, NO 96",Orlando Magic,New Orleans Pelicans,20190320,Orlando Magic,119,New Orleans Pelicans,96,Yes
+401071740,"PHI 118, BOS 115",Philadelphia 76ers,Boston Celtics,20190320,Philadelphia 76ers,118,Boston Celtics,115,Yes
+401071741,"UTAH 137, NY 116",New York Knicks,Utah Jazz,20190320,Utah Jazz,137,New York Knicks,116,No
+401071742,"CHI 126, WSH 120 (OT)",Chicago Bulls,Washington Wizards,20190320,Chicago Bulls,126,Washington Wizards,120,Yes
+401071743,"MEM 126, HOU 125 (OT)",Memphis Grizzlies,Houston Rockets,20190320,Memphis Grizzlies,126,Houston Rockets,125,Yes
+401071744,"MIA 110, SA 105",San Antonio Spurs,Miami Heat,20190320,Miami Heat,110,San Antonio Spurs,105,No
+401071745,"TOR 123, OKC 114 (OT)",Oklahoma City Thunder,Toronto Raptors,20190320,Toronto Raptors,123,Oklahoma City Thunder,114,No
+401071746,"POR 126, DAL 118",Portland Trail Blazers,Dallas Mavericks,20190320,Portland Trail Blazers,126,Dallas Mavericks,118,Yes
+401071747,"CHA 113, MIN 106",Charlotte Hornets,Minnesota Timberwolves,20190321,Charlotte Hornets,113,Minnesota Timberwolves,106,Yes
+401071748,"DEN 113, WSH 108",Washington Wizards,Denver Nuggets,20190321,Denver Nuggets,113,Washington Wizards,108,No
+401071749,"ATL 117, UTAH 114",Atlanta Hawks,Utah Jazz,20190321,Atlanta Hawks,117,Utah Jazz,114,Yes
+401071750,"DET 118, PHX 98",Phoenix Suns,Detroit Pistons,20190321,Detroit Pistons,118,Phoenix Suns,98,No
+401071751,"SAC 116, DAL 100",Sacramento Kings,Dallas Mavericks,20190321,Sacramento Kings,116,Dallas Mavericks,100,Yes
+401071752,"GS 112, IND 89",Golden State Warriors,Indiana Pacers,20190321,Golden State Warriors,112,Indiana Pacers,89,Yes
+401071753,"ORL 123, MEM 119 (OT)",Orlando Magic,Memphis Grizzlies,20190322,Orlando Magic,123,Memphis Grizzlies,119,Yes
+401071754,"LAC 110, CLE 108",Cleveland Cavaliers,LA Clippers,20190322,LA Clippers,110,Cleveland Cavaliers,108,No
+401071755,"DEN 111, NY 93",New York Knicks,Denver Nuggets,20190322,Denver Nuggets,111,New York Knicks,93,No
+401071756,"OKC 116, TOR 109",Toronto Raptors,Oklahoma City Thunder,20190322,Oklahoma City Thunder,116,Toronto Raptors,109,No
+401071757,"HOU 111, SA 105",Houston Rockets,San Antonio Spurs,20190322,Houston Rockets,111,San Antonio Spurs,105,Yes
+401071758,"MIL 116, MIA 87",Milwaukee Bucks,Miami Heat,20190322,Milwaukee Bucks,116,Miami Heat,87,Yes
+401071759,"BKN 111, LAL 106",Los Angeles Lakers,Brooklyn Nets,20190322,Brooklyn Nets,111,Los Angeles Lakers,106,No
+401071760,"CHA 124, BOS 117",Charlotte Hornets,Boston Celtics,20190323,Charlotte Hornets,124,Boston Celtics,117,Yes
+401071761,"MIA 113, WSH 108",Washington Wizards,Miami Heat,20190323,Miami Heat,113,Washington Wizards,108,No
+401071762,"ATL 129, PHI 127",Atlanta Hawks,Philadelphia 76ers,20190323,Atlanta Hawks,129,Philadelphia 76ers,127,Yes
+401071763,"UTAH 114, CHI 83",Chicago Bulls,Utah Jazz,20190323,Utah Jazz,114,Chicago Bulls,83,No
+401071764,"MIN 112, MEM 99",Memphis Grizzlies,Minnesota Timberwolves,20190323,Minnesota Timberwolves,112,Memphis Grizzlies,99,No
+401071765,"DAL 126, GS 91",Golden State Warriors,Dallas Mavericks,20190323,Dallas Mavericks,126,Golden State Warriors,91,No
+401071766,"POR 117, DET 112",Portland Trail Blazers,Detroit Pistons,20190323,Portland Trail Blazers,117,Detroit Pistons,112,Yes
+401071767,"SAC 112, PHX 103",Sacramento Kings,Phoenix Suns,20190323,Sacramento Kings,112,Phoenix Suns,103,Yes
+401071768,"LAC 124, NY 113",New York Knicks,LA Clippers,20190324,LA Clippers,124,New York Knicks,113,No
+401071769,"MIL 127, CLE 105",Milwaukee Bucks,Cleveland Cavaliers,20190324,Milwaukee Bucks,127,Cleveland Cavaliers,105,Yes
+401071770,"IND 124, DEN 88",Indiana Pacers,Denver Nuggets,20190324,Indiana Pacers,124,Denver Nuggets,88,Yes
+401071771,"CHA 115, TOR 114",Toronto Raptors,Charlotte Hornets,20190324,Charlotte Hornets,115,Toronto Raptors,114,No
+401071772,"HOU 113, NO 90",New Orleans Pelicans,Houston Rockets,20190324,Houston Rockets,113,New Orleans Pelicans,90,No
+401071773,"SA 115, BOS 96",Boston Celtics,San Antonio Spurs,20190324,San Antonio Spurs,115,Boston Celtics,96,No
+401071774,"GS 121, DET 114",Golden State Warriors,Detroit Pistons,20190324,Golden State Warriors,121,Detroit Pistons,114,Yes
+401071775,"LAL 111, SAC 106",Los Angeles Lakers,Sacramento Kings,20190324,Los Angeles Lakers,111,Sacramento Kings,106,Yes
+401071776,"ORL 119, PHI 98",Orlando Magic,Philadelphia 76ers,20190325,Orlando Magic,119,Philadelphia 76ers,98,Yes
+401071777,"MEM 115, OKC 103",Memphis Grizzlies,Oklahoma City Thunder,20190325,Memphis Grizzlies,115,Oklahoma City Thunder,103,Yes
+401071778,"UTAH 125, PHX 92",Utah Jazz,Phoenix Suns,20190325,Utah Jazz,125,Phoenix Suns,92,Yes
+401071779,"POR 148, BKN 144 (2OT)",Portland Trail Blazers,Brooklyn Nets,20190325,Portland Trail Blazers,148,Brooklyn Nets,144,Yes
+401071780,"CHA 125, SA 116 (OT)",Charlotte Hornets,San Antonio Spurs,20190326,Charlotte Hornets,125,San Antonio Spurs,116,Yes
+401071781,"BOS 116, CLE 106",Cleveland Cavaliers,Boston Celtics,20190326,Boston Celtics,116,Cleveland Cavaliers,106,No
+401071782,"ORL 104, MIA 99",Miami Heat,Orlando Magic,20190326,Orlando Magic,104,Miami Heat,99,No
+401071783,"TOR 112, CHI 103",Toronto Raptors,Chicago Bulls,20190326,Toronto Raptors,112,Chicago Bulls,103,Yes
+401071784,"MIL 108, HOU 94",Milwaukee Bucks,Houston Rockets,20190326,Milwaukee Bucks,108,Houston Rockets,94,Yes
+401071785,"LAC 122, MIN 111",Minnesota Timberwolves,LA Clippers,20190326,LA Clippers,122,Minnesota Timberwolves,111,No
+401071786,"ATL 130, NO 120",New Orleans Pelicans,Atlanta Hawks,20190326,Atlanta Hawks,130,New Orleans Pelicans,120,No
+401071787,"SAC 125, DAL 121",Dallas Mavericks,Sacramento Kings,20190326,Sacramento Kings,125,Dallas Mavericks,121,No
+401071788,"DEN 95, DET 92",Denver Nuggets,Detroit Pistons,20190326,Denver Nuggets,95,Detroit Pistons,92,Yes
+401071789,"LAL 124, WSH 106",Los Angeles Lakers,Washington Wizards,20190326,Los Angeles Lakers,124,Washington Wizards,106,Yes
+401071790,"POR 118, CHI 98",Chicago Bulls,Portland Trail Blazers,20190327,Portland Trail Blazers,118,Chicago Bulls,98,No
+401071791,"GS 118, MEM 103",Memphis Grizzlies,Golden State Warriors,20190327,Golden State Warriors,118,Memphis Grizzlies,103,No
+401071792,"OKC 107, IND 99",Oklahoma City Thunder,Indiana Pacers,20190327,Oklahoma City Thunder,107,Indiana Pacers,99,Yes
+401071793,"WSH 124, PHX 121",Phoenix Suns,Washington Wizards,20190327,Washington Wizards,124,Phoenix Suns,121,No
+401071794,"UTAH 115, LAL 100",Utah Jazz,Los Angeles Lakers,20190327,Utah Jazz,115,Los Angeles Lakers,100,Yes
+401071795,"DET 115, ORL 98",Detroit Pistons,Orlando Magic,20190328,Detroit Pistons,115,Orlando Magic,98,Yes
+401071796,"PHI 123, BKN 110",Philadelphia 76ers,Brooklyn Nets,20190328,Philadelphia 76ers,123,Brooklyn Nets,110,Yes
+401071797,"MIA 105, DAL 99",Miami Heat,Dallas Mavericks,20190328,Miami Heat,105,Dallas Mavericks,99,Yes
+401071798,"TOR 117, NY 92",New York Knicks,Toronto Raptors,20190328,Toronto Raptors,117,New York Knicks,92,No
+401071799,"HOU 112, DEN 85",Houston Rockets,Denver Nuggets,20190328,Houston Rockets,112,Denver Nuggets,85,Yes
+401071800,"MIL 128, LAC 118",Milwaukee Bucks,LA Clippers,20190328,Milwaukee Bucks,128,LA Clippers,118,Yes
+401071801,"NO 121, SAC 118",New Orleans Pelicans,Sacramento Kings,20190328,New Orleans Pelicans,121,Sacramento Kings,118,Yes
+401071802,"SA 116, CLE 110",San Antonio Spurs,Cleveland Cavaliers,20190328,San Antonio Spurs,116,Cleveland Cavaliers,110,Yes
+401071803,"BOS 114, IND 112",Boston Celtics,Indiana Pacers,20190329,Boston Celtics,114,Indiana Pacers,112,Yes
+401071804,"POR 118, ATL 98",Atlanta Hawks,Portland Trail Blazers,20190329,Portland Trail Blazers,118,Atlanta Hawks,98,No
+401071805,"MIN 131, GS 130 (OT)",Minnesota Timberwolves,Golden State Warriors,20190329,Minnesota Timberwolves,131,Golden State Warriors,130,Yes
+401071806,"DEN 115, OKC 105",Oklahoma City Thunder,Denver Nuggets,20190329,Denver Nuggets,115,Oklahoma City Thunder,105,No
+401071807,"UTAH 128, WSH 124",Utah Jazz,Washington Wizards,20190329,Utah Jazz,128,Washington Wizards,124,Yes
+401071808,"LAL 129, CHA 115",Los Angeles Lakers,Charlotte Hornets,20190329,Los Angeles Lakers,129,Charlotte Hornets,115,Yes
+401071809,"LAC 132, CLE 108",LA Clippers,Cleveland Cavaliers,20190330,LA Clippers,132,Cleveland Cavaliers,108,Yes
+401071810,"BKN 110, BOS 96",Brooklyn Nets,Boston Celtics,20190330,Brooklyn Nets,110,Boston Celtics,96,Yes
+401071811,"HOU 119, SAC 108",Houston Rockets,Sacramento Kings,20190330,Houston Rockets,119,Sacramento Kings,108,Yes
+401071812,"DET 99, POR 90",Detroit Pistons,Portland Trail Blazers,20190330,Detroit Pistons,99,Portland Trail Blazers,90,Yes
+401071813,"ORL 121, IND 116",Indiana Pacers,Orlando Magic,20190330,Orlando Magic,121,Indiana Pacers,116,No
+401071814,"MIA 100, NY 92",New York Knicks,Miami Heat,20190330,Miami Heat,100,New York Knicks,92,No
+401071815,"TOR 124, CHI 101",Chicago Bulls,Toronto Raptors,20190330,Toronto Raptors,124,Chicago Bulls,101,No
+401071816,"PHI 118, MIN 109",Minnesota Timberwolves,Philadelphia 76ers,20190330,Philadelphia 76ers,118,Minnesota Timberwolves,109,No
+401071817,"MEM 120, PHX 115",Phoenix Suns,Memphis Grizzlies,20190330,Memphis Grizzlies,120,Phoenix Suns,115,No
+401071818,"ATL 136, MIL 135 (OT)",Atlanta Hawks,Milwaukee Bucks,20190331,Atlanta Hawks,136,Milwaukee Bucks,135,Yes
+401071819,"DAL 106, OKC 103",Oklahoma City Thunder,Dallas Mavericks,20190331,Dallas Mavericks,106,Oklahoma City Thunder,103,No
+401071820,"LAL 130, NO 102",New Orleans Pelicans,Los Angeles Lakers,20190331,Los Angeles Lakers,130,New Orleans Pelicans,102,No
+401071821,"SAC 113, SA 106",San Antonio Spurs,Sacramento Kings,20190331,Sacramento Kings,113,San Antonio Spurs,106,No
+401071822,"WSH 95, DEN 90",Denver Nuggets,Washington Wizards,20190331,Washington Wizards,95,Denver Nuggets,90,No
+401071823,"GS 137, CHA 90",Golden State Warriors,Charlotte Hornets,20190331,Golden State Warriors,137,Charlotte Hornets,90,Yes
+401071824,"LAC 113, MEM 96",LA Clippers,Memphis Grizzlies,20190331,LA Clippers,113,Memphis Grizzlies,96,Yes
+401071825,"IND 111, DET 102",Indiana Pacers,Detroit Pistons,20190401,Indiana Pacers,111,Detroit Pistons,102,Yes
+401071826,"BOS 110, MIA 105",Boston Celtics,Miami Heat,20190401,Boston Celtics,110,Miami Heat,105,Yes
+401071827,"MIL 131, BKN 121",Brooklyn Nets,Milwaukee Bucks,20190401,Milwaukee Bucks,131,Brooklyn Nets,121,No
+401071828,"NY 113, CHI 105",New York Knicks,Chicago Bulls,20190401,New York Knicks,113,Chicago Bulls,105,Yes
+401071829,"TOR 121, ORL 109",Toronto Raptors,Orlando Magic,20190401,Toronto Raptors,121,Orlando Magic,109,Yes
+401071830,"POR 132, MIN 122",Minnesota Timberwolves,Portland Trail Blazers,20190401,Portland Trail Blazers,132,Minnesota Timberwolves,122,No
+401071831,"DAL 122, PHI 102",Dallas Mavericks,Philadelphia 76ers,20190401,Dallas Mavericks,122,Philadelphia 76ers,102,Yes
+401071832,"UTAH 111, CHA 102",Utah Jazz,Charlotte Hornets,20190401,Utah Jazz,111,Charlotte Hornets,102,Yes
+401071833,"PHX 122, CLE 113",Phoenix Suns,Cleveland Cavaliers,20190401,Phoenix Suns,122,Cleveland Cavaliers,113,Yes
+401071834,"OKC 119, LAL 103",Oklahoma City Thunder,Los Angeles Lakers,20190402,Oklahoma City Thunder,119,Los Angeles Lakers,103,Yes
+401071835,"SA 117, ATL 111",San Antonio Spurs,Atlanta Hawks,20190402,San Antonio Spurs,117,Atlanta Hawks,111,Yes
+401071836,"HOU 130, SAC 105",Sacramento Kings,Houston Rockets,20190402,Houston Rockets,130,Sacramento Kings,105,No
+401071837,"GS 116, DEN 102",Golden State Warriors,Denver Nuggets,20190402,Golden State Warriors,116,Denver Nuggets,102,Yes
+401071838,"IND 108, DET 89",Detroit Pistons,Indiana Pacers,20190403,Indiana Pacers,108,Detroit Pistons,89,No
+401071839,"ORL 114, NY 100",Orlando Magic,New York Knicks,20190403,Orlando Magic,114,New York Knicks,100,Yes
+401071840,"CHI 115, WSH 114",Washington Wizards,Chicago Bulls,20190403,Chicago Bulls,115,Washington Wizards,114,No
+401071841,"ATL 130, PHI 122",Atlanta Hawks,Philadelphia 76ers,20190403,Atlanta Hawks,130,Philadelphia 76ers,122,Yes
+401071842,"TOR 115, BKN 105",Brooklyn Nets,Toronto Raptors,20190403,Toronto Raptors,115,Brooklyn Nets,105,No
+401071843,"BOS 112, MIA 102",Miami Heat,Boston Celtics,20190403,Boston Celtics,112,Miami Heat,102,No
+401071844,"CHA 115, NO 109",New Orleans Pelicans,Charlotte Hornets,20190403,Charlotte Hornets,115,New Orleans Pelicans,109,No
+401071845,"MIN 110, DAL 108",Dallas Mavericks,Minnesota Timberwolves,20190403,Minnesota Timberwolves,110,Dallas Mavericks,108,No
+401071846,"DEN 113, SA 85",Denver Nuggets,San Antonio Spurs,20190403,Denver Nuggets,113,San Antonio Spurs,85,Yes
+401071847,"UTAH 118, PHX 97",Phoenix Suns,Utah Jazz,20190403,Utah Jazz,118,Phoenix Suns,97,No
+401071848,"POR 116, MEM 89",Portland Trail Blazers,Memphis Grizzlies,20190403,Portland Trail Blazers,116,Memphis Grizzlies,89,Yes
+401071849,"HOU 135, LAC 103",LA Clippers,Houston Rockets,20190403,Houston Rockets,135,LA Clippers,103,No
+401071850,"MIL 128, PHI 122",Philadelphia 76ers,Milwaukee Bucks,20190404,Milwaukee Bucks,128,Philadelphia 76ers,122,No
+401071851,"SAC 117, CLE 104",Sacramento Kings,Cleveland Cavaliers,20190404,Sacramento Kings,117,Cleveland Cavaliers,104,Yes
+401071852,"GS 108, LAL 90",Los Angeles Lakers,Golden State Warriors,20190404,Golden State Warriors,108,Los Angeles Lakers,90,No
+401071853,"CHA 113, TOR 111",Charlotte Hornets,Toronto Raptors,20190405,Charlotte Hornets,113,Toronto Raptors,111,Yes
+401071854,"ORL 149, ATL 113",Orlando Magic,Atlanta Hawks,20190405,Orlando Magic,149,Atlanta Hawks,113,Yes
+401071855,"SA 129, WSH 112",Washington Wizards,San Antonio Spurs,20190405,San Antonio Spurs,129,Washington Wizards,112,No
+401071856,"BOS 117, IND 97",Indiana Pacers,Boston Celtics,20190405,Boston Celtics,117,Indiana Pacers,97,No
+401071857,"HOU 120, NY 96",Houston Rockets,New York Knicks,20190405,Houston Rockets,120,New York Knicks,96,Yes
+401071858,"MIN 111, MIA 109",Minnesota Timberwolves,Miami Heat,20190405,Minnesota Timberwolves,111,Miami Heat,109,Yes
+401071859,"OKC 123, DET 110",Oklahoma City Thunder,Detroit Pistons,20190405,Oklahoma City Thunder,123,Detroit Pistons,110,Yes
+401071860,"MEM 122, DAL 112",Dallas Mavericks,Memphis Grizzlies,20190405,Memphis Grizzlies,122,Dallas Mavericks,112,No
+401071861,"UTAH 119, SAC 98",Utah Jazz,Sacramento Kings,20190405,Utah Jazz,119,Sacramento Kings,98,Yes
+401071862,"PHX 133, NO 126 (OT)",Phoenix Suns,New Orleans Pelicans,20190405,Phoenix Suns,133,New Orleans Pelicans,126,Yes
+401071863,"DEN 119, POR 110",Denver Nuggets,Portland Trail Blazers,20190405,Denver Nuggets,119,Portland Trail Blazers,110,Yes
+401071864,"GS 120, CLE 114",Golden State Warriors,Cleveland Cavaliers,20190405,Golden State Warriors,120,Cleveland Cavaliers,114,Yes
+401071865,"LAL 122, LAC 117",LA Clippers,Los Angeles Lakers,20190405,Los Angeles Lakers,122,LA Clippers,117,No
+401071866,"BKN 133, MIL 128",Milwaukee Bucks,Brooklyn Nets,20190406,Brooklyn Nets,133,Milwaukee Bucks,128,No
+401071867,"PHI 116, CHI 96",Chicago Bulls,Philadelphia 76ers,20190406,Philadelphia 76ers,116,Chicago Bulls,96,No
+401071868,"TOR 117, MIA 109 (OT)",Toronto Raptors,Miami Heat,20190407,Toronto Raptors,117,Miami Heat,109,Yes
+401071869,"SA 112, CLE 90",Cleveland Cavaliers,San Antonio Spurs,20190407,San Antonio Spurs,112,Cleveland Cavaliers,90,No
+401071870,"OKC 132, MIN 126",Minnesota Timberwolves,Oklahoma City Thunder,20190407,Oklahoma City Thunder,132,Minnesota Timberwolves,126,No
+401071871,"CHA 104, DET 91",Detroit Pistons,Charlotte Hornets,20190407,Charlotte Hornets,104,Detroit Pistons,91,No
+401071872,"BKN 108, IND 96",Indiana Pacers,Brooklyn Nets,20190407,Brooklyn Nets,108,Indiana Pacers,96,No
+401071873,"DAL 129, MEM 127 (OT)",Memphis Grizzlies,Dallas Mavericks,20190407,Dallas Mavericks,129,Memphis Grizzlies,127,No
+401071874,"HOU 149, PHX 113",Houston Rockets,Phoenix Suns,20190407,Houston Rockets,149,Phoenix Suns,113,Yes
+401071875,"MIL 115, ATL 107",Milwaukee Bucks,Atlanta Hawks,20190407,Milwaukee Bucks,115,Atlanta Hawks,107,Yes
+401071876,"ORL 116, BOS 108",Boston Celtics,Orlando Magic,20190407,Orlando Magic,116,Boston Celtics,108,No
+401071877,"NY 113, WSH 110",New York Knicks,Washington Wizards,20190407,New York Knicks,113,Washington Wizards,110,Yes
+401071878,"GS 131, LAC 104",Golden State Warriors,LA Clippers,20190407,Golden State Warriors,131,LA Clippers,104,Yes
+401071879,"POR 115, DEN 108",Portland Trail Blazers,Denver Nuggets,20190407,Portland Trail Blazers,115,Denver Nuggets,108,Yes
+401071880,"NO 133, SAC 129",Sacramento Kings,New Orleans Pelicans,20190407,New Orleans Pelicans,133,Sacramento Kings,129,No
+401071881,"LAL 113, UTAH 109",Los Angeles Lakers,Utah Jazz,20190407,Los Angeles Lakers,113,Utah Jazz,109,Yes
+401071882,"CHA 124, CLE 97",Cleveland Cavaliers,Charlotte Hornets,20190409,Charlotte Hornets,124,Cleveland Cavaliers,97,No
+401071883,"DET 100, MEM 93",Detroit Pistons,Memphis Grizzlies,20190409,Detroit Pistons,100,Memphis Grizzlies,93,Yes
+401071884,"BOS 116, WSH 110",Washington Wizards,Boston Celtics,20190409,Boston Celtics,116,Washington Wizards,110,No
+401071885,"MIA 122, PHI 99",Miami Heat,Philadelphia 76ers,20190409,Miami Heat,122,Philadelphia 76ers,99,Yes
+401071886,"NY 96, CHI 86",Chicago Bulls,New York Knicks,20190409,New York Knicks,96,Chicago Bulls,86,No
+401071887,"TOR 120, MIN 100",Minnesota Timberwolves,Toronto Raptors,20190409,Toronto Raptors,120,Minnesota Timberwolves,100,No
+401071888,"GS 112, NO 103",New Orleans Pelicans,Golden State Warriors,20190409,Golden State Warriors,112,New Orleans Pelicans,103,No
+401071889,"DAL 120, PHX 109",Dallas Mavericks,Phoenix Suns,20190409,Dallas Mavericks,120,Phoenix Suns,109,Yes
+401071890,"UTAH 118, DEN 108",Utah Jazz,Denver Nuggets,20190409,Utah Jazz,118,Denver Nuggets,108,Yes
+401071891,"OKC 112, HOU 111",Oklahoma City Thunder,Houston Rockets,20190409,Oklahoma City Thunder,112,Houston Rockets,111,Yes
+401071892,"POR 104, LAL 101",Los Angeles Lakers,Portland Trail Blazers,20190409,Portland Trail Blazers,104,Los Angeles Lakers,101,No
+401071893,"IND 135, ATL 134",Atlanta Hawks,Indiana Pacers,20190410,Indiana Pacers,135,Atlanta Hawks,134,No
+401071894,"BKN 113, MIA 94",Brooklyn Nets,Miami Heat,20190410,Brooklyn Nets,113,Miami Heat,94,Yes
+401071895,"ORL 122, CHA 114",Charlotte Hornets,Orlando Magic,20190410,Orlando Magic,122,Charlotte Hornets,114,No
+401071896,"DET 115, NY 89",New York Knicks,Detroit Pistons,20190410,Detroit Pistons,115,New York Knicks,89,No
+401071897,"PHI 125, CHI 109",Philadelphia 76ers,Chicago Bulls,20190410,Philadelphia 76ers,125,Chicago Bulls,109,Yes
+401071898,"MEM 132, GS 117",Memphis Grizzlies,Golden State Warriors,20190410,Memphis Grizzlies,132,Golden State Warriors,117,Yes
+401071899,"OKC 127, MIL 116",Milwaukee Bucks,Oklahoma City Thunder,20190410,Oklahoma City Thunder,127,Milwaukee Bucks,116,No
+401071900,"SA 105, DAL 94",San Antonio Spurs,Dallas Mavericks,20190410,San Antonio Spurs,105,Dallas Mavericks,94,Yes
+401071901,"DEN 99, MIN 95",Denver Nuggets,Minnesota Timberwolves,20190410,Denver Nuggets,99,Minnesota Timberwolves,95,Yes
+401071902,"LAC 143, UTAH 137 (OT)",LA Clippers,Utah Jazz,20190410,LA Clippers,143,Utah Jazz,137,Yes
+401071903,"POR 136, SAC 131",Portland Trail Blazers,Sacramento Kings,20190410,Portland Trail Blazers,136,Sacramento Kings,131,Yes
+401163114,"HOU 109, LAC 96",LA Clippers,Houston Rockets,20191003,Houston Rockets,109,LA Clippers,96,No
